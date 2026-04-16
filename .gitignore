@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+node_modules/
+data/raw/*.csv
+data/raw/*.xml
+data/raw/payment_standards.json
+data/raw/parsed_rules.json
+.claude/
