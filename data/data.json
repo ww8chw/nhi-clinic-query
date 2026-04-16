@@ -3,7 +3,15 @@
     "version": "0.1.0",
     "updated_at": "2026-04-16",
     "source": "健保署支付標準 + 門診常見規定整理（種子版）",
-    "disclaimer": "本資料為初版人工整理，代碼與點數以健保署官方公告為準。申報前請至 info.nhi.gov.tw/INAE5000/INAE5001S01 查核。"
+    "disclaimer": "本資料為初版人工整理，代碼與點數以健保署官方公告為準。申報前請至 info.nhi.gov.tw/INAE5000/INAE5001S01 查核。",
+    "eligibility_default": "診斷符合 + 頻率在規定內即可申報（無需加入特殊計畫）",
+    "eligibility_legend": {
+      "default": "診斷符合 + 頻率在規定內即可申報",
+      "p4p": "需加入論質計酬計畫才能申報（照護費類）",
+      "cert": "需醫師具特定訓練認證",
+      "program": "需該機構與健保署簽約之公費計畫",
+      "prior": "需事前審查 / 事前報備"
+    }
   },
   "items": [
     {
@@ -595,7 +603,9 @@
       "frequency_days": 180,
       "indications": ["K70", "K74", "B18", "K80", "K81", "R10", "C22", "N28"],
       "indication_desc": "慢性肝炎、肝硬化、肝癌篩檢、膽石症、腹痛",
-      "notes": "B/C 肝追蹤肝癌建議每 6 個月 US + AFP。需具超音波訓練資格。",
+      "notes": "B/C 肝追蹤肝癌建議每 6 個月 US + AFP。",
+      "eligibility": "cert",
+      "eligibility_desc": "執行醫師需具超音波專業訓練證書（各專科學會認證）",
       "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
     },
     {
@@ -603,7 +613,7 @@
       "code": "19009C",
       "name_zh": "甲狀腺超音波",
       "name_en": "Thyroid Ultrasound",
-      "aliases": ["Thyroid US", "甲狀腺超音波"],
+      "aliases": ["Thyroid US", "甲狀腺超音波", "頸部超音波"],
       "category": "imaging",
       "subcategory": "影像 / 超音波",
       "points": 560,
@@ -612,6 +622,8 @@
       "indications": ["E04", "E05", "E06", "C73", "D34"],
       "indication_desc": "甲狀腺結節、腫大、亢進/低下、甲狀腺癌追蹤",
       "notes": "健保不給付健康檢查；需有甲狀腺相關診斷。",
+      "eligibility": "cert",
+      "eligibility_desc": "執行醫師需具超音波專業訓練證書",
       "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
     },
     {
@@ -628,6 +640,8 @@
       "indications": ["N63", "N60", "C50", "D24"],
       "indication_desc": "乳房腫塊、乳房纖維囊腫、乳癌追蹤",
       "notes": "40 歲以下年輕女性優於乳房 X 光攝影。",
+      "eligibility": "cert",
+      "eligibility_desc": "執行醫師需具超音波專業訓練證書",
       "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
     },
     {
@@ -644,6 +658,26 @@
       "indications": ["I50", "I35", "I42", "I11", "I25", "I48"],
       "indication_desc": "心衰竭、瓣膜病變、心肌病變、高血壓性心臟病、心律不整",
       "notes": "需心臟科醫師或具 echo 訓練醫師執行。",
+      "eligibility": "cert",
+      "eligibility_desc": "執行醫師需具心臟超音波訓練證書（心臟學會認證）",
+      "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
+    },
+    {
+      "id": "19020C",
+      "code": "19020C",
+      "name_zh": "其他超音波",
+      "name_en": "Other Ultrasound",
+      "aliases": ["其他 US", "Other US", "盆腔超音波", "陰囊超音波", "肌肉骨骼超音波", "軟組織超音波", "關節超音波", "Pelvic US", "Scrotal US", "MSK US"],
+      "category": "imaging",
+      "subcategory": "影像 / 超音波",
+      "points": 560,
+      "frequency": "依臨床需要",
+      "frequency_days": 90,
+      "indications": ["N40", "N44", "N45", "N83", "R19.0", "R22", "M25", "M79", "S86"],
+      "indication_desc": "盆腔 / 泌尿生殖（攝護腺、陰囊）/ 肌肉骨骼 / 軟組織腫塊 / 關節積液等",
+      "notes": "涵蓋腹部、甲狀腺、乳房、心臟超音波以外之部位。各部位實際代碼可能不同（如 19007C 盆腔、19013C 淋巴結等），請以健保署最新支付標準查詢為準。",
+      "eligibility": "cert",
+      "eligibility_desc": "執行醫師需具超音波專業訓練證書",
       "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
     },
     {
@@ -713,17 +747,52 @@
     {
       "id": "50013C",
       "code": "50013C",
-      "name_zh": "傷口縫合 (< 5 公分)",
-      "name_en": "Suture (<5 cm)",
-      "aliases": ["Suture", "縫合"],
+      "name_zh": "淺部傷口縫合 (< 5 公分)",
+      "name_en": "Superficial Suture (<5 cm)",
+      "aliases": ["Suture", "縫合", "淺部縫合", "皮膚縫合", "表層縫合"],
       "category": "procedure",
       "subcategory": "處置 / 傷口",
       "points": 500,
       "frequency": "依臨床需要",
       "frequency_days": 1,
       "indications": ["S01", "S11", "S21", "S31", "S41", "S51", "S61", "S71", "S81", "S91"],
-      "indication_desc": "各部位裂傷需縫合",
+      "indication_desc": "各部位皮膚 / 皮下淺層裂傷需縫合",
+      "notes": "僅縫合皮膚層 (單層縫合)。需記錄部位、長度、縫針數。",
+      "eligibility": "default",
+      "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
+    },
+    {
+      "id": "50014C",
+      "code": "50014C",
+      "name_zh": "淺部傷口縫合 (5-10 公分)",
+      "name_en": "Superficial Suture (5-10 cm)",
+      "aliases": ["中型縫合", "淺部縫合"],
+      "category": "procedure",
+      "subcategory": "處置 / 傷口",
+      "points": 800,
+      "frequency": "依臨床需要",
+      "frequency_days": 1,
+      "indications": ["S01", "S11", "S21", "S31", "S41", "S51", "S61", "S71", "S81", "S91"],
+      "indication_desc": "中型淺層裂傷需縫合",
       "notes": "需記錄部位、長度、縫針數。",
+      "eligibility": "default",
+      "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
+    },
+    {
+      "id": "50016C",
+      "code": "50016C",
+      "name_zh": "深部傷口縫合",
+      "name_en": "Deep Tissue Suture",
+      "aliases": ["Deep suture", "深層縫合", "皮下組織縫合", "肌層縫合", "雙層縫合"],
+      "category": "procedure",
+      "subcategory": "處置 / 傷口",
+      "points": 900,
+      "frequency": "依臨床需要",
+      "frequency_days": 1,
+      "indications": ["S01", "S11", "S21", "S31", "S41", "S51", "S61", "S71", "S81", "S91"],
+      "indication_desc": "傷口深及皮下組織、筋膜、肌肉；需分層縫合",
+      "notes": "【必要條件】傷口深度達皮下組織或更深，且執行雙層/分層縫合 (皮下 + 皮膚)。病歷需明確記錄傷口深度、層次、縫合方式。涉及肌腱、神經修補另有專屬代碼，不在此範圍。實際代碼請以健保署最新支付標準查詢為準。",
+      "eligibility": "default",
       "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
     },
     {
@@ -740,6 +809,8 @@
       "indications": ["E10", "E11", "E13", "E14"],
       "indication_desc": "納入糖尿病論質計酬計畫 (P4P) 個案",
       "notes": "需申報加入 DM 照護網；有年度初審、期中、年末、季度照護費等多項代碼。詳見健保署 P4P 指引。",
+      "eligibility": "p4p",
+      "eligibility_desc": "必須先加入「糖尿病醫療給付改善方案（DM 論質計酬 / 照護網）」；未加入計畫者，僅能申報 HbA1c、血糖等一般檢驗代碼，無法申報本項照護費",
       "source_url": "https://www.nhi.gov.tw/ch/lp-4352-1.html"
     },
     {
@@ -756,6 +827,8 @@
       "indications": ["I10", "I11", "I12", "I13", "I15"],
       "indication_desc": "納入高血壓論質計酬計畫個案",
       "notes": "需申報加入 HTN 照護網。",
+      "eligibility": "p4p",
+      "eligibility_desc": "必須先加入「高血壓醫療給付改善方案（HTN 論質計酬）」；未加入計畫者僅能申報一般血壓量測與相關檢驗代碼",
       "source_url": "https://www.nhi.gov.tw/ch/lp-4352-1.html"
     },
     {
@@ -771,7 +844,9 @@
       "frequency_days": 1,
       "indications": ["F17", "Z72.0"],
       "indication_desc": "尼古丁依賴、吸菸行為",
-      "notes": "二代戒菸補助：需醫師受訓認證；8 週或 8 次療程；藥物（尼古丁貼片/口含錠/bupropion/varenicline）依計畫補助。",
+      "notes": "二代戒菸補助：8 週或 8 次療程；藥物（尼古丁貼片/口含錠/bupropion/varenicline）依計畫補助。",
+      "eligibility": "cert",
+      "eligibility_desc": "執行醫師需完成「二代戒菸治療認證課程」並取得認證編號；機構需與國健署簽約並設戒菸門診",
       "source_url": "https://health.hpa.gov.tw/hpa/info/news_detail.aspx"
     },
     {
@@ -852,6 +927,8 @@
       "indications": ["Z00", "Z13"],
       "indication_desc": "健康檢查、慢性病篩檢",
       "notes": "公費項目，含血糖、血脂、肝腎、尿液、BMI、腰圍、BP、憂鬱/菸酒檢測。未達間隔自費。",
+      "eligibility": "program",
+      "eligibility_desc": "機構需與國健署簽約成人預防保健；年齡/性別/間隔符合才能執行公費",
       "source_url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=189&pid=1139"
     },
     {
@@ -868,6 +945,8 @@
       "indications": ["Z12.11"],
       "indication_desc": "大腸癌篩檢",
       "notes": "公費項目。陽性者應安排大腸鏡。",
+      "eligibility": "program",
+      "eligibility_desc": "機構需與國健署簽約大腸癌篩檢；年齡/間隔符合才能執行公費",
       "source_url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=621&pid=1198"
     },
     {
@@ -884,6 +963,8 @@
       "indications": ["Z12.4"],
       "indication_desc": "子宮頸癌篩檢",
       "notes": "公費項目。",
+      "eligibility": "program",
+      "eligibility_desc": "機構需與國健署簽約該項癌症篩檢；年齡/性別/間隔符合才能執行公費",
       "source_url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=621&pid=1198"
     },
     {
@@ -900,6 +981,8 @@
       "indications": ["Z12.31"],
       "indication_desc": "乳癌篩檢",
       "notes": "公費項目；年輕女性（< 40）建議超音波。",
+      "eligibility": "program",
+      "eligibility_desc": "機構需與國健署簽約乳癌篩檢；年齡/間隔符合才能執行公費",
       "source_url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=621&pid=1198"
     },
     {
@@ -916,7 +999,43 @@
       "indications": ["Z11.59"],
       "indication_desc": "B / C 型肝炎篩檢",
       "notes": "公費；包含 HBsAg + Anti-HCV。陽性者健保給付後續追蹤。",
+      "eligibility": "program",
+      "eligibility_desc": "機構需與國健署簽約肝炎篩檢；年齡符合且終生尚未做過公費篩檢",
       "source_url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=621&pid=1198"
+    },
+    {
+      "id": "57021C",
+      "code": "57021C",
+      "name_zh": "鼻腔沖洗",
+      "name_en": "Nasal Irrigation / Nasal Lavage",
+      "aliases": ["Nasal irrigation", "Nasal lavage", "鼻沖洗", "洗鼻", "鼻腔灌洗"],
+      "category": "procedure",
+      "subcategory": "處置 / 耳鼻喉",
+      "points": 70,
+      "frequency": "依臨床需要，每次就診 1 次",
+      "frequency_days": 1,
+      "indications": ["J00", "J01", "J30", "J31", "J32", "J33", "J34.2", "J34.3"],
+      "indication_desc": "急性鼻咽炎、急性/慢性鼻竇炎、過敏性鼻炎、鼻瘜肉、鼻中膈彎曲",
+      "notes": "基層耳鼻喉科常見處置。以生理食鹽水或鼻用沖洗液沖洗鼻腔/鼻竇引流分泌物。多次急性鼻竇炎發作或慢性鼻竇炎為常見申報情境。【注意】健保支付標準上若無鼻腔黏液抽吸/沖洗專屬代碼，可能以「55003C 鼻分泌物抽吸」或「55XXX 鼻腔處置」系列申報；實際代碼與點數請以健保署最新查詢為準。",
+      "eligibility": "default",
+      "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
+    },
+    {
+      "id": "55003C",
+      "code": "55003C",
+      "name_zh": "鼻腔分泌物抽吸",
+      "name_en": "Nasal Suction",
+      "aliases": ["Nasal suction", "吸鼻涕", "鼻腔抽吸", "抽鼻涕"],
+      "category": "procedure",
+      "subcategory": "處置 / 耳鼻喉",
+      "points": 60,
+      "frequency": "依臨床需要，每次就診 1 次",
+      "frequency_days": 1,
+      "indications": ["J00", "J01", "J30", "J31", "J32", "J06", "J20"],
+      "indication_desc": "鼻咽炎、鼻竇炎、過敏性鼻炎、上/下呼吸道感染伴鼻分泌物",
+      "notes": "耳鼻喉 / 兒科門診常見。用於清除鼻腔黏液以緩解鼻塞、促進引流。與鼻腔沖洗同次可否併計以健保審查為準。",
+      "eligibility": "default",
+      "source_url": "https://info.nhi.gov.tw/INAE5000/INAE5001S01"
     }
   ],
   "diagnoses": [

@@ -112,12 +112,22 @@ const CATEGORY_BADGE = {
   procedure: { label: '處置', cls: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300' },
 };
 
+const ELIGIBILITY_BADGE = {
+  p4p:     { label: '需加入計畫', cls: 'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-200', icon: '📋' },
+  cert:    { label: '需特殊資格', cls: 'bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-200', icon: '🎓' },
+  program: { label: '公費計畫', cls: 'bg-teal-100 text-teal-700 dark:bg-teal-900/40 dark:text-teal-200', icon: '🛡️' },
+  prior:   { label: '需事前審查', cls: 'bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-200', icon: '⏱' },
+};
+
 function itemCard(it) {
   const badge = CATEGORY_BADGE[it.category] || { label: it.category, cls: 'bg-slate-100 text-slate-700' };
   const fav = state.favorites.has(it.id);
   const freq = it.frequency ? `<span class="text-xs px-2 py-0.5 rounded-full bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-200">⏱ ${escapeHtml(it.frequency)}</span>` : '';
   const pts = Number(it.points) > 0 ? `<span class="text-xs px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-700">💰 ${it.points} 點</span>` : `<span class="text-xs px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-700">公費 / 特殊</span>`;
   const code = it.code && it.code !== '-' ? `<code class="text-xs font-mono px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-700">${escapeHtml(it.code)}</code>` : '';
+  const elig = it.eligibility && ELIGIBILITY_BADGE[it.eligibility]
+    ? `<span class="text-xs px-2 py-0.5 rounded-full ${ELIGIBILITY_BADGE[it.eligibility].cls}" title="${escapeHtml(it.eligibility_desc || '')}">${ELIGIBILITY_BADGE[it.eligibility].icon} ${ELIGIBILITY_BADGE[it.eligibility].label}</span>`
+    : '';
   return `
     <article class="card p-4 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:border-brand-500 dark:hover:border-brand-500 cursor-pointer shadow-sm" data-id="${it.id}">
       <div class="flex items-start justify-between gap-3">
@@ -130,7 +140,7 @@ function itemCard(it) {
           <h3 class="font-semibold text-base truncate">${escapeHtml(it.name_zh)}</h3>
           <p class="text-sm text-slate-500 truncate">${escapeHtml(it.name_en || '')}</p>
           <div class="mt-2 flex flex-wrap items-center gap-1.5">
-            ${pts} ${freq}
+            ${pts} ${freq} ${elig}
           </div>
         </div>
         <button class="fav-btn p-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 shrink-0" title="${fav ? '取消釘選' : '釘選最愛'}" data-id="${it.id}">
@@ -199,6 +209,20 @@ function openModal(id) {
     ? `<div class="flex flex-wrap gap-1">${it.aliases.map(a => `<span class="text-xs px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-700">${escapeHtml(a)}</span>`).join('')}</div>`
     : '';
 
+  const eligInfo = it.eligibility && ELIGIBILITY_BADGE[it.eligibility] ? ELIGIBILITY_BADGE[it.eligibility] : null;
+  const eligBlock = eligInfo
+    ? `<div class="p-3 rounded-lg border ${eligInfo.cls.replace(/bg-\S+/g,'').replace(/text-\S+/g,'')} border-current">
+        <div class="text-xs text-slate-500 mb-1">申報條件</div>
+        <div class="flex items-center gap-2 mb-1">
+          <span class="text-xs px-2 py-0.5 rounded-full ${eligInfo.cls}">${eligInfo.icon} ${eligInfo.label}</span>
+        </div>
+        <div class="text-sm leading-relaxed">${escapeHtml(it.eligibility_desc || '')}</div>
+      </div>`
+    : `<div class="p-3 rounded-lg bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 text-sm">
+        ✅ <span class="font-medium">診斷符合 + 頻率在規定內即可申報</span>
+        <div class="text-xs text-slate-500 mt-0.5">無需額外加入計畫或特殊資格</div>
+      </div>`;
+
   $('#modalBody').innerHTML = `
     <div class="grid grid-cols-2 gap-3 text-sm">
       <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-900/60">
@@ -210,6 +234,7 @@ function openModal(id) {
         <div class="font-semibold">${escapeHtml(it.frequency || '—')}</div>
       </div>
     </div>
+    ${eligBlock}
     <div>
       <div class="text-xs text-slate-500 mb-1">類別</div>
       <div class="text-sm">${escapeHtml(it.subcategory || '')}</div>
