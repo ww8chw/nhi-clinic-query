@@ -1,0 +1,242 @@
+第九節 石膏繃帶 P.P Cast & Splint(95001-95023)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+95001C
+石膏固定，手、腕、踝、足 
+P.P cast, hand,wrist, ankle, foot
+註：手指、腳趾(finger, toe)比照申報
+v
+v
+v
+v
+517
+
+石膏固定 P.P cast
+
+
+
+
+
+95002C
+－短臂short arm
+v
+v
+v
+v
+861
+95003C
+－長臂long arm
+v
+v
+v
+v
+1223
+95004C
+－短腿short leg
+v
+v
+v
+v
+1120
+95005C
+－長腿long leg
+v
+v
+v
+v
+1809
+
+步行石膏固定 Walking cast
+
+
+
+
+
+95006C
+－短short
+v
+v
+v
+v
+1421
+95007C
+－長long
+v
+v
+v
+v
+2067
+95008C
+圓筒石膏固定 Cylinder cast
+v
+v
+v
+v
+1654
+95009B
+肩人形石膏固定 Shoulder spica
+
+v
+v
+v
+2498
+95010B
+股軀人形石膏固定 Hip spica
+
+v
+v
+v
+2843
+95011B
+軀部石膏固定 Body cast
+
+v
+v
+v
+2756
+95012B
+膝腱石膏固定 PTB cast
+
+v
+v
+v
+1723
+95013C
+石膏副木固定，指、趾 P.P splint,finger or toe
+註：踝(ankle)比照
+v
+v
+v
+v
+345
+
+石膏副木固定 P.P splint
+
+
+
+
+
+95014C
+－短臂short arm
+v
+v
+v
+v
+775
+95015C
+－長臂long arm
+v
+v
+v
+v
+1120
+95016C
+－短腿short leg
+v
+v
+v
+v
+948
+95017C
+－長腿long leg
+v
+v
+v
+v
+1378
+95018B
+Halo式固定及軀部石膏固定
+Halo type fixation & body cast
+
+v
+v
+v
+3101
+95019C
+石膏切開，開窗 Cast spliting, bivalve
+v
+v
+v
+v
+172
+95020C
+石膏楔形矯正 Cast wedging
+v
+v
+v
+v
+861
+95021C
+石膏拆除 Cast removal
+v
+v
+v
+v
+172
+95022C
+骨骼牽引網線拆除  
+Removal of pins or wires (for skeletal traction)
+v
+v
+v
+v
+560
+95023C
+膝蓋可動性石膏固定
+Cast brace of knee
+v
+v
+v
+v
+2067
+
+
+
+
+
+
+
+
+
+- 第二部第二章第九節 -  PAGE 1 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

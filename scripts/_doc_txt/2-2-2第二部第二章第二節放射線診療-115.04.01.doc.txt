@@ -1,0 +1,2495 @@
+第二節  放射線診療  X-RAY
+
+通則：
+一、放射線診療之費用，依第一項各項目所定點數或依第二項所定點數核給之。
+二、第一項各診療項目所定點數，包括所需之X光底片，顯影、定影、速洗、造影技術費，造影藥劑費、機器耗損、電費、片整理、判讀及手術等之費用。
+三、於施行特殊造時，如併行普通檢查時，不得加算普通檢查費用。
+四、急診病人之加成規範：下列二款，擇一申報：
+(一)急診病人因緊急傷病必需立即檢查時，其檢查費用得按本節所定點數加計百分之二十。
+(二)符合重大外傷之急診病人，且緊急執行33075B或33144B診療項目者：
+1.二小時以內執行，得按本節所定點數加計百分之百；大於二小時至四小時以內執行，得按本節所定點數加計百分之六十。
+2.重大外傷係指主診斷為：
+(1)ICD-10-CM：T07.XXXA。
+(2)ICD-10-CM：S00-S01、S03-S11、S13-S17、S19-S21、S23-S51、S53-S61、S63-S71、S73-S81、S83-S91、S93-S99、T79（前述第七位碼皆應為"A"）。
+(3)ICD-10-CM：S02、S12、S22、S32、S42、S62、S92、S99（前述第七位碼皆應為"A"或"B"）。
+(4)ICD-10-CM：S52、S72、S82（前述第七位碼皆應為"A"或"B"或"C"）。
+(5)體表面積>20%之重大燒傷，且主診斷碼(ICD-10-CM)為T31.20-T31.99、T20.30XA-T20.39XA、T20.70XA-T20.79XA、T32.20-T32.99、T26.00XA-T26.92XA。
+3.本項加成獎勵費用優先分配於第一線執行人員，並每年提報獎勵費用之運用情形予保險人分區業務組。
+五、X光片子與紀錄之保留，請依醫療法規定辦理。
+六、本節所謂兒童加成項目分為：
+(一)兒童加成項目：病人年齡未滿六個月者，依表定點數加計百分之六十；年齡在六個月以上至未滿二歲者，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之二十。
+(二)提升兒童加成項目：病人年齡未滿六個月者，依表定點數加計百分之百；年齡在六個月以上至未滿二歲者，依表定點數加計百分之八十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之六十。
+
+
+
+
+
+第一項      X光檢查費  X-Ray  Examination
+通則：本項各檢查項目皆為兒童加成項目，另部分診療項目項下加註「提升兒童加成項目」者，其加成率適用本節通則六、(二)之規定。
+
+一、普通檢查 General X-Ray  Examination (32001-32026)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+32001C
+胸腔檢查（包括各種角度部位之胸腔檢查）
+Chest view (including each view of chest film)
+v
+v
+v
+v
+200
+32002C
+註：連續拍照第二張以上者，第一張 200點，第二張以後一律八折支付，點數為 160點。
+v
+v
+v
+v
+160
+32003C
+胸腔後前位及兩側斜位檢查（鋇餐）
+Chest P - A and both oblique view (with bariummeal) 
+v
+v
+v
+v
+600
+32004C
+胸鎖關節檢查，單側
+Sternoclavicular joint; one side 
+v
+v
+v
+v
+200
+32005C
+胸鎖關節檢查，雙側
+Sternoclavicular joint; both side 
+v
+v
+v
+v
+360
+32006C
+腎臟、輸尿管、膀胱檢查 K.U.B. examination 
+v
+v
+v
+v
+200
+32007C
+腹部檢查（包括各種姿勢之腹部檢查）
+Plain abdomen (including each position of plain abdomen) 
+v
+v
+v
+v
+200
+32008C
+註：連續拍照第二張以上者，第一張 200點，第
+    二張以後一律八折支付，點數為 160點。
+v
+v
+v
+v
+160
+32009C
+頭顱檢查（包括各種角度部位之頭顱檢查） 
+Skull film (including each view of skull film)
+v
+v
+v
+v
+200
+32010C
+註：連續拍照第二張以上者，第一張 200點，第二張以後一律八折支付，點數為 160點。
+v
+v
+v
+v
+160
+32011C
+脊椎檢查（包括各種角度部位之頸椎、胸椎、腰椎、薦椎、尾骨及薦髂關節等之檢查） 
+Spine view (including each view of cervica lspine, thoracic spine, lumbar spine, sacrum, coccyx and sacroiliac joint test)  
+v
+v
+v
+v
+250
+32012C
+註：連續拍照第二張以上者，第一張 250點，第二張以後一律八折支付，點數為 200點。            
+v
+v
+v
+v
+200
+32013C
+肩部骨頭及關節檢查（包括各種角度與部位之檢查）
+View of bone and joint of shoulder (including each view of shoulder film) 
+v
+v
+v
+v
+200
+32014C
+註：連續拍照第二張以上者，第一張 200點，第二張以後一律八折支付，點數為 160點。
+v
+v
+v
+v
+160
+32015C
+上肢骨各處骨頭及關節檢查（包括各種角度與部位之檢查）
+View of bone and joint of upper extremities (including each view of film) 
+v
+v
+v
+v
+200
+32016C
+註：連續拍照第二張以上者，第一張 200點，第二張以後一律八折支付，點數為 160點。
+v
+v
+v
+v
+160
+32017C
+下肢骨各處骨頭及關節檢查（包括各種角度與部位之檢查） 
+View of bone and joint of lower extremities (including each view of film) 
+v
+v
+v
+v
+200
+32018C
+註：連續拍照第二張以上者，第一張 200點，第二張以後一律八折支付，點數為 160點。
+v
+v
+v
+v
+160
+32019C
+關節測量術 Scanography
+註：股骨及下腿前後像。
+v
+v
+v
+v
+450
+32020C
+分層關節測量術 Split scanography
+註：包括關節測量。
+v
+v
+v
+v
+630
+32021B
+長骨普查攝影 Long bone survey 
+註：包括肱骨、前臂股骨、下腿前後像、脊椎、骨盆及顱骨之檢查。
+
+v
+v
+v
+1500
+32022C
+骨盆及髖關節檢查（包括各種角度與部位之檢查）
+View of pelvis and hip joint (including each side) 
+v
+v
+v
+v
+200
+32023C
+註：連續拍照第二張以上者，第一張 200點，第二張以後一律八折支付，點數為 160點。
+v
+v
+v
+v
+160
+32024C
+骨盆測量術 pelvimetry 
+v
+v
+v
+v
+390
+32025B
+骨骼關節之壓抑攝影術 Stress view of bone joint
+
+v
+v
+v
+165
+32026C
+Ｘ-光透視攝影 Fluoroscopy
+v
+v
+v
+v
+200
+
+二、特殊造影檢查Scanning (33001-33147、P2101-P2104)
+通則：
+編號P2101C至P2104C適用下列規定：
+(1)	保險對象經醫師診治因病情需要，得由第二次處方院所檢具「全民健康保險特殊造影檢查影像及報告申請同意書」向原檢查醫院申請特殊造影檢查影像報告，以供診斷疾病之參考，若參考後仍重新施行檢查，則不得申報本項費用。本項申請程序、同意書格式、受理與回饋及作業流程圖等全民健康保險特殊造影檢查影像及報告申請作業說明，請至保險人全球資訊網(網址http://www.nhi.gov.tw)下載，資料路徑如下：首頁  > 健保表單下載 > 醫療相關表單> 特殊造影檢查影像及報告申請(原特定檢查資源共享試辦計畫)。
+(2)	原檢查醫院提供特殊造影檢查影像及報告費，所訂點數包含檢查報告、製作影像、傳輸影像、造影複製片、X光底片、行政管理及郵寄等費用在內；第二次處方院所申請特殊造影檢查影像及報告費，所訂點數除鼓勵資源共享外，並包含影像下載、診斷判定費、底片整理及相關行政等費用在內。
+(3)	保險對象特殊造影檢查影像及報告於原檢查醫院及第二次處方院所間之提供與申請，以乙次為限；病人自行攜帶複製片，經第二次處方院所使用並作成診斷報告，給予第二次處方院所申請特殊造影檢查影像及報告費。
+(4)	影像之提供得以PACS(Picture Archiving and Communication System，影像儲存及傳輸管理系統)、中央主管機關之全國醫療影像交換中心或複製片等方式提供。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+支氣管造影術 Bronchography
+
+
+
+
+
+33001B
+－ 單側one side 
+
+v
+v
+v
+2660
+33002B
+－ 雙側both side
+
+v
+v
+v
+3750
+
+註：包括內視鏡費用在內。
+
+
+
+
+
+33003B
+選擇性支氣管造影術 Selective bronchography
+
+v
+v
+v
+3400
+
+註：包括內視鏡費用在內。
+
+
+
+
+
+33004B
+食道造影術 Esophagography 
+
+v
+v
+v
+600
+33005B
+乳房造影術 Mammography
+
+v
+v
+v
+1245
+33006B
+上消化道攝影（食道、胃、十二指腸）
+Upper G-I series
+
+v
+v
+v
+1445
+33007B
+低漲性十二指腸造影術 Hypotonic duodenography
+
+v
+v
+v
+1170
+33008B
+小腸系統 Small bowel series (intestine) 
+
+v
+v
+v
+1470
+33009B
+上胃腸與小腸系統
+Upper G-I and small bowel series
+
+v
+v
+v
+2915
+33010B
+大腸造影術 Lower G-I series (colon) 
+
+v
+v
+v
+1230
+33011B
+雙重對比大腸造影術
+Double - contrast study of lower G-I series 
+
+v
+v
+v
+2365
+33012B
+靜脈注射泌尿系統造影術(點滴注射)
+Intravenous urography (I.V.P.)(or infusion IVP)
+
+v
+v
+v
+1445
+
+註：包括加解後造影術及快速系列including post-voiding and rapid sequence I.V.P. 。
+
+
+
+
+
+
+逆行性腎盂造影術 Retrograde pyelography (R.P.)
+
+
+
+
+
+33013B
+－ 單側 one side
+
+v
+v
+v
+1500
+33014B
+－ 雙側 both side 
+
+v
+v
+v
+1950
+
+註：包括鏡檢費在內。
+
+
+
+
+
+33015B
+膀胱造影術 Cystography
+
+v
+v
+v
+660
+
+註：人工膀胱造影術比照申報。
+
+
+
+
+
+33016B
+尿道排泄造影術 Voiding urethrocystography 
+
+v
+v
+v
+750
+33017B
+膀胱放置鏈條造影術 Chain cystography
+
+v
+v
+v
+750
+33018B
+腹膜後充氣造影術 Pneumoretroperitoneum (P.R.P)
+
+v
+v
+v
+1020
+33019B
+順行性腎盂造影術 Antegrade pyelography
+
+v
+v
+v
+2100
+33020B
+口服膽囊造影術
+Oral cholecystography (O.C./ O.G.T) 
+
+v
+v
+v
+1350
+33021B
+靜脈注射膽道、膽囊造影術
+I.V. choledochocystography
+
+v
+v
+v
+2000
+33022B
+插入 T型管子膽囊造影術 T-tube cholecystography
+
+v
+v
+v
+820
+33023B
+開刀時膽管 X光造影法 Operative cholangiography
+
+v
+v
+v
+1000
+33024B
+逆行性膽道及胰管造影 E.R.C.P. (Endoscopic retrograde cholangiopancreatography)
+註：1.含膽道鏡費用在內。
+2.內含一般材料費及單一使用之拋棄式導引線或雙頭導線及拋棄式內視鏡造影導管費用。
+
+v
+v
+v
+15043
+33025B
+經皮穿肝膽管造影術 P.T.C. (Percutaneous transhepatic cholangiography) 
+
+v
+v
+v
+3150
+33026B
+經皮穿肝膽管引流術 P.T.C.D. (Percutaneous transhepatic
+ cholangiography-drainage ) 
+
+v
+v
+v
+9600
+33027B
+經皮穿肝膽管引流修正術 P.T.C.D. revision
+
+v
+v
+v
+1200
+33028B
+癭管造影術 Fistulography
+註：病灶造影術比照申報。
+
+v
+v
+v
+1020
+33029B
+子宮輸卵管造影 Hysterosalpingography (H.S.G)
+
+v
+v
+v
+1400
+33030B
+術中胰臟 X光造影術 Operative pancreatography
+
+v
+v
+v
+1400
+33031B
+尿道造影術 Urethrography
+
+v
+v
+v
+750
+33032B
+皮下穿刺腎造廔術
+P.C.N. (Percutaneous nephrostomy) 
+註：單側。
+
+v
+v
+v
+7500
+33033B
+內視鏡逆行胰液引流術 
+E.R.P.D. (Endoscopic retrograde  pancrea drainage)
+註：
+1.包括鏡檢費在內。
+2.內含單次使用消化道導引線、導線/導線蓋和鎖比率為百分之七十六。
+
+v
+v
+v
+14718
+33034B
+腦蛛膜下腔注氣造影 
+P.E.G./PVG Pneumoence-phalography (Pneumoventriculography)
+註：單純 X光攝影
+
+v
+v
+v
+600
+33035B
+鼻咽道造影 Nasopharyngography 
+
+v
+v
+v
+1540
+33036B
+喉部造影 Laryngography
+
+v
+v
+v
+2000
+
+唾液腺造影 Sialography
+
+
+
+
+
+33037B
+－ 單側 one side
+
+v
+v
+v
+1000
+33038B
+－ 雙側 both side 
+
+v
+v
+v
+1800
+33039B
+眼眶靜脈造影 Orbitovenography 
+
+v
+v
+v
+800
+33040B
+淚囊造影術 Dacryocystography
+
+v
+v
+v
+685
+
+頸動脈造影 Common carotid artery
+
+
+
+
+
+33041B
+－ 單側 one side
+
+v
+v
+v
+7500
+33042B
+－ 雙側 both side 
+
+v
+v
+v
+11250
+
+註：包括總頸動脈 (common carotid)、內頸動脈 (internal carotid) 或外頸動脈 (external carotid) 均比照申報。
+
+
+
+
+
+33043B
+椎動靜脈造影 Vertebral angiography
+
+v
+v
+v
+4830
+33044B
+脊椎動靜脈造影 Spinal angiography 
+
+v
+v
+v
+10000
+
+主動靜脈造影 Aortography
+
+
+
+
+
+33045B
+－胸腔主動靜脈 Thoracic aortography
+
+v
+v
+v
+4830
+33086B
+－腹腔主動靜脈 Abdominal aortography
+
+v
+v
+v
+4830
+33087B
+－兩項同時實施時以此項申報
+
+v
+v
+v
+6500
+
+內臟血管造影 Visceral angiography
+
+
+
+
+
+33046B
+－ 一條血管 one vessel
+
+v
+v
+v
+7500
+33088B
+－ 二條血管 two vessels 
+
+v
+v
+v
+11250
+33089B
+－ 三條血管以上 over two vessels
+
+v
+v
+v
+15000
+
+註：肝動脈攝影 Hepatic angiography、上腸系膜動脈攝影Superior mesenteric arteriography、脾動脈攝影 Splenic arteriography、下腸系膜動脈攝影 Inferior mesenteric arterio graphy、左胃動脈攝影Left gastric ang-iography比照申報，胃十二指腸動脈攝影 Gastroduodenal arteriography、橫膈下動脈攝影 Inferior phrenic arteriograp。 
+
+
+
+
+
+33047B
+腎動靜脈造影 Renal angiography
+註：包括單雙側。
+
+v
+v
+v
+4830
+33048B
+四肢血管造影  Angiography of extremity
+註：不得同時申報33097B。
+
+v
+v
+v
+7500
+33049B
+順行性靜脈 X光攝影 Antegrade venography
+註：不得同時申報33097B及18047B。
+
+v
+v
+v
+6000
+33050B
+逆行性靜脈 X光攝影 Retrograde venography
+註：不得同時申報33097B。
+
+v
+v
+v
+6000
+33051B
+脾靜脈肝門脈造影 Splenoportography
+
+v
+v
+v
+5600
+33052B
+輸精管造影 Seminovasculography, (SVG) 
+
+v
+v
+v
+1180
+33053B
+淋巴管造影 Lymphangiography 
+
+v
+v
+v
+5200
+33054B
+脊髓造影－頸椎 Cervical spine myelography
+
+v
+v
+v
+2100
+33055B
+脊髓造影－胸椎 Thoracic spine myelography
+
+v
+v
+v
+2100
+33056B
+脊髓造影－腰椎 Lumber spine myelography
+
+v
+v
+v
+2100
+33057B
+脊髓造影－頸椎+胸椎或胸椎+腰椎兩段造影
+Two segmental myelography
+
+v
+v
+v
+2835
+33058B
+脊髓造影－全部 Whole spine myelography
+
+v
+v
+v
+3800
+
+頸靜脈造影 Jugular venography 
+
+
+
+
+
+33059B
+－ 單側 one side
+
+v
+v
+v
+4830
+33060B
+－ 雙側 both side 
+
+v
+v
+v
+6650
+33061B
+骨盤動脈造影 Pelvic angiography 
+
+v
+v
+v
+4830
+33062B
+鎖骨下血管造影 Subclavian angiography 
+
+v
+v
+v
+4830
+33063B
+關節造影術 Arthrography 
+
+v
+v
+v
+1800
+33064B
+雙能量X光骨質密度檢查 
+Dual-energy X-ray absorptiometry, DXA
+註：
+1.適應症如下：
+(1)內分泌失調可能加速骨質流失者：
+A.副甲狀腺機能過高須接受治療者。
+B.腎上腺皮質過高者。
+C.腦下垂體機能不全影響鈣代謝者。
+D.甲狀腺機能亢進症者。
+E.醫源性庫興氏症候群者。
+F.四十歲以上全身性類固醇持續使用三個月以上且Prednisolone每日劑量≧10mg或equivalent之紅斑性狼瘡病人。
+(2)非創傷性之骨折者。
+(3)停經後婦女及五十歲以上接受骨質疏鬆症追蹤治療（符合全民健康保險藥物給付項目及支付標準第六編第八十三條之藥品給付規定第5節5.6骨質疏鬆症治療藥物）者。
+(4)攝護腺癌病人在接受男性賀爾蒙阻斷治療前與治療後，得因病情需要施行骨質密度檢查。
+(5)	乳癌病人在接受Aromatase Inhibitors治療前與治療後，因病情需要施行骨質密度檢查。
+(6)	成骨不全症。
+2.支付規範：
+(1)符合前述第(1)至(5)項適應症者，因病情需要再次施行骨質密度檢查時，間隔時間應為二年以上，且是項檢查以三次為限。
+(2)符合前述第(6)項適應症者，因病情需要再次施行骨質密度檢查時，間隔時間應為一年以上。
+3.篩檢性檢查不列入本保險給付範圍。
+
+v
+v
+v
+600
+33065B
+電子造影 
+Xerography 
+
+v
+v
+v
+1620
+33066B
+斷層攝影術 (每張)
+Tomography (each) 
+
+v
+v
+v
+200
+
+電腦斷層造影
+Computed tomography (C. T.)
+
+
+
+
+
+33070B
+－無造影劑 without contrast 
+
+v
+v
+v
+3800
+33071B
+－有造影劑 with contrast
+
+v
+v
+v
+4560
+33072B
+－有/無造影劑 with/without contrast 
+
+v
+v
+v
+5035
+
+註：申報費用時應檢附報告。
+
+
+
+
+
+P2101C
+電腦斷層造影原檢查醫院提供特殊造影檢查影像及報告費。
+
+v
+v
+v
+1340
+P2103C
+電腦斷層造影第二次處方院所申請特殊造影檢查影像及報告費。
+
+v
+v
+v
+1340
+33073B
+肺動脈造影 
+Pulmonary angiography
+
+v
+v
+v
+4800
+
+註：支氣管動脈攝影 Bronchial angiography，比照申報。 
+
+
+
+
+
+33074B
+
+
+33115B
+單純性血管整形術
+P.T.A. (percutaneous transluminal angioplasty): simple 
+複雜性血管整形術
+P.T.A. (percutaneous transluminal angioplasty): complex
+
+
+
+
+v
+
+
+v
+v
+
+
+v
+v
+
+
+v
+10800
+
+
+20250
+
+註：
+1.應有血管造影設備並報經保險人同意後實施。
+2.本項費用已包括選擇性血管造影(Including selective angiography)。
+3.施行33074B或33115B「單純性/複雜性血管整形術」原則上應已含括33048B「四肢血管造影」及33062B「鎖骨下血管造影」（不得同時併報），惟如因病情需要屬不同側時，得分別申報，其他特殊案例，則由專業審查認定。
+
+
+
+
+
+
+
+4.血管數計算方式：
+(1)動脈：
+A.上肢分為五部分（鎖骨下動脈、腋臂動脈、橈動脈、尺動脈、手部動脈），每部分算同一條血管。
+B.下肢分六部分（腸骨動脈、股膕動脈、前脛動脈、後脛動脈、腓腸骨動脈、足部動脈），每部分算同一條血管。
+C.動脈同一條血管內多處病灶，仍算同一條血管。
+D.33074B係指一條動脈血管之治療，33115B係指二條動脈血管（含）以上之治療。
+(2)靜脈：
+A.上肢分為二部位（前臂上臂靜脈、鎖骨下及頭臂靜脈）。
+B.下肢分為二部位（小腿大腿靜脈、腸骨靜脈）。
+C.33074B係指一部位靜脈血管之治療，33115B係指二部位靜脈血管之治療。
+(3)血管吻合處同動脈段或靜脈段（如動靜脈瘻管），仍算同一條血管。
+(4)若同時執行一條動脈及同一部位靜脈之血管整形術（非血管吻合處同動脈段或靜脈段），以33115B申報。
+5.提升兒童加成項目。
+6.施行本項原則上含括33048B及33062B，相同部位不得同時申報33097B、33133B、33147B。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33075B
+血管阻塞術 T.A.E.(trans-arterial embolization)
+註：
+1.應有血管造影設備並報經保險人同意後實施。
+2.包括選擇性血管造影、診斷性血管造影及當日血管阻塞術後追蹤造影。
+3.不得同時申報33097B。
+
+v
+v
+v
+22000
+
+經皮冠狀動脈擴張術
+Percutaneous coronary dilatation
+
+
+
+
+
+33076B
+－ 一條血管 one vessel
+
+v
+v
+v
+46200
+33077B
+－ 二條血管 two vessels 
+
+v
+v
+v
+63000
+33078B
+－ 三條血管 three vessels 
+註：
+1.應有血管造影設備並報經保險人同意後實施。
+2.包括選擇性血管造影 (Including selective angiography)。
+3.包括材料費。
+4.適應症如下：
+(1)心絞痛或其他冠狀動脈心臟病症狀經藥物治療後效果不佳者。
+(2)血管狹窄70%(含)以上者。
+(3)狹窄部份為血管近端、左前降枝、左迴旋枝或右冠狀動脈。
+
+v
+v
+v
+79800
+
+(4)左冠狀動脈主幹狹窄50%(含)以上者。
+(5)血管經PCI後Restenosis50%(含)以上者。
+5.同次住院施行經皮冠狀動脈擴張術且同時或分段做「診斷性心導管檢查」者，以申報經皮冠狀動脈擴張術及一次心導管(18020B或18021B)為原則，惟病人因顯影劑或X光輻射用量限制、急性血栓或遲發性併發症等原因需執行二次以上，第二次起應於病歷詳細敘明執行原因。
+6.本項目所訂點數包含冠狀動脈造影(18022B)及冠狀動脈血管內超音波(18043B)。
+
+
+
+
+
+33079B
+主動脈氣球裝置術 
+Intra aorta balloon insertion
+
+v
+v
+v
+4536
+33081B
+食道狹窄氣球擴張術Esophageal balloon dilatation
+註：提升兒童加成項目。
+
+v
+v
+v
+1445
+33082B
+小腸系列對比劑檢查 
+Double contrast small bowel series」 ( enteroclysis, S.B enema )
+
+v
+v
+v
+1470
+33083B
+經皮穿肝膽道取石攝影術 PTCD-stone removal 
+註：經T-tube 取石比照申報。
+
+v
+v
+v
+3100
+
+磁振造影 Magnetic resonance imaging
+
+
+
+
+
+33084B
+－無造影劑 without contrast 
+
+v
+v
+v
+6500
+33085B
+－有造影劑 with contrast
+
+v
+v
+v
+11500
+
+註：
+1.本項須限經保險人同意之醫療院所實施。
+2.申報費用時必須附上報告結果。
+
+
+
+
+
+P2102C
+磁振造影原檢查醫院提供特殊造影檢查影像及報告費
+
+v
+v
+v
+2445
+P2104C
+磁振造影第二次處方院所申請特殊造影檢查影像及報告費
+
+v
+v
+v
+2445
+33090B
+使用低滲透壓或非離子性含碘對比劑
+註：
+1.本項適用於電腦斷層造影及血管造影。
+2.本項不得加計加成。
+
+v
+v
+v
+920
+
+不整脈經導管燒灼術 
+Transcatheter Radiofrequency Ablation for Arrhythmia
+
+
+
+
+
+33091B
+－2-D定位 2D Mapping
+
+v
+v
+v
+39299
+
+－複雜3-D立體定位 3D Mapping
+
+
+
+
+
+33139B
+單腔 Single Chamber  
+
+v
+v
+v
+45109
+33140B
+雙腔 Double Chamber
+
+v
+v
+v
+49177
+
+註：
+1.施行本項之醫院及醫師資格如下：
+
+
+
+
+
+
+(1)醫院資格：
+A.須具有心臟外科醫師支援之醫院。
+B.須具備完善之心導管透視機、電生理檢查紀錄儀、電生理刺激器、高頻幅釋出機、心臟去顫器等。
+(2)醫師資格：
+具中華民國心臟學會專科醫師，曾接受一年完整之臨床電生理及不整脈經導管燒灼術之訓練，且至少完成五十例以上不整脈經導管燒灼術之經驗，其完成之病例數須經中華民國心臟學會審核認定。
+(3)醫院及主持醫師資格有變更時應重新報保險人核備。
+2.施行本項之適應症如下：
+(1) 2-D立體定位：經心電圖及心臟電氣生理檢查經證實為室上頻脈(supraventricular tachycardia)。
+(2)複雜3-D立體定位：複雜性不整脈包括心房頻脈、「非」典型性心房撲動、心房顫動、心室不整脈等。
+3.本項目所訂點數包含心導管置入及造影、冠狀動脈及冠狀竇造影、燒灼前後完整之電氣生理檢查、心律不整燒灼定位、心律不整燒灼、血壓及心電圖監視、一般材料費等費用。
+4.醫院申請醫療費用時應一併檢附心臟電氣生理檢查證實為室上頻脈且確實施行本處置之相關資料。
+5.若術後三十天（含）內復發並再次使用者，按所訂支付點數之一半支付。
+6.提升兒童加成項目。
+
+
+
+
+
+33092B
+腸套疊透視灌腸復位
+Fluoroscopic reduction of intussusception
+
+v
+v
+v
+2915
+33093B
+雙側腎靜脈血液抽取術
+Bilateral reno-venous sampling
+
+v
+v
+v
+4000
+33095B
+經皮腎造廔引流管重置術(重置經皮腎造廔引流管)
+Revision of percutaneous nephrostomy tube(Pigtail)
+註：PCN特材請依實際使用核實申報。      
+
+v
+v
+v
+1200
+33096B
+螢光透視吞嚥錄影攝影檢查
+Swallowing video fluorography
+註：申報費用時應檢附檢查報告。
+
+v
+v
+v
+1540
+33097B
+數位減像血管攝影(靜脈) IV-DSA
+註：
+1.適應症：
+(1)肝靜脈壓力梯度測量（HVPG）。
+(2)直接肝門靜脈攝影。
+(3)軀幹深層動靜脈畸形。
+(4)腎靜脈、卵巢靜脈病變診斷。
+2.一年至多申報二次，若有特殊情況需增加執行次數，應於病歷記載適應症並檢附相關資料佐證。
+3.同一部位已做導管介入治療者，不得申報本項。
+4.不得同時申報33048B、33049B、33050B、33074B、33115B、33075B。
+
+v
+v
+v
+11250
+33098B
+氙氣電腦斷層腦血流測定
+Xenon CT for cerebral blood flow measurement
+註：
+1.適應症：　
+(1)可能產生腦缺血之病變，例如腦血管狹窄、腦缺血、毛毛樣病，腦動靜畸形，腦血管攣縮等。
+(2)正壓水腦症、部分失智症。
+2.不可重覆申報26049B核子斷層檢查術SPECT之腦血流測定。
+
+v
+v
+v
+7500
+33099B
+經皮輸尿管內管置放術
+Percutaneous placement of ureter stent
+
+v
+v
+v
+6000
+33100B
+經皮穿肝脾門脈攝影及靜脈血抽檢
+Percutaneous splenoportal venography and venous sampling
+
+v
+v
+v
+5600
+33101B
+性腺靜脈攝影(單側)
+Gonadal venography, unilateral
+
+v
+v
+v
+4830
+33102B
+性腺靜脈攝影(兩側)
+Gonadal venography, bilateral
+
+v
+v
+v
+6650
+33103B
+電腦斷層導引下組織切片,取樣剛針
+CT Guide biopsy
+註：
+1.須檢附報告  
+2.該次不得再申報一次同部位CT費用。
+
+v
+v
+v
+3800
+33104B
+肺靜脈造影 Direct pulmonary venography
+
+v
+v
+v
+4800
+33105B
+腸胃道出血栓塞治療
+(G-I Bleeding embolisation)
+註：包括選擇性血管造影術、血管阻塞術、器材材料費及局部麻醉費，同時不可加報其他血管攝影費用。
+
+v
+v
+v
+10800
+33106B
+經皮穿刺膽囊引流術
+Percutaneous gall bladder drainage 
+註：施行過程中使用之超音波或透視Ｘ光不得另行申報。
+
+v
+v
+v
+4320
+33107B
+經皮內視鏡胃造瘻管替換術
+Replacement of percutaneous endoscopic gastrostomy
+註：提升兒童加成項目。
+
+v
+v
+v
+2094
+33108B
+經皮內視鏡胃造瘻術
+P.E.G(percutaneous endoscopic gastrostomy)
+註：
+1.限腦血管意外或車禍之植物人，須長年使用鼻胃管者。
+2.其他病變導致病患須長年使用鼻胃管者。
+3.本案不須事前專案申請，但申報費用時請附事前審查申報書及病歷摘要。 
+4.提升兒童加成項目。
+
+v
+v
+v
+2750
+33110B
+放射線下經皮穿刺輸尿管成形術
+Percutaneous ureteroplasty
+
+v
+v
+v
+12100
+33111B
+放射線下經皮穿刺取出斷裂輸尿管內管
+Percutaneous retrieval of ureteral stent
+
+v
+v
+v
+10832
+33112B   
+經由心導管治療直徑小於2.0mm之開放性動脈導管 
+Transcatheter closure of patent ductus arteriosus <2.0mm
+註：
+1.施行本項之醫院及醫師資格如下：
+(1)醫院資格：
+A.具臨床心臟外科設備。
+B.具心臟內、外科醫師人力。
+(2)醫師資格：具中華民國小兒心臟科專科醫師資格，且接受至少二年心導管經驗。
+(3)須報經保險人同意後實施，且醫院及主持醫師資格有變更時應重新報保險人同意。
+2.適應症：
+限開放性動脈導管之直徑小於2.0mm，無合併主動脈縮窄及肺高血壓症者。
+3.禁忌症：
+(1)合併不可逆之肺高血壓。
+(2)早產兒體重低於七百公克。
+(3)同時合併全身性感染者。
+4.提升兒童加成項目。
+
+v
+v
+v
+20250
+
+33114B    
+經由心導管治療直徑2.0mm以上之開放性動脈導管 
+Transcatheter closure of patent ductus arteriosus≧2.0mm
+註：
+1.施行本項之醫院及醫師資格如下：
+(1)醫院資格：
+A.具臨床心臟外科設備。
+B.具心臟內、外科醫師人力。
+(2)醫師資格：具中華民國小兒心臟科專科醫師資格，且接受至少二年心導管經驗。
+(3)須報經保險人同意後實施，且醫院及主持醫師資格有變更時應重新報保險人同意。
+2.適應症：
+限開放性動脈導管之直徑2.0mm以上，無合併主動脈縮窄及肺高血壓症者。
+3.禁忌症：
+(1)嚴重肺高血壓導致右至左分流。
+(2)早產兒體重低於七百公克。 
+(3)同時合併全身性感染者。
+4.提升兒童加成項目。
+
+v
+v
+v
+20250
+33116B
+經導管心室中膈缺損修補
+Transcatheter Closure of Ventricular Septal Defect
+註：
+1.適應症：心室中膈缺損病人（含心肌梗塞後）。
+2.內含一般材料費及圈套器取回套組（Snare）費比率為百分之四十。
+
+v
+v
+v
+65011
+33113B    
+經頸靜脈肝內門脈系統靜脈分流術
+Transjugular Intrahepatic Portosystemic Shunt
+註：
+1.施行本項之醫院及醫師資格如下：
+(1)具放射線專科醫師且實際從事介入性放射線治療之主治醫師以上資格。
+(2)施行醫師應接受二年以上肝膽系統之血管攝影及血管系統之介入性放射線醫療訓練。
+(3)須報經保險人同意後實施，且醫院及主持醫師資格有變更時應重新報保險人核備。
+2.施行本項之適應症如下，並應由醫院申報事前審查：
+(1)經內視鏡或內科治療無法控制之急性或再發之胃、食道靜脈曲張出血。
+(2)經積極內科治療無改善之肝硬化合併大量腹水導致併發腎衰竭或電解質不平衡等。
+(3)Budd-chiar syndrome。
+3.RTPS/RUPS組另計。
+4.本項治療屬於替代性或選擇性之第二線治療方式。
+
+v
+v
+v
+31570
+33125C
+乳房攝影立體定位組織切片術
+Mammography sterotactic biopsy
+註：含乳房攝影。
+v
+v
+v
+v
+3000
+33126B
+經皮椎體成形術(第一節)
+Percutaneous vertebroplasty (1st vertebra)
+註：
+1.病人因病情需要，取部分組織進行化驗，得併報29032B、29033B或33103B，並於病歷敘明理由。
+2.不得同時申報64144B。
+
+v
+v
+v
+16356
+33127B
+經皮椎體成形術(第二節以上，每一節)
+Percutaneous vertebroplasty (any vertebra after the first)
+
+v
+v
+v
+5231 
+33128B
+頭頸部血管支撐架置放術(一條血管)
+Stenting for head & neck vessel (one vessel)
+註：特材另計。
+
+v
+v
+v
+10800 
+33129B
+Amplatzer 心房中膈缺損關閉器治療中膈缺損
+Amplatzer septal occluder (ASO)
+註：提升兒童加成項目。
+
+v
+v
+v
+20250 
+33130B
+經皮穿腔靜脈過濾裝置置放術
+Percutaneous transluminal deployment of veinous device
+
+v
+v
+v
+16200 
+33131B
+經皮導管血管內\心臟內異物移除術 (適用於留置異物處血管大小直徑為 > 7 mm者)
+Percutaneous transluminal catheter retrieval of vascular/intracardiac foreign body (For the vessel diameter where the foreign body stands > 7 mm)
+註：
+1.因遺失或移位而造成之血管內或心臟內異物。
+2.各種材質之診斷性或治療性器械，導管或導絲因斷落、掉落或移位而留置於血管或心臟內所形成之異物，需移除或取出至體外者。由於各類夾取器之實際選擇尚得考量待取出異物之大小、長度、材質及材料硬度，本項目使用時機原則如下：適合使用於留置異物處血管大小直徑為 > 7 mm之異物夾取器(如 standard、6-7 Fr.等型號)。
+3.提升兒童加成項目。
+4.含一般材料費及單一使用拋棄式之心臟血管異物取出器。
+
+v
+v
+v
+31874 
+33132B
+氣管支架置放術
+註：
+1.含麻醉費，特材費另計。
+2.提升兒童加成項目。
+
+v
+v
+v
+12000
+33133B
+單純性周邊血管支架置放術
+Stenting for peripheral vessels, artery and vein：simple
+
+v
+v
+v
+12948
+33147B
+複雜性周邊血管支架置放術
+Stenting for peripheral vessels, artery and vein：complex
+
+v
+v
+v
+24278
+
+註：
+1.應有血管造影設備並報經保險人同意後實施。
+2.本項費用已包括選擇性血管造影(Including selective angiography)、診斷性血管造影及當日術後追蹤造影。
+3.如因病情需要屬不同側時，或屬同側之特殊案例，得分別申報，須於病歷註明原因，由專業審查認定。
+4.血管數計算方式：
+(1)動脈：
+A.上肢分為四部分（鎖骨下動脈、腋臂動脈、橈動脈、尺動脈），每部分算同一條血管。
+B.下肢分六部分（腸骨動脈、股膕動脈、前脛動脈、後脛動脈、腓腸骨動脈、足部動脈），每部分算同一條血管。
+
+
+
+
+
+
+C.動脈同一條血管內多處病灶，仍算同一條血管。
+D.33133B係指一條動脈血管之治療，33147B係指二條動脈血管以上之治療。
+(2)靜脈：
+A.上肢分為三部位(上腔靜脈、鎖骨下靜脈、頭臂靜脈)。
+B.下肢分為三部位（大腿靜脈、腸骨靜脈、下腔靜脈）。
+C.33133B係指一條靜脈血管之治療，33147B係指二條靜脈血管以上之治療。
+(3)排除洗腎瘻管。
+(4)若同時執行一條動脈及同一部位靜脈之血管支架置放術（非血管吻合處同動脈段或靜脈段），以「複雜性周邊血管支架置放術」申報。
+5.施行本項原則上含括33048B及33062B，相同部位不得同時申報33097B、33074B、33115B。
+
+
+
+
+
+33135B
+經皮導管血管內\心臟內異物移除術 (適用於留置異物處血管大小直徑為 ≤ 7 mm者)
+Percutaneous transluminal catheter retrieval of vascular/intracardiac foreign body (For the vessel diameter where the foreign body stands ≤ 7 mm)
+註：
+1.因遺失或移位而造成之血管內或心臟內異物。
+2各種材質之診斷性或治療性器械，導管或導絲因斷落、掉落或移位而留置於血管或心臟內所形成之異物，需移除或取出至體外者。由於各類夾取器之實際選擇尚得考量待取出異物之大小、長度、材質及材料硬度，本項目使用時機原則如下：適合使用於留置異物處血管大小直徑為 ≤ 7 mm之異物夾取器(如 mini、micro、3Fr.等型號)。
+3.提升兒童加成項目。
+4.含一般材料費及單一使用拋棄式之心臟血管異物取出器。
+
+v
+v
+v
+37443
+33141B
+左心耳閉合術 
+Left Atrial Appendage occusion
+註：
+1.適應症：非瓣膜性心房顫動且臨床危險因子符合應使用抗凝血劑治療，同時有下列二者之一：
+(1)無法長期使用抗凝血劑治療。
+(2)使用抗凝血劑治療下仍有全身性栓塞症。
+2.醫師條件：
+(1)須具心臟專科醫師資格。
+(2)須具心房中膈穿刺經驗十五例以上。
+(3)須有國內、外專家指導下親自操作經驗五例以上。
+3.醫院條件：需有心導管室設備同時具有心臟內科訓練機構資格及專任心臟外科專科醫師即時支援。
+4.禁忌症：
+(1)心臟超音波影像(echocardiographic imaging)發現心腔內血栓。
+(2)左心耳(LAA)解剖構造不適合。
+5.不得同時申報之診療項目及編號：29031B「心房中膈穿刺術」、18033B「經食道超音波心圖T.E.E」及18026B「心室造影」。
+
+v
+v
+v
+28636
+33142B
+膠囊內視鏡術
+註：
+1.適應症：
+(1)不明原因消化道出血，經二次以上胃鏡及大腸內視鏡檢查仍無法找出出血原因，且經其他影像學檢查(如：CT/MRI，小腸攝影)及小腸內視鏡後或不適合小腸鏡者，仍無法確診者。
+(2)慢性或長期小腸病變患者（如小腸多發性息肉症，克隆氏症，celiac sprue，Behcet’s disease，Henoch-Schonlein purpura）不適合小腸鏡者需以內視鏡診斷或追蹤者。
+(3)兒童未滿十八歲，不明原因消化道出血者，經一次內視鏡及一次大腸內視鏡檢查仍無法找出出血原因，且經其他影像學檢查（如CT/MRI或血管攝影或核子醫學或小腸攝影）仍無法確診者。
+(4)兒童未滿十八歲，慢性或長期小腸病變患者(如小腸多發性息肉症，克隆氏症，celiac sprue，Behcet’s disease，Henoch-Schonlein purpura)。
+2.特殊專科別限制：消化內視鏡專科、兒科消化學專科、消化內視鏡外科。
+3.特殊材料費另計。
+
+v
+v
+v
+18317
+33144B
+血管阻塞術-Lipiodol
+T.A.E.(trans-arterial embolization) –Lipiodol
+註：
+1.適應症：
+(1)HCC conventional TACE。
+(2)Hypervascular tumor TAE。
+(3)Glue embolization for bleeding。
+(4)AVM/AVF embolization。
+2.含一般材料費及Lipiodol。
+
+v
+v
+v
+28591
+33145B
+診斷性乳房攝影
+Diagnostic Mammography
+
+v
+v
+v
+1374
+
+1.適應症：乳房攝影報告（BI-RADS）為0、3、4、5，同時符合下列情形之一者：
+(1)乳房診斷性影像發現乳房攝影微鈣化／鈣化。
+(2)乳房攝影影像發現不對稱、結構扭曲及腫塊。
+2.限放射診斷科專科醫師執行。
+3.執行頻率：每人每年限執行二次。
+
+
+
+
+
+33117B
+冠狀動脈旋磨斑塊切除術
+Coronary artery rotational artherectomy
+註：
+1.適應症需符合下列條件之一：
+(1)因嚴重鈣化造成非順應性球囊擴張不良，可能導致支架置放無法良好張開和貼壁。
+(2)用於冠狀動脈介入治療中，當導引導絲通過病灶後，但球囊或其它導管醫材仍無法通過病灶。
+(3)用於冠狀動脈介入治療中，面對分叉病變，因開口嚴重鈣化，球囊擴張或是支架置放後，可能造成分支阻塞。
+2.執行頻率：每人每次住院限申報一次。
+3.醫師資格：
+(1)心臟內科、心臟外科醫師。
+(2)執行冠狀動脈成形術一百五十例以上臨床經驗，且曾任冠狀動脈旋轉研磨鑽用於經皮下冠狀動脈血管擴張術之第一助手訓練，及參與實際操作至少十例以上之臨床經驗。
+(3)完成中華民國心臟學會、臺灣介入性心臟血管醫學會辦理之冠狀動脈旋磨訓練課程，持有證明文件。
+(4)執行本項之醫師條件應向保險人申請同意。
+4.申報時應檢附資料：
+(1)本次經皮冠狀動脈擴張術前病灶之清晰影像照片。
+(2)本次冠狀動脈擴張術中使用與血管直徑比值一比一之氣球嘗試擴張後仍無法擴張之病灶影像照片。
+(3)旋磨切除術前後，植入支架前後之血管腔內影像照片。
+
+v
+v
+v
+8320
+33146B
+磁振造影使用Primovist造影劑加計
+Primovist for magnetic resonance imaging – additional payment
+註：
+1.適用範圍應符合下列任一條件：
+(1)肝癌高危險病人（含肝癌根除性治療後）合併AFP>100ng/ml，或AFP>20ng/ml且一年內呈現二倍以上上升趨勢，或PIVKA-II（>40mAU/mL或>28.4ng/mL）腫瘤標記上升，惟超音波、電腦斷層未偵測到肝癌。
+(2)肝硬化或肝癌經治療後病人，電腦斷層顯示疑似肝腫瘤，但無法確診或排除肝癌。
+2.每年以申報一次為限。
+3.本項適用於磁振造影。
+4.本項不適用其他加成。
+5.限放射診斷專科醫師執行。
+
+v
+v
+v
+5686
+
+第二項　癌症(腫瘤)治療 Cancer Therapy
+
+一、放射線治療 Radiation Therapy (36001-36027)
+通則：申報費用應附治療紀錄表。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+36001B
+電腦治療規劃--簡單
+Computerized treatment planning—simple
+註：指使用電腦軟體計算放射治療劑量之給予，劑量之驗証等規劃。
+
+v
+v
+v
+3309
+36015B
+電腦治療規劃--複雜
+Cumputerized treatment planning—complex
+註：
+1.指使用三度空間電腦軟體做放射治療之設計，包括順形放射治療、強度調控放射治療、立體定位放射治療等技術，以至近接治療之規劃等。
+2.需附治療計劃。
+
+v
+v
+v
+11483
+36019B
+劑量計算　Dosimetry
+註：每週最多一次。
+
+v
+v
+v
+301
+36002B
+驗証片(每張)　Verification film(each)
+
+v
+v
+v
+396
+36004B
+放射照野片一張 Portal film
+
+v
+v
+v
+518
+36005B
+放射照野片二張 Portal film
+
+v
+v
+v
+709
+36006B
+鈷六十遠隔治療—每一簡單照野 
+Cobalt 60 teletherapy—each portal,simple
+註：治療照野為規則形狀，沒有使用合金模塊，多葉式準直儀，楔形濾板，補償濾片及填充物等。
+
+v
+v
+v
+880
+36009B
+鈷六十遠隔照射治療 — 每一複雜照野Cobalt 60 teletherapy, each portal,complicated
+註：治療照野為不規則形狀，有使用合金模塊，多葉式準直儀，楔形濾板，補償濾片及填充物等。
+
+v
+v
+v
+983
+36010B
+鈷六十遠隔照射治療，每一緊急照野
+Emergent cobalt 60 teletherapy, each portal 
+
+v
+v
+v
+1180
+36011B
+直線加速器遠隔照射治療，每一簡單照野
+Linear accelerator teletherapy, each simple portal
+註：
+1.以光子 photon 或電子 electron。
+2.治療照野為規則形狀，沒有使用合金模塊，多葉式準直儀，楔形濾板，補償濾片及填充物等。
+
+v
+v
+v
+1231
+36012B
+直線加速器遠隔照射治療，每一複雜照野
+Linear accelerator teletherapy, each complex portal
+註：
+1.以光子 photon 或電子 electron。
+2.治療照野為不規則形狀，有使用合金模塊，多葉式準直儀，楔形濾板，補償濾片及填充物等。
+
+v
+v
+v
+1334
+36020B
+直線加速器半體放射治療
+Linear accelator hemi-body irradiation
+
+v
+v
+v
+1334
+36013B
+直線加速器遠隔照射治療，每一緊急照野
+Emergent linear accelerator teletherapy, each portal
+註：
+1.以光子 photon 或電子 electron。
+2.治療照野為不規則形狀，有使用合金模塊，多葉式準直儀，楔形濾板，補償濾片及填充物等。
+
+v
+v
+v
+1601
+36014B
+全身放射線治療(一療程) Total body irradiation 
+註：
+1.限骨髓移植病人。
+2.申報費用須檢附報告。
+3.療程需包括36001B、36015B電腦治療規劃及36019B劑量計算；36004B、36005B放野照射片；37013B合金模塊之設計及製作。
+
+v
+v
+v
+60641
+36016B
+血品放射線處理
+Blood products irradiation
+註：限下列情況使用：
+1.胎兒子宮內輸血、新生兒輸血或換血、早產而輸血。
+2.免疫力效能不足、受損、減弱者。
+3.骨髓或周邊血液細胞移植者及其他器官移植者。
+4.血緣關係之親屬捐血。
+5.其他可能因輸血而引起之移植物對抗宿主疾病者GVHD)。
+
+v
+v
+v
+540
+36017B
+血品急診放射線處理
+Emergency blood products irradiation
+註：限下列情況使用：
+1.胎兒子宮內輸血、新生兒輸血或換血、早產而輸血。
+2.免疫力效能不足、受損、減弱者。
+3.骨髓或周邊血液細胞移植者及其他器官移植者。
+4.血緣關係之親屬捐血。
+5.其他可能因輸血而引起之移植物對抗宿主疾病者GVHD)。
+
+v
+v
+v
+880
+36018B
+模擬定位攝影
+Simulation procedure
+註：不得同時申報36002B。
+
+v
+v
+v
+3619
+36021C
+3D電腦斷層模擬攝影
+註：
+1.適應症：放射治療前所實施之必要檢查及治療設計。
+2.含電腦斷層攝影費用。
+v
+v
+v
+v
+8500
+36022B
+乳癌術後低分次照射合併局部加強照射放射治療
+Hypofractionated irradiation with tumor bed boost
+註：
+1.本療程採包裹給付，如未執行完成療程，則按「規劃療程總次數」計算核扣點數之比例。
+2.不得同時申報項目：33090B、36001B、36002B、36004B、36005B、36011B、36012B、36013B、36015B、36018B、36019B、36020B、36021C、37006B、37013B、37014B、37015B、37016B、37030B、37046B。 
+3.本項原則限國民健康署公告「通過癌症診療品質認證醫院名單」申報，如不符資格之院所，應向保險人提出申請，由台灣乳房醫學會與台灣放射腫瘤醫學會共同訪視認證，檢附學會認證證明始得申報。
+
+v
+v
+v
+279986
+36023B
+乳癌術後低分次照射無合併局部加強照射放射治療
+Hypofractionated irradiation without tumor bed boost
+註：
+1.本療程採包裹給付，如未執行完成療程，則按「規劃療程總次數」計算核扣點數之比例。
+2.不得同時申報項目：33090B、36001B、36002B、36004B、36005B、36011B、36012B、36013B、36015B、36018B、36019B、36020B、36021C、37006B、37013B、37014B、37015B、37016B、37030B、37046B。
+3.本項原則限國民健康署公告「通過癌症診療品質認證醫院名單」申報，如不符資格之院所，應向保險人提出申請，由台灣乳房醫學會與台灣放射腫瘤醫學會共同訪視認證，檢附學會認證證明始得申報。
+
+v
+v
+v
+246960
+36024B
+直腸癌術前低分次放射治療
+Rectal cancer preoperative intensity-modulated hypofractionated radiotherapy
+註：
+1.適應症：
+(1)AJCC臨床分期大於等於T3、骨盆腔淋巴結陽性（N+）之直腸惡性腫瘤（C20）或直腸乙狀結腸連接處惡性腫瘤（C19）。
+(2)AJCC臨床分期T1N0或T2N0之下段直腸（距肛緣5cm以內）惡性腫瘤。
+2.支付規範：
+(1)申報時需於病歷檢附「治療計畫、病理和影像診斷報告」備查。
+(2)本療程採包裹給付，如未執行完全療程，依療程次數五次，按等比例核減點數。
+(3)執行頻率：每人終生限給付一次。
+(4)手術後復發之病人如須再次salvage骨盆腔放射治療，不得執行本項。
+(5)不得同時申報：33090B、36001B、36002B、36004B、36005B、36011B-36013B、36015B、36018B-36020B、36021C、37006B、37013B-37016B、37030B、37046B。
+
+v
+v
+v
+204966
+36025B
+低度生物等效劑量質子放射治療
+Low biological equivalent dose proton radiotherapy
+註：
+1.適用範圍：年齡未滿十九歲病人，且符合下列任一條件者：
+(1)威爾姆氏腫瘤(Wilms' Tumor)、何杰金氏淋巴瘤或神經母細胞瘤，接受治癒性照射劑量。
+(2)非屬上列疾病，以治療所需之生物等效劑量(Biological equivalent dose)於組織或腫瘤對劑量分次之敏感度α/β=10 Gy時小於40 GyE。限ECOG status≦2。
+2.支付規範：
+(1)應事前審查。
+(2)執行頻率：每人每原發性癌症終生限給付一次。
+(3)本療程採包裹給付，如未執行完成療程，則按「規劃療程總次數」計算核扣之比例點數。
+(4)不得同時申報36001B～36024B、37006B～37030B、37046B、37047B。
+
+v
+v
+v
+676111
+36026B
+中度生物等效劑量質子放射治療
+Intermediate biological equivalent dose proton radiotherapy
+註：
+1.適用範圍：年齡未滿十九歲病人，且符合下列任一條件者：
+(1)惡性軟組織肉瘤（除骨肉瘤外）、非何杰金氏淋巴瘤或生殖胚芽瘤(Seminoma or Germinoma)，接受治癒性照射劑量。
+(2)非屬上列疾病，以照射治療所需之生物等效劑量(Biological equivalent dose)於組織或腫瘤對劑量分次之敏感度α/β=10 Gy時大於等於40 GyE而小於72 GyE（限健保申報欄位記載為C、Ph或Pm，且ECOG status≦2)。
+2.支付規範：
+(1)應事前審查。
+(2)執行頻率：每人每原發性癌症終生限給付一次。
+(3)本療程採包裹給付，如未執行完成療程，則按「規劃療程總次數」計算核扣之比例點數。
+(4)不得同時申報36001B～36024B、37006B～37030B、37046B、37047B。
+
+v
+v
+v
+1030540
+36027B
+高度生物等效劑量質子放射治療
+High biological equivalent dose proton radiotherapy
+註：
+1.適用範圍：年齡未滿十九歲病人，且符合下列任一條件者：
+(1)中樞神經腫瘤需實施全顱脊髓照射者，或眼部腫瘤、骨肉瘤接受治癒性照射劑量。
+(2)非屬上列疾病，以治療所需之生物等效劑量(Biological equivalent dose)於組織或腫瘤對劑量分次之敏感度α/β=10 Gy時大於等於72 GyE(限健保申報欄位記載為C或Ph且ECOG status≦2)。
+2.支付規範：
+(1)應事前審查。
+(2)執行頻率：每人每原發性癌症終生限給付一次。
+(3)本療程採包裹給付，如未執行完成療程，則按「規劃療程總次數」計算核扣之比例點數。
+(4)不得同時申報36001B～36024B、37006B～37030B、37046B、37047B。
+
+v
+v
+v
+1266499
+
+二、其他治療方式 Other Therapy (37001~37048)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+37001B
+加熱治療 Hyperthermia 每次
+
+v
+v
+v
+2158
+37002B
+冷凍治療 Cryotherapy每次
+
+v
+v
+v
+800
+37003B
+免疫治療、皮膚試驗（藥費另計）
+Immunotherapy, skin test
+
+v
+v
+v
+40
+37004B
+免疫治療、卡介苗皮膚畫痕治療（藥費另計）
+Immunotherapy, B.C.G scarification
+
+v
+v
+v
+425
+37005B
+腫瘤內化學藥物直接注射　Intratumor chemotherapy
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+361
+37031B
+皮下化學藥物注射　Subcutaneous chemotherapy
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+361
+37032B
+腦室內注射留置器或脊髓腔內化學藥物注射
+Intraventricular reservoir chemotherapy (Intrathecal chemotherapy)
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+1454
+37033B
+肋膜或腹膜腔內化學藥物注射
+Intrapleural or Intraperitoneal chemotherapy
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+1339
+37034B
+動脈血管內化學藥物注射一小時
+Intraarterial chemotherapy ≦ 1 hour
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+1339
+37035B
+動脈血管內化學藥物注射一至四小時
+Intraarterial chemotherapy 1-4 hours
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+1689
+37036B
+動脈血管內化學藥物注射四至八小時
+Intraarterial chemotherapy 4-8 hours
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+2154
+37037B
+動脈血管內化學藥物注射八小時以上
+Intraarterial chemotherapy ＞ 8 hours
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+2707
+37038B
+靜脈血管內化學藥物注射一小時內
+Intravenous chemotherapy≦ 1 hour
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+1031
+37039B
+靜脈血管內化學藥物注射一至四小時
+Intravenous chemotherapy 1-4 hours
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+1234
+37040B
+靜脈血管內化學藥物注射四至八小時
+Intravenous chemotherapy 4-8 hours
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+1858
+37041B
+靜脈血管內化學藥物注射八小時以上
+Intravenous chemotherapy＞ 8 hours
+註：
+1.藥費另計。
+2.兒童加成項目。
+
+v
+v
+v
+2411
+37006B
+橫切面斷層攝影１張
+Transverse tomography (portal)
+
+v
+v
+v
+412
+37007B
+安裝近接治療器(複雜)—每次
+Insertion of applicator for brachytherapy (complex), each time
+註：於手術室或治療室中安裝多管之近接放射治療。
+
+v
+v
+v
+3236
+37008B
+安裝近接治療器(簡單)－每次
+Insertion of applicator for brachytherapy (simple), each time　
+註：於治療室中安裝單管之近接放射治療。
+
+v
+v
+v
+1650
+37010B
+組織插種治療
+Interstital brachytherapy
+註：包括鐳囊、鐳針或其他同位素費用(including radium needle, radium capsula & other sotope)。
+
+v
+v
+v
+5611
+37011B
+特殊模體安裝，每次
+Special mold application for brachytherapy, each time
+
+v
+v
+v
+2977
+37013B
+合金模塊之設計及製作
+Design & formulate of block 
+
+v
+v
+v
+1980
+37046B
+多葉型準直儀合金模塊之設計及製作-每一照野
+註：
+1.不得同時申報37013B「合金模塊之設計及製作」。
+2.每一療程限申報6(含)次以下為原則。
+
+v
+v
+v
+1980
+37014B
+填充模塊之設計及製作
+Design & formulate of bolus 
+
+v
+v
+v
+1349
+37015B
+補償器之設計及製作
+Design & formulate of compensator 
+
+v
+v
+v
+1646
+37016B
+固定模具之設計及製作(大)
+Design & formulate of cast (large)
+註：
+1.胸腔、腹腔、骨盆腔及四肢使用。
+2.包括技術費及材料費在內。
+
+v
+v
+v
+1943
+37030B
+固定模具之設計及製作(小)
+Design & formulate of cast (small)
+註：
+1.頭、頸部使用。
+2.包括技術費及材料費在內。
+
+v
+v
+v
+1657
+37018B
+遙控後荷式近距治療(簡單)—每次
+Remote controled afterloading brachytherapy  － each simple application
+註：
+1.包括劑量術 (dosimetry) 在內。
+2.以遙控後荷治療設備，治療單管之近接治療部位。
+
+v
+v
+v
+4126
+37019B
+遙控後荷式近距治療 (複雜)－ 每次
+Remote controled afterloading brachytherapy  － each complex application 
+註：
+1.包括劑量術 (dosimetry) 在內。
+2.以遙控後荷治療設備，治療多管之近接治療部位。
+
+v
+v
+v
+6600
+37025B
+癌症動脈注射化學療法
+Cancer Intra-arterial Chemotherapy
+
+v
+v
+v
+900
+37026B
+放射治療之皮膚處理(一個療程)
+Skin care during radiotherapy
+註：
+1.以每週為一個療程(含括一週之治療次數)。
+2.申報時須註明所照部位範圍、劑量、次數。
+
+v
+v
+v
+244
+37028B
+三度空間Ｘ光刀立體定位放射手術
+3-Dimensional Stereotactic Radiosurgery with X-knife
+註：
+1.含括一般及特殊材料費。
+2.須符合適用範圍：
+(1)以顱內病灶直徑小於三公分或容積十五立方公分以下之病灶數目小於或等於三處之動靜脈畸型（含腦膜動靜脈瘻管）、聽神經瘤、腦膜瘤、腦下垂體瘤、顱咽管瘤或其他腫瘤(應附相關療效文獻佐證)，或顱內病灶(大小限制同前)數目小於或等於五處之轉移性腦瘤，惟轉移性腎臟細胞瘤及黑色素瘤不受病灶數目限制。且須符合下列條件之一：
+A.曾接受開顱手術，但有殘餘腫瘤或腫瘤復發者。
+B.開顱手術可能造成神經損傷或危險性大者。
+C.有嚴重心肺疾病或其他內科疾病，不適合侵入性手術或全身麻醉者。
+D.轉移性腦瘤，限Karnofsky Performance Scale(KPS) ≧70或ECOG 0-1者，且含其他病灶部位屬少部分惡化者(oligoprogression/惡化病灶總數不超過五個且惡化器官不超過三處）。
+E.海綿狀血管瘤限病灶位於深部腦核或腦幹，曾有出血病史者。
+F.顱內單側小腦橋腦角聽神經瘤寬度小於2.5公分（不含內耳道）者。
+(2)不適用手術或其他傳統治療方式之三叉神經痛。
+3.全部個案須事前專案向保險人申請。
+4.須有專任放射線治療醫師與專任輻射劑量計算人員，並向保險人申請核可實施。
+
+v
+v
+v
+82000
+37029B
+影像導引強度調控X光刀立體定位放射手術
+Image-guided Intensity Modulated Stereotactic Radiosurgery with X-knife
+註：
+1.含括手術技術費、定位技術費、一般材料費及特殊材料費等。
+2.須符合適用範圍：
+(1)以顱內病灶之三度空間直徑不大於3.5×3.5×3.5公分或容積二十立方公分，病灶數目小於或等於三處之動靜脈畸型（含腦膜動靜脈瘻管）、聽神經瘤、腦膜瘤、腦下垂體瘤、顱咽管瘤或其他腫瘤(應附相關療效文獻佐證)、或顱內病灶(大小限制同前)數目小於或等於五處之轉移性腦瘤，惟轉移性腎臟細胞瘤及黑色素瘤不受病灶數目限制。且須符合下列條件之一：
+A.曾接受開顱手術，但有殘餘腫瘤或腫瘤復發者。
+B.開顱手術可能造成神經損傷或危險性大者。
+C.有嚴重心肺疾病或其他內科疾病，不適合侵入性手術或全身麻醉者。
+D.轉移性腦瘤，限Karnofsky Performance Scale(KPS) ≧70或ECOG 0-1者，且含其他病灶部位屬少部分惡化者(oligoprogression/惡化病灶總數不超過五個且惡化器官不超過三處）。
+E.海綿狀血管瘤限病灶位於深部腦核或腦幹，曾有出血病史者。
+F.顱內單側小腦橋腦角之聽神經瘤寬度小於2.5公分（不含內耳道）者。
+(2)不適用手術或其他傳統治療方式之三叉神經痛。
+3.加馬機立體定位放射手術（Stereotactic radiosurgery with γ knife）項目比照申報。
+4.全部個案須事前專案向保險人申請。
+5.須有專任放射線治療醫師與專任輻射劑量計算人員，並向保險人申請核可實施。
+
+v
+v
+v
+153229
+
+肝腫瘤無線頻率電熱療法
+Radiofrequency ablation in hepatic malignancy
+
+
+
+
+
+37042C
+－小於二公分
+v
+v
+v
+v
+7600
+37043C
+－大於二公分(含)至小於四公分
+v
+v
+v
+v
+11400
+37044C
+－大於四公分(含)
+註：
+1.含超音波及電腦斷層費用。
+2.特材另計。
+3.多顆腫瘤依公分數加總結果申報。
+4.無線電頻率燒灼僅使用一針且沒有多次進針，則以37042C申報，二針以37043C申報，三針以37044C申報。
+v
+v
+v
+v
+15200
+37045B
+光動力療法
+Photodynamic therapy (PDT)
+
+v
+v
+v
+11000
+37047B
+身體立體定位放射治療
+Stereotactic body radiation therapy(SBRT)/Stereotactic ablative radiotherapy(SABR)
+註：
+1.施行本項之適用範圍如下：
+(1)原發性肺部單一病灶（且無縱膈腔或鎖骨下窩淋巴轉移）之惡性腫瘤，無合併其他器官之轉移且AJCC分期定義≤ T+N1M0。
+(2)原發性肝臟單一病灶(可為肝細胞癌或肝內膽道癌、攝護腺（限低度與中度復發風險）等惡性腫瘤，無合併其他區域淋巴及遠端器官之轉移（即AJCC分期定義為T+N0M0）。
+(3)寡轉移：同時侵犯≦三種器官及五處病灶之轉移性肝、肺腫瘤，且經腫瘤科醫師評估（每次影像評估惡化之病程變化期間，37047B以申報一次為限）。
+2.ECOG status須≦2（或Karnofsky Performance Scale/KPS≧70），且前項第(1)(2)款須經麻醉科醫師評估、外科醫師會診（附病歷紀錄）或癌症聯合討論會之結論認為不適合接受治癒性切除手術者（附會議紀錄）。另治療肝臟病灶時之肝功能須為Child-Pugh A至B級。
+3.支付規範：
+(1)需事前審查。
+(2)全療程為二週且分次治療以六次為限，採包裹給付，如未執行完全療程，依治療計畫之治療次數按等比例核扣。
+(3)不得同時申報支付標準編號33090B、36001B、36004B、36005B、36015B、36011B、36012B、36014B、36018B、36019B、36021C、37007B、37008B、37013B、37014B、37016B、37018B、37019B、37029B、37030B、37046B。
+
+v
+v
+v
+213662
+37048B
+內視鏡射頻消融術（RFA）
+Endoscopic Radiofrequency Ablation
+註：
+1.適應症(須有病理切片證實)：
+(1)扁平性之食道癌前病變、食道鱗狀細胞高度分化不良病變。
+(2)巴瑞特氏食道合併分化不良病變。
+(3)長度大於三公分且有腸黏膜化生之巴瑞特氏食道。
+2.支付規範：
+(1)同一病人以申報一次為限，六個月內若須再次執行RFA者，應同時符合以下三項條件，並經事前審查同意： 
+A.須符合原始內視鏡射頻消融術治療之適應症。
+B.須檢附內視鏡影像及病理組織學切片報告，確認有腫瘤殘存或復發。
+C.須進行腫瘤重新臨床分期，且與第一次治療前分期比較，不能有惡化現象。
+(2)內含一般材料費及單一使用拋棄式之guidewire及spray catheter、內視鏡透明套。
+(3)不得同時申報72050B、28016C、47074C、47043B、47077B、71209B。
+(4)執行本項之麻醉費用另計。
+
+v
+v
+v
+17350
+
+
+
+
+
+
+
+
+
+	      -第二部第二章第二節- PAGE 18 -
+
+
+

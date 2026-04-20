@@ -1,0 +1,903 @@
+第四節 復健治療  Rehabilitation Therapy
+
+通則﹕
+一、本節各項治療費用限醫療機構開業執照診療科別登記設有復健科者申報；未設復健科之醫療院所，如具其他與復健相關之專科醫師與復健治療專業人員及設備並有能力實施者，得向保險人提出申請，經核可後依基層院所類別申報。
+二、第四項語言治療項目限聘有受過該類專業訓練之相關醫師之院所始可實施並申報費用。
+三、申報費用應同時詳細註明「治療內容代碼」，並附復健治療紀錄表。
+四、本節各復健項目除(43010C~43025C、43033C~43038C)及(44501B~44503B)外，皆為兒童加成項目，意指病人年齡未滿二歲所實施之診療項目點數，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者依表定點數加計百分之二十。
+
+第一項 一般復健檢查及治療(41002-41007)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+41002C
+肌肉強度時間測定
+Strength duration curve test
+v
+v
+v
+v
+140
+41003B
+肌肉電刺激治療
+Muscle nerve stimulation therapy
+
+v
+v
+v
+60
+41005C
+抗痙攣阻斷術 Anti-spasticity block
+v
+v
+v
+v
+700
+41006B
+等速肌力檢查 
+Isokinetic evaluation
+註：同一病人治療期間，一個月限申報一次，同一治療期間，至多申報三次。
+
+v
+v
+v
+700
+
+第二項 物理治療 Physical Therapy (42001-42019)
+
+通則：
+一、執行本項各診療項目須符合下列條件：
+(一)至少有復健科、神經科、骨科、神經外科、整型外科專科專任醫師、小兒神經次專科專任醫師(限醫院治療十八歲以下病人)或內科專科醫師具風濕病次專科專任醫師一名。
+(二)前列內科專科醫師具風濕病次專醫師資格者，除於無復健科醫師提供服務之偏遠地區執業者外，須曾接受風溼關節相關復健治療訓練課程三十二小時。
+二、同時實施簡單治療項目及中度治療項目者，僅可申報一次中度治療；同時實施簡單治療項目、中度治療項目及複雜治療項目者，僅可申報一次複雜治療。
+三、物理治療人員每日可申報上限為四十五人次。
+(一)保險醫事服務機構物理治療每月可申報人次上限，以每月專任物理治療人員實際執行物理治療總日數乘以四十五。
+(二)保險醫事服務機構應填報簡單、中度、複雜之治療申請件數、金額及專任物理治療人員實際執行物理治療總日數，其表格由保險人定之。
+(三)物理治療案件申報超出上限之金額，計算公式如下：
+物理治療超次金額=【（總申報件數-每月申報上限件數）╱總申報件數】╳總申報金額。
+(四)復健科專科醫師親自實施物理治療、職能治療或語言治療者，每日可申報上限為四十五人次，且其人次併入醫師門診合理量計算。
+四、病人同一天限申報一次簡單治療、中度治療或複雜治療。
+五、實施物理治療之適應症：
+(一)腦血管意外 (CVA) Cerebrovascular accidents
+(二)頸部症候群，合併手部感覺痳痺或無力 Cervical syndrome
+(三)下背症候群，合併腳部感覺痳痺或無力 Low back syndrome
+(四)脊索（髓）傷害 Spinal cord injury
+(五)截肢 Amputation
+(六)冷凍肩（五十肩）Frozen shoulder
+(七)顏面痳痺 Facial palsy
+(八)關節炎 Arthritis
+(九)骨折（癒後不良攣縮）Fractures
+(十)其他骨科疾病 Other orthopaedic disease
+(十一)扭傷與挫傷 Sprain & strain
+(十二)腦性痳痺 Cerebral palsy
+(十三)頭部外傷 Head injury
+(十四)脊髓灰質炎，小兒麻痺 Poliomylits
+(十五)周邊神經傷害(肌肉麻痺) Peripheral nerves injury
+(十六)其他神經疾病 Other neurological disease
+(十七)全人工膝(股)關節－換術後 Total hip & knee replacement
+(十八)胸腔復健 Chest rehabilitation
+(1)胸腔手術前後 Pre & post chest operation
+(2)慢性阻塞性肺疾病 COPD
+(十九)其他 Others
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+簡單治療
+
+
+
+
+
+42002B
+－簡單Simple
+
+v
+v
+v
+160
+42003C
+ 
+v
+
+
+
+95
+42005B
+－中度(指實施簡單治療項目二項以上，且合計時間超過三十分鐘。)
+
+v
+v
+v
+320
+42006C
+v
+
+
+
+190
+
+註：簡單治療項目 
+  PTS1.牽引 Traction (Intermittent)
+  PTS 2.治療性冷\熱敷 Hot\cold pack
+  PTS 3.紅外線 Infrared
+  PTS 4.石蠟浴 Paraffin bath
+  PTS 5.超音波 Ultrasound
+  PTS 6.短波 Shortwave diathermy
+  PTS 7.微波 Microwave diathermy
+  PTS 8.向量干擾 Interferential therapy
+  PTS 9.經皮神經電剌激 TENS
+  PTS 10.超高頻 High frequency discharge
+  PTS 11.低能雷射治療 Low power laser
+  PTS 12.紫外線 Ultraviolet
+  PTS 13.磁場治療 Magnetic field therapy
+  PTS 14.循環治療 Circulator
+  PTS 15.其他經保險人核可者
+
+
+
+
+
+
+中度治療
+
+
+
+
+
+42008B
+－中度Moderate
+
+v
+v
+v
+320
+42017C
+
+v
+
+
+
+265
+42009C
+
+v
+
+
+
+190
+42011B
+－複雜(指實施中度治療項目三項以上，且合計時間超過五十分鐘。)
+
+v
+v
+v
+480
+42018C
+v
+
+
+
+400
+42012C
+v
+
+
+
+290
+
+註：1.中度治療之治療內容代碼
+  PTM 1.肌肉電刺激 Muscle stimulation
+  PTM 2.上肢水療 Hydrotherapy, U/E
+  PTM 3.下肢水療 Hydrotherapy, L/E
+  PTM 4.全身水療 Hydrotherapy, General
+  PTM 5.被動性關節運動 Passive R.O.M.
+  PTM 6.牽拉運動 Stretching Exs.
+  PTM 7.運動治療 Therapeutic Exs.
+  PTM 8.傾斜台訓練 Tilting table training
+  PTM 9.肌力訓練 Strengthening Tx
+  PTM 10.耐力訓練 Endurance training
+  PTM 11.按摩 Massage
+  PTM 12.鬆動術 Mobilization
+  PTM 13.姿態訓練 Posture training (含步態訓練    
+         及姿勢訓練)
+  PTM 14.其他經保險人核可者
+2.42017C、42018C申報資格如下：
+(1)復健科專科醫師開設之基層院所。
+(2)聘有專任復健專科醫師之基層院所且由復健專科(含專任及支援)醫師所開立之處方。
+
+
+
+
+
+42014B
+複雜治療Complicated
+
+v
+v
+v
+600
+42019C
+
+v
+
+
+
+500
+42015C
+
+v
+
+
+
+360
+
+註：1.限復健專科醫師開具處方後，交由相關治療專業人員親自實施始可申報。
+2.複雜治療項目
+PTC 1.促進技術 Facilitation techniques
+PTC 2.平衡訓練 Balance training
+PTC 3.義肢訓練 Prosthesis training
+PTC 4.等速肌力訓練 Isokinetic training
+PTC 5.心肺功能訓練 Cardiopulmonary training
+PTC 6.行走訓練 Ambulation training
+PTC 7.其他經保險人核可者
+3.42019C申報資格如下：
+(1)復健科專科醫師開設之基層院所。
+(2)聘有專任復健專科醫師之基層院所且由復健專科(含專任及支援)醫師所開立之處方。
+
+
+
+
+
+42016C
+物理治療評估
+註：物理治療評估須由復健科專科醫師或物理治療專業人員親自實施始可申報，同一病患治療期間一個月限申報一次，並須將評估項目、現有問題、短及長程治療目標及治療計畫記錄於病歷內。同一治療期間超過三個月者，不予支付。
+v
+v
+v
+v
+240
+
+第三項 職能治療 Occupational Therapy (43001-43038)
+通則：
+一、執行本項各診療項目須至少有復健科、神經科、骨科、神經外科、整型外科專科專任醫師、小兒神經次專科專任醫師(限醫院治療十八歲以下病人)一名。
+二、實施職能治療之適應症，包括凡神經生理、骨骼肌肉、心肺循環等系統疾病或意外傷害經評估其關節活動度、肌力、感覺、平衡、認知性、知覺動作、功能性動作、協調度、及日常生活能力等需職能治療者。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+43002B
+簡單Simple：指治療項目一至二項，合計治療時間未滿三十分鐘之簡單治療。
+
+v
+v
+v
+160
+43003C
+v
+
+
+
+95
+43005B
+中度Moderate：指治療項目二至三項，合計治療時間超過三十分鐘至五十分鐘以內之中度治療。
+
+v
+v
+v
+320
+43027C
+v
+
+
+
+265
+43006C
+v
+
+
+
+190
+43008B
+中度-複雜：
+1.指治療項目三項以上，合計治療時間三十分鐘以上之治療。
+2.且必須包含下列二項以上之治療項目(兒童病人從出生至未滿十二歲不予限制) ：
+OT 1、OT 3、OT 4、OT 5、OT 7、
+OT 8、OT 9、OT 10、OT 11、OT 12。
+
+v
+v
+v
+480
+43028C
+v
+
+
+
+400
+43009C
+v
+
+
+
+290
+43030B
+複雜Complicated：實施本項須符合於下列適應症及其項目規定：
+1.成人中樞神經系統疾患(含外傷造成)：
+須符合下列診斷代碼(ICD-10-CM)：
+A39、B20、C71、C72、G00-G09、G23、G11、G95、G35-G37、G81、G54、I60-I67、S14.1+S12.0-S12.6, S24.1+S22.0, S34.1+S22.0-S32.0、S06.2-S06.9、S12.0-S12.6、S22.0-S32.0、S14.1、S34.1、S14.2、S14.3、S34.4。
+-ICD-10-CM(2023年版)：A39、B20、C71、C72、G00-G09、G23、G11、G95、G35-G37、G81、G54、I60-I67、P91.821、P91.822、P91.823、P91.829、S14.1+S12.0-S12.6、 S24.1+S22.0、S34.1+S22.0-S32.0、S06.2-S06.9、S12.0-S12.6、S22.0-S32.0、S14.1、S34.1、S14.2、S14.3、S34.4(自一百十四年一月一日起適用)。
+
+v
+v
+v
+600
+43031C
+v
+
+
+
+500
+43032C
+v
+
+
+
+360
+
+(1)限因上述診斷住院期間及出院後六個月內。
+(2)治療項目三項以上，合計治療時間三十分鐘以上。
+(3)必須包含下列二項以上之治療項目：
+OT 1、OT 3、OT 4、OT 5、OT 7、OT 8、OT 9、OT 10、OT 11、OT 12。
+2.兒童中樞神經系統疾患(含外傷造成及罕見疾病)：
+(1)限從出生至未滿十二歲。
+(2)治療項目三項以上，合計治療時間三十分鐘以上。
+
+
+
+
+
+
+
+3.外科手術患者(含骨骼、神經、肌肉、燒燙傷之疾患)：
+須符合下列診斷代碼(ICD-10-CM)：
+S62.3、S62.6、S68.0、S68.1、S68.4、S68.5、S68.6、S68.7、S47、S57.0、S57.8、S67.0、S67.1、S67.2、S67.3、S67.9、S77、T22-T25、S44。
+
+
+
+
+
+
+(1)限因上述診斷手術實施後三個月內。
+(2)治療項目三項以上，合計治療時間三十分鐘以上。
+(3)必須包含下列二項以上之治療項目：
+OT 2、OT 5、OT 6、OT 7、OT 8、OT 9、OT 10、OT 11。
+
+
+
+
+
+
+註：
+1.治療項目
+OT 1.姿態訓練 Posture training 
+OT 2.被動性關節運動 Passive R.O.M. 
+OT 3.坐站平衡訓練 Balance training 
+OT 4.移位訓練 Moving training
+OT 5.日常生活訓練 ADL training 
+OT 6.肌力訓練 Muscle strength training
+OT 7.運動知覺訓練 Motion - sensory training
+OT 8.上肢(下肢)功能訓練U/E or L/E function training
+OT 9.上肢(下肢)義肢功能訓練 Prosthosis function training U/E or L/E
+OT 10.手(足)功能訓練(Hand or foot function training)
+OT 11.協調訓練 Coordination training
+OT 12.知覺認知訓練 Cognitive training 
+OT 13.團體治療 Group therapy
+OT 14.娛樂治療 Recreation therapy 
+OT 15.活動治療 Activity therapy 
+OT 16.減痙攣活動 Spasticity reduction motion
+OT 17.其他經保險人核可者
+2.43030B、43031C、43032C限復健專科醫師開具處方後，交由相關治療專業人員親自實施始可申報。
+3.43027C、43028C、43031C申報資格如下：
+(1)復健科專科醫師開設之基層院所。
+(2)聘有專任復健專科醫師之基層院所且由復健專科(含專任及支援)醫師所開立之處方。
+
+
+
+
+
+
+
+
+
+43010C
+塑膠製短腿固定副木 Resting splint, short leg治療費
+v
+v
+v
+v
+420
+43011C
+塑膠製短腿固定副木 Resting splint, short leg 材料費
+v
+v
+v
+v
+1300
+43012C
+塑膠製長腿固定副木 Resting splint, long leg 治療費
+v
+v
+v
+v
+420
+43013C
+塑膠製長腿固定副木 Resting splint, long leg 材料費
+v
+v
+v
+v
+2300
+43014C
+豎腕副木 Cock-up, splint 治療費
+v
+v
+v
+v
+315
+43015C
+豎腕副木 Cock-up, splint 材料費
+v
+v
+v
+v
+350
+43016C
+手部固定副木  Hand splint 治療費
+v
+v
+v
+v
+315
+43017C
+手部固定副木  Hand splint 材料費
+v
+v
+v
+v
+500
+43018C
+手指伸展副木 Individual finger splint 治療費
+v
+v
+v
+v
+140
+43019C
+手指伸展副木 Individual finger splint 材料費
+v
+v
+v
+v
+180
+43020C
+長型對掌副木 Long opponens splint 治療費
+v
+v
+v
+v
+160
+43021C
+長型對掌副木 Long opponens splint 材料費
+v
+v
+v
+v
+240
+43022C
+短型對掌副木 Short opponens splint 治療費
+v
+v
+v
+v
+160
+43023C
+短型對掌副木 Short opponens splint 材料費
+v
+v
+v
+v
+150
+43024C
+膝上截肢訓練用石膏義肢裝置費 Pylon filling AK 
+v
+v
+v
+v
+240
+43025C
+膝下截肢訓練用石膏義肢裝置費 Pylon fitting BK 
+v
+v
+v
+v
+145
+43026C
+職能治療評估
+註：
+1.職能治療評估須由復健科專科醫師或職能治療專業人員親自實施始可申報，同一病患治療期間一個月限申報一次，並須將評估項目、現有問題、短及長程治療目標及治療計畫記錄於病歷內。同一治療期間超過三個月者，不予支付。
+2.職能治療評估包括下列各項：
+(1)性向測驗 (Aptitute test)
+(2)智力測驗 (Intelligence test)
+(3)興趣測驗 (Interest test)
+(4)工作樣本測驗
+(5)手功能測驗 (Hand function test) 
+(6)其他 (Others) 
+v
+v
+v
+v
+240
+43033C
+斜頸矯正(治療費) Torticollis correction orthosis
+v
+v
+v
+v
+315
+43034C
+頸部固定副木(治療費) Neck splint
+v
+v
+v
+v
+315
+43035C
+斜頸矯正(材料費) Torticollis correction orthosis(material)
+v
+v
+v
+v
+500
+43036C
+頸部固定副木(材料費) Neck splint(material)
+v
+v
+v
+v
+500
+43037C
+肩部固定副木(治療費) Should splint
+v
+v
+v
+v
+420
+43038C
+肩部固定副木(材料費) Shoulder splint (material)
+v
+v
+v
+v
+1300
+第四項 語言治療 Communication Therapy (44001～44016)
+
+通則：
+一、執行本項各診療項目須至少有相關科復健專科或耳鼻喉專科專任醫師一名。
+二、實施語言治療之適應症：
+(一)失語症及相關障礙Aphasia & related disorders
+1.中風 Stroke
+2.腦外傷 Head trauma
+3.動靜脈畸型 A.V.M
+4.其他 Others
+(二)構音異常 Articulation disorders
+(三)聲音異常 Voice disorders
+(四)口吃 Stuttering
+(五)語言發展遲緩 Delayed language development
+(六)腦性痳痺 Cerebral palsy speech
+(七)唇顎裂 Cleft-palate speech
+(八)失聽 Hard of hearing （後天喪失聽力者）
+(九)其他Others
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+44002B
+簡單Simple：指治療項目一項以上，合計治療時間未滿三十分鐘之簡單治療。
+
+v
+v
+v
+240
+44003C
+v
+
+
+
+145
+44005B
+中度Moderate：指治療項目二項以上，合計治療時間三十分鐘至五十分鐘以內之中度治療。
+
+v
+v
+v
+320
+44011C
+v
+
+
+
+265
+44006C
+v
+
+
+
+190
+44014B
+中度-複雜：
+1.指治療項目三項以上，合計治療時間三十分鐘以上之中度治療；若治療對象為未滿十三歲者，則無治療時間之限制。
+2.需包含下列二項以上之治療項目：ST1、ST2、 ST3、 ST7、 ST9、 ST13、ST14。
+
+
+
+
+
+
+v
+v
+v
+480
+44015C
+v
+
+
+
+400
+44016C
+v
+
+
+
+290
+44008B
+複雜Complicated：
+1.指治療項目四項以上，合計治療時間三十分鐘以上之複雜治療；若治療對象為未滿十三歲者，則無治療時間之限制。
+2.個案需符合下列任一適應症，其診斷代碼(ICD-10-CM)如下：
+(1)C00-C41、C43-C58、C60-C86、C88、C90-C96、C4A、C7A、C7B、D03、D45、J910、R180、G450-G468、I60-I69、J380、R49、S019、S021-S024、S026-S029、S060、S063-S066、S068-S069，且限因上述診斷住院期間及出院後十二個月內。
+-ICD-10-CM(2023年版)：C00-C41、C43-C58、C60-C86、C88、C90-C96、C4A、C7A、C7B、D03、D45、J91.0、R18.0、G45.0-G46.8、I60-I69、P91.821、P91.822、P91.823、P91.829、J38.0、R49、S01.9、S02.1-S02.4、S02.6-S02.9、S06.0、S06.3-S06.6、S06.8-S06.9、S06.8A1A、S06.8A2A、S06.8A3A、S06.8A4A、S06.8A5A、S06.8A6A、S06.8A7A及S06.8A8A，且限因上述診斷住院期間及出院後十二個月內(自一百十四年一月一日起適用)。
+(2)F840、G80、H90-H91、F80-F82、F88、F89、H9325，且治療對象需為未滿十三歲。
+3.需包含下列二項以上之治療項目：ST1、ST2、 ST3、 ST7、 ST9、 ST13、ST14。
+
+v
+v
+v
+600
+44012C
+v
+
+
+
+500
+44009C
+v
+
+
+
+360
+
+註：
+1.治療項目
+ST 1. 聽能瞭解訓練 Auditory comprehension training 
+ST 2. 口語訓練 Verbal production 
+ST 3. 輔導溝通法 Augmentative cemmunication system
+ST 4. 認讀訓練 Readinhg training
+ST 5. 書寫訓練 Writing training
+ST 6. 視知覺訓練 Visual perception
+ST 7. 高階層認知訓練 High level cognitive function training
+ST 8. 觸覺肌動法 Tactile stimulation
+ST 9. 口腔動作訓練 Oral Tx.
+ST 10 發音部位法 Phonetic placement
+ST 11. 聽辨訓練 Auditory discrimination
+ST 12. 節律訓練 Rhythm training
+ST 13. 視聽迴饋法 Audiovisual feedback monitoring
+ST 14. 語言分析 Acoustic analysis
+ST 15. 其他經保險人核可者
+2. 44011C、44012C、44015C申報資格如下：
+(1)復健科專科醫師開設之基層院所。
+(2)聘有專任復健專科醫師之基層院所且由復健專科(含專任及支援)醫師所開立之處方。
+
+
+
+
+
+44010C
+語言治療評估
+註：語言治療評估須由復健科專科醫師或語言治療專業人員親自實施始可申報，同一病患治療期間一個月限申報一次，並須將評估項目、現有問題、短及長程治療目標及治療計畫記錄於病歷內。同一治療期間超過三個月者，不予支付。
+v
+v
+v
+v
+240
+
+
+
+
+第五項 心理社會復健治療費 Psychosocial Rehabilitation Treatment Fee (44501～44505) 
+通則：
+一、實施心理社會復健之適應症，包括肢體傷殘、中樞神經系統損傷、發展異常、慢性疼痛或其他先天後天疾患經評估有心智功能下降、情緒困擾或行為異常，導致社會適應功能不良需心理治療者。
+二、除有特殊規定外，所支付點數均包括治療費及材料費在內。
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+特殊心理社會治療
+Re-educative psychosocial individual psychotherapy
+
+
+
+
+
+44501B
+－ 成人 adult
+
+v
+v
+v
+344
+44502B
+－ 六歲以上至未滿十六歲6 to 15 years old
+
+v
+v
+v
+430
+44503B
+－ 未滿六歲 under 6 years old
+
+v
+v
+v
+515
+
+註：從系統觀點探討個體本身與環境特質，運用心理治療原理介入，形成情緒、認知與行為的改變，以提昇病人社會心理適應能力。針對不同類型病人之治療內容包含：
+   1.嬰幼兒發展治療 ( Neurodevelopmental therapy )
+   2.遊戲治療 ( Play therapy )
+   3.認知行為治療 ( Rational-Emotive therapy )
+   4.行為功能分析與行為改變技術 ( Functional behavioral analysis and behavioral therapy )
+   5.神經心理復健策略 ( Neuropsychological rehabilitation strategies )
+   6.職業諮商 ( Vocational counseling )
+   7.其他 ( Others )
+本項治療限由臨床心理師執行，申報時應附復健科專科醫師醫囑及簽名。
+
+
+
+
+
+44504B
+支持性心理社會治療
+Supportive psychosocial individual psychotherapy
+註：利用支持性心理治療技巧，以減輕症狀影響病人的程度，協助復健病人了解疾病及相關治療，應於復健科醫師指導下由復健醫療團隊之專業成員執行。
+
+v
+v
+v
+97
+44505B
+特殊心理社會團體治療 ( 每人次 )
+Re-educative psychosocial group psychotherapy
+註：經由團體前準備、團體進行、團體後之整理、團體報告之撰寫，利用特殊團體心理治療原理、團體中結構特性、人際互動及活動參與過程，協助病人覺察不良行為、建立適應性行為模式、學習因應問題及解決問題技巧、獲得同儕支持之正向情緒。本項治療限由復健科醫師或臨床心理師執行，申報時應附復健科專科醫師之醫囑及簽名，一次最多以十五人為限。
+
+v
+v
+v
+129
+
+
+
+
+
+
+
+
+
+	- 第二部第二章第四節 -  PAGE 6 -
+
+
+

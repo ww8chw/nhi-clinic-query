@@ -1,0 +1,5790 @@
+第六節 治療處置 Therapeutic Treatment
+
+通則：
+一、治療處置費（不分門診及住院）依照本節各項所定支付點數計算之。
+二、本節共分五項，各項處置費點數包括一般材料，表面麻醉、浸潤麻醉及簡單之傳導麻醉等費用在內，不另給付。治療處置過程如需用到特殊治療材料、特殊藥劑或其他麻醉時得另加算其費用，但另有規定者除外。
+三、前項所謂一般材料係指全民健康保險藥物給付項目及支付標準所列以外之各種治療材料，如治療處置過程所需之敷料、一般縫合線、刀片、外用消毒藥劑、生理鹽水、導尿管、鼻胃管或其他材料等均屬之。
+四、對稱器官之治療處置，係指二側之器官，特殊規定者除外。
+五、同一手術部位或同一病灶同時施行二種以上之處置時，按其主要處置項目所定點數計算之。
+六、本節所謂兒童加成項目分為：
+(一)兒童加成項目：病人年齡未滿六個月者，依表定點數加計百分之六十；年齡在六個月以上至未滿二歲者，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之二十。
+(二)提升兒童加成項目：病人年齡未滿六個月者，依表定點數加計百分之百；年齡在六個月以上至未滿二歲者，依表定點數加計百分之八十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之六十。
+七、急診病人之加成規範：下列二款，擇一申報：
+(一)急診病人因緊急傷病而必需四小時以內立即治療處置者，其「處置費」得按本節所定點數加計百分之二十，但「一般材料費」不得另按比例加計。
+(二)符合重大外傷之急診病人，且緊急執行48014C、48015B、48016B、48017B、48029B、48030B或56044B診療項目者：
+1.二小時以內執行，得按本節所定點數加計百分之百；大於二小時至四小時以內執行，得按本節所定點數加計百分之六十。
+2.重大外傷係指主診斷為：
+(1)ICD-10-CM：T07.XXXA。
+(2)ICD-10-CM：S00-S01、S03-S11、S13-S17、S19-S21、S23-S51、S53-S61、S63-S71、S73-S81、S83-S91、S93-S99、T79（前述第七位碼皆應為"A"）。
+(3) ICD-10-CM：S02、S12、S22、S32、S42、S62、S92、S99（前述第七位碼皆應為"A"或"B"）。
+(4)ICD-10-CM：S52、S72、S82（前述第七位碼皆應為"A"或"B"或"C"）。
+(5)體表面積>20%之重大燒傷，且主診斷碼(ICD-10-CM)為T31.20-T31.99、T20.30XA-T20.39XA、T20.70XA-T20.79XA、T32.20-T32.99、T26.00XA-T26.92XA。
+3.本項加成獎勵費用優先分配於第一線執行人員，並每年提報獎勵費用之運用情形予保險人分區業務組。
+
+第一項 處置費  Treatment
+
+一、一般處置  General Treatment (47001-47110)
+通則：本項各處置項目皆為兒童加成項目，另部分診療項目項下加註「提升兒童加成項目」者，其加成率適用本節通則六、(二)之規定。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+47001C
+酒精拭浴 Alcohol packing
+v
+v
+v
+v
+56
+47002C
+薄荷擦拭 Menthol packing
+v
+v
+v
+v
+40
+47003C
+大量灌腸
+註：如肥皂水灌腸、清水灌腸等。
+v
+v
+v
+v
+134
+47004C
+甘油球灌腸 Glycerin enema
+v
+v
+v
+v
+40
+47006C
+小量或留置灌腸
+註：
+1.藥費另計。
+2.如酸性灌腸、礦物油留置灌腸等。
+v
+v
+v
+v
+123
+47011C
+清潔灌腸 Cleaning enema
+註：提升兒童加成項目。
+v
+v
+v
+v
+392
+47012B
+周邊動脈導管置入術 
+Peripheral arterial line insertion
+註：提升兒童加成項目。
+
+v
+v
+v
+842
+47013C
+一般導尿 Urinal catheterlization
+註：
+1.含一般導尿管、尿袋等材料費。
+2.提升兒童加成項目。
+v
+v
+v
+v
+96
+47014C
+留置導尿 
+Urinal indwelling catheterlization
+註：含一般導尿管、尿袋等材料費。
+v
+v
+v
+v
+363
+47015B
+中央靜脈導管置入術 
+C.V.P. catheter intubation
+註：提升兒童加成項目。
+
+v
+v
+v
+1470
+47016C
+胃灌洗術 Gastric lavage
+註：提升兒童加成項目。
+v
+v
+v
+v
+468
+47017C
+胃管插入 Insertion of nasogastric tube
+註：
+1.更換胃管 (change N-G tube)或十二指腸插管比照申報。
+2.提升兒童加成項目。
+v
+v
+v
+v
+195
+47018C
+鼻胃管灌食 N-G feeding  一天
+註：不得同時申報47020C、47062B。
+v
+v
+v
+v
+222
+47020C
+胃減壓 Gastric decompression 一天
+註：
+1.不得同時申報47018C、47062B。
+2.提升兒童加成項目。
+v
+v
+v
+v
+150
+47021C
+胸腔引流 chest drainage 一天
+註：提升兒童加成項目。
+v
+v
+v
+v
+126
+47022C
+腹腔引流 Abdominal drainage 一天
+註：提升兒童加成項目。
+v
+v
+v
+v
+125
+47023B
+食道球置入術 
+Esophageal balloon insertion
+註：提升兒童加成項目。
+
+v
+v
+v
+5319
+47024B
+食道球處理 Esophageal balloon care 一天
+註：提升兒童加成項目。
+
+v
+v
+v
+139
+47025B
+食道靜脈瘤硬化治療
+Esophageal injection sclerosing therapy
+註：
+1.含內視鏡費及藥材費。
+2.提升兒童加成項目。
+
+v
+v
+v
+8831
+47078B
+胃靜脈瘤硬化治療
+Gastric variceal sclerosing therapy
+註：
+1.含內視鏡費及藥材費。
+2.內含單次使用內視鏡用拋棄式注射器、組織黏膠、切片夾及治療用耗材比率為百分之六十二。
+3.提升兒童加成項目。
+
+v
+v
+v
+25262
+47027C
+食道異物取出，複雜
+Esophageal foreign body, complicated
+註：內含單次使用瘜肉切除器比率為百分之二十。
+v
+v
+v
+v
+3293
+47028C
+去顫術（急救一次）
+Electrical defibrillation or cardioversion
+註：
+1.不論急救過程中施行電擊次數，每一急救過程限申報一次。
+2.提升兒童加成項目。
+v
+v
+v
+v
+554
+47029C
+心肺甦醒術(每十分鐘)CPR
+註：
+1.不足十分鐘者，以十分鐘申報。
+2.每次以六十分鐘為上限。
+3.提升兒童加成項目
+v
+v
+v
+v
+1800
+47030B
+暫時性心律調節器裝置及使用技術費
+Temporary pacemaker
+註：提升兒童加成項目。
+
+v
+v
+v
+3136
+47031C
+氣管內管插管 
+Endotracheal tube insertion
+註：
+1.麻醉插管不另支付。
+2.急救插管比照申報。
+3.提升兒童加成項目。
+4.不得同時申報47105C、47106C。
+v
+v
+v
+v
+835
+47032B
+心電圖監視器 E.K.G. monitor 一天
+註：限非ICU、燙傷中心病人申報
+
+v
+v
+v
+420
+47033B
+無侵害性血壓監視器（天） B.P. monitor(day)
+註：限非ICU、燙傷中心病人申報。
+
+v
+v
+v
+200
+47034B
+溫度測定儀
+Thermometer
+註：
+1.所列點數，已包含同一病人，同日不同部位之測量費用，故同一病人，同日不同部位之測量不得另行申報。
+2.提升兒童加成項目。
+
+v
+v
+v
+240
+47035B
+腦室引流 Ventricular drainage一天
+註：提升兒童加成項目。
+
+v
+v
+v
+112
+47036B
+順流導管插管術
+Swan-Ganz catheterization
+註：提升兒童加成項目。
+
+v
+v
+v
+2525
+
+冰毯 Ice blanket
+
+
+
+
+
+47037B
+－未滿十二小時under 12 hrs.
+
+v
+v
+v
+413
+47038B
+－十二小時至二十四小時 12～24 hrs.
+註：
+1.提升兒童加成項目。
+2.不得同時申報：47081B、47082B。
+
+v
+v
+v
+780
+47039C
+熱敷或冷（冰）敷
+Hot pack or cold/ice pack
+註：
+1.每日最多申報四次。
+2.不得同時申報：47081B、47082B。
+v
+v
+v
+v
+28
+47041C
+呼吸道抽吸(次) Suction (time)
+註：每日實施八 次以上者應按47042C申報。
+v
+v
+v
+v
+30
+47042C
+呼吸道抽吸(天) Suction (day)
+v
+v
+v
+v
+218
+47043C
+上消化道內視鏡止血法（任何方法） 
+Endoscopic treatment in upper GI bleeding
+1.含內視鏡費及藥費。
+2.非屬硬化劑注射及結紮之止血法皆以本項申報。
+3.限上消化道有流血或潰瘍之徵兆者。
+4.提升兒童加成項目。
+5.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+7818
+47044C
+皮下腫瘍、囊腫抽吸 
+Aspiration of abscess, cyst etc.
+v
+v
+v
+v
+192
+47045C
+體位引流 Postural drainage
+註：不得同時申報47104B。
+v
+v
+v
+v
+140
+47046C
+溫水擦拭 Water sponge
+v
+v
+v
+v
+99
+47047C
+坐浴 Sitbath
+註：
+1.泡盆（soaking）比照申報。
+2.提升兒童加成項目。
+v
+v
+v
+v
+53
+47048C
+引流管灌洗 Tube irrigation
+註：提升兒童加成項目。
+v
+v
+v
+v
+128
+47049B
+自動體溫控制床使用費 (天) 
+Hyperthermia (day)
+註：提升兒童加成項目。
+
+v
+v
+v
+294
+47050B
+電動翻轉床使用費 (天) Electric circle bed
+註：提升兒童加成項目。
+
+v
+v
+v
+195
+47051C
+末稍神經阻斷術 Nerve block, peripheral
+註：提升兒童加成項目。
+v
+v
+v
+v
+380
+47052B
+三叉神經阻斷術 Nerve block, trigeminal
+註：提升兒童加成項目。
+
+v
+v
+v
+1320
+47053B
+非電動翻轉床使用費 (天)
+Non-electric circle bed
+
+v
+v
+v
+120
+47054C
+一般高壓氧治療
+General hyperbaric oxygen therapy, general OHP
+註：
+1.包括氧氣費在內。
+2.提升兒童加成項目。
+v
+v
+v
+v
+720
+
+47055C
+減敏注射(每種抗原)
+Desensitization injection (each Ag)
+註：提升兒童加成項目。
+v
+v
+v
+v
+212
+47056B
+體外循環，第二天起之每日照護費
+註：
+1.本項限申報二十四次。
+2.提升兒童加成項目。
+
+v
+v
+v
+2380
+47057B
+經內視鏡施行食道擴張術
+Endoscopic esophageal dilation
+註：
+1.適應症：因故造成食道狹窄或食道反覆狹窄致無法正常進食者。
+2.支付規範：
+(1)施行次數以每週一次、一年內六次為原則，施行第七次(含)以上者需專案申請。
+(2)申報費用時需附詳細治療報告、治療前後照片、相關影像學報告。
+(3)內含單次使用消化道導引線、導線/導線蓋和鎖比率為百分之五十六。
+(4)若使用食道球可另外申報。
+(5)提升兒童加成項目。
+
+v
+v
+v
+10244
+47058B
+食道內金屬支架置放術
+Esophageal metal stent placement
+註：
+1.適應症：
+(1)食道或賁門之惡性腫瘤。
+(2)因先天或後天兒童食道疾病造成食道狹窄、破裂、滲漏、瘻管，無法進行傳統手術或手術成效不佳者。
+2.適應症第(2)點限小兒外科、消化兒科及胸腔外科專科醫師執行。
+3.內含單次使用消化道導引線、導線/導線蓋和鎖比率為百分之五十六。
+4.提升兒童加成項目。
+
+v
+v
+v
+10153
+47059B
+治療性導管植入術 — 希克曼氏導管植入術
+Therapeutic catheter implantation — Hickman catheter implantation
+註：提升兒童加成項目。
+
+v
+v
+v
+3658
+47080B
+治療性導管植入術 — Port-A導管植入術 Therapeutic catheter implantation — Port-A catheter implantation
+註：提升兒童加成項目。
+
+v
+v
+v
+5716
+47060B
+動脈導管置放術(化學治療用)　 
+Arterial line insertion for chemotherapy
+註：提升兒童加成項目。
+
+v
+v
+v
+3000
+47062B
+餵食幫浦(天)
+Feeding pump(day)
+註：
+1.不得與47018C、47020C同時申報。
+2.提升兒童加成項目。
+
+v
+v
+v
+150
+47063B
+主動脈氣球輔助器使用照護費(天)
+Intra aortic balloon assist, day
+註：
+1.提升兒童加成項目。
+2.本項限申報七天。
+
+v
+v
+v
+2668
+47064B
+遺傳疾病家族會談治療
+Genetic consulting
+註：
+1.本項目請統稱為遺傳疾病家族會談治療。
+2.每個案申報本項目以一次為原則。
+3.限衛生福利部委託具優生保健諮詢中心之醫院申報。
+4.提升兒童加成項目。
+
+v
+v
+v
+1359
+47065B
+治療性導管植入術 — 末梢靜脈植入中心導管術
+Therapeutic catheter implantation — PICC(Peripheral line for central venous catheterization)
+註：
+1.適應症：
+(1)癌症化學治療及癌症末期之疼痛治療。
+(2)下列三項適應症且預期同時治療達二週以上之病人：
+A.使用全靜脈營養輸液（TPN）（未滿二歲嬰兒本項為靜脈營養輸液，不限TPN）。
+B.免疫不全與使用免疫抑制劑。
+C.須接受中心靜脈導管置入（CVP）。
+2.提升兒童加成項目。
+
+v
+v
+v
+3101
+47066B
+造瘻口灌食／天
+Feeding through ostomy
+註：提升兒童加成項目。
+
+v
+v
+v
+100
+47067B
+經內視鏡食道靜脈瘤結紮術
+Endoscopic esophageal variceal ligation
+註：
+1.已含括該內視鏡使用費。
+2.提升兒童加成項目。
+
+v
+v
+v
+9455
+47068B
+腦室外引流監視(天)
+E.V.D. Monitoring (day)
+註：
+1.加護病房內不另計價。
+2.提升兒童加成項目。
+
+v
+v
+v
+500
+47069B
+顱內壓監視器(天)
+On ICP monitor ( day )
+註：
+1. ICU、燙傷中心使用者已包含於相關費用內,不另計價。
+2.提升兒童加成項目。
+
+v
+v
+v
+280
+47070B
+烤燈使用
+Heating lamp
+註：
+1.超過三次(含)時，請按47071B申報。
+2.提升兒童加成項目。
+
+v
+v
+v
+46
+47071B
+烤燈(每一天)
+Heating each day
+註：
+1.申報47070B「烤燈使用」超過三次者，按本項申報。
+2.提升兒童加成項目。
+
+v
+v
+v
+130
+47073B
+切除CAPD導管外袖口及導管擴創術
+EXT. cuff excision and CAPD tunnel debriment
+註：提升兒童加成項目。
+
+v
+v
+v
+4614
+47074C
+上消化道內視鏡息肉切除術
+Panendoscopic polypectomy
+註：
+1.內含單次使用瘜肉切除器比率為百分之十。
+2.提升兒童加成項目。 
+v
+v
+v
+v
+7004
+47077B
+上消化道息肉切除術
+Upper GI tract polypectomy
+註：
+1.經由上消化道內視鏡檢查後，依病情需要加做處置，本項目不含鏡檢費用。    
+2.限胃息肉大於0.5公分(含)以上，使用snear套環切除且送病理切片之案件，需檢附snear套環切除過程照片。
+3.同次多顆息肉切除，限以一件申報。
+4.內含單次使用瘜肉切除器比率為百分之十五。
+5.提升兒童加成項目。
+
+v
+v
+v
+4421
+47075B
+自動止血帶止血
+Hemostasis with automatical tourniquet
+註：
+1.每一急救過程限申報一次。
+2.提升兒童加成項目。
+
+v
+v
+v
+130
+47079B
+癌症治療計畫諮詢規劃費
+Cancer patient treatment planning and Consultation
+註：
+1.本項包含病人病情及體能狀況、最適合治療方式、住院及門診追蹤之配合度、預後因子、心理調適、經濟、工作、信仰、家族等之諮詢、評估、計畫、治療建議、情緒處理及引導等。
+2.限病理診斷確定為癌症或復發之病人依治療計畫於治療完成時申報一次，惟肝癌病人無法施行病理組織檢查，得以影像合併腫瘤標記數值確定者比照申報。原位癌病人經多專科醫療團隊討論及安排後續治療追蹤，於治療完成時申報一次，且申報時應於病歷上詳載相關會診紀錄及治療計畫等備查。
+3.提升兒童加成項目。
+
+v
+v
+v
+2800
+47083C
+上消化道泛內視鏡異物摘除術
+Upper GI panendoscopic foreign body removal
+註：
+1.內含單次使用瘜肉切除器比率為百分之十二。
+2.提升兒童加成項目。
+v
+v
+v
+v
+5355
+47086C
+骨盆肌肉生物回饋訓練
+註：提升兒童加成項目。
+v
+v
+v
+v
+415
+47087C
+尿失禁電刺激治療
+註：提升兒童加成項目。
+v
+v
+v
+v
+350
+47088C
+人體器官移植之腦死判定費
+Cerebral death evaluation
+註：
+1.施行本項需依「腦死判定準則」辦理。
+2.提升兒童加成項目。
+v
+v
+v
+v
+2800
+47089B
+體外循環維生系統管線更換
+Change ECMO circuit ( Centrifugal pump + microporous membrane oxygenator )
+註：
+1.適應症如下：
+(1)心臟手術暫時性心臟功能衰竭。
+(2)心臟手術後造成右心室衰竭合併可逆性肺高壓危機。
+(3)心臟病變末期等待接受心臟移植手術。
+(4)可回復性心肌病變。
+2.提升兒童加成項目。
+
+v
+v
+v
+7392
+47090B
+高頻胸壁振盪模式呼吸道清潔(每次至少三十分鐘)
+註：
+1.限住院病患無法有效清除痰液使用，每日限申報最多四次，每一療程最多十天。
+2.不可同時申報47045C體外引流、57010B呼吸運動（次）、57012B復原運動。
+3.提升兒童加成項目。
+
+v
+v
+v
+247
+47091B
+淋巴水腫照護-徒手淋巴引流(須達四十分鐘)
+Care of lymphoedema - manual lymphatic drainage
+註：
+1.適應症：癌症末期淋巴水腫病人
+2.執行人員：須接受淋巴照護相關訓練，執行完成後需有適應症、執行過程及執行時間的紀錄。
+3.提升兒童加成項目。
+
+v
+v
+v
+450
+
+
+身體約束之護理監測照護費
+Physical Restraint(Day)
+
+
+
+
+
+47093B
+-日：使用八小時以上，每人每次住院限申報日數為四天。
+註：
+1.適應症：限意識欠清且躁動不安的病患，無法遵從醫療措施或其行為可能對本身或他人具有傷害時執行。
+2.必須每日有醫囑、每班有護理紀錄呈現、病患或家屬同意書、以及醫療團隊應適時討論或視情況解除行動限制並有紀錄。
+3.精神科病患及加護病房不得適用本項。
+4.提升兒童加成項目。
+
+v
+v
+v
+186
+
+難治型顱內高壓之低溫療法
+
+
+
+
+
+47081B
+－首日
+
+v
+v
+v
+6057
+47082B
+－第二日至第七日(每日)
+
+v
+v
+v
+2505
+
+註：
+1.適應症：因下列原因造成之顱內高壓，以傳統治療方式如頭部抬高三十度、降腦壓藥物、開顱手術、深度鎮靜且ICP仍處於20mmHg大於十分鐘者，皆無法使顱內壓降低：
+(1)出血性中風。
+(2)次重度或重度腦創傷GCS≦12。
+2.禁忌症：
+(1)任意原因引起之休克。
+(2)在意外前即有失智或長期意識障礙。
+(3)腦死。
+(4)自發性低體溫＜32℃者。
+(5)顱內有占據顱內空間病灶如血塊、腦水腫、水腦症等，符合手術適應症，但未進行手術者。
+(6)嚴重感染者。
+(7)呼吸窘迫症候群。
+3.支付規範：
+(1)限ICU執行。
+(2)同次住院，限申報「首日」一次，「第二日至第七日(每日)」至多六次。
+(3)申報時需檢附生命徵象及藥物使用紀錄。
+(4)不得同時申報：47037B、47038B、47039C、47094B-47096B及47097B-47100B。
+4.限神經科、神經外科及兒科專科醫師執行。
+
+
+
+
+
+
+心跳停止之低溫療法
+
+
+
+
+
+47094B
+－第一日 (≦二十四小時)
+
+v
+v
+v
+9521
+47095B
+－第二日 (＞二十四小時-≦四十八小時)
+
+v
+v
+v
+1575
+47096B
+－第三日 (＞四十八小時)
+
+v
+v
+v
+1575
+
+註：
+1.適應症：心跳停止病人，進行復甦急救後意識仍不清者(GCS<8)或無遵循口頭醫囑（motor<6）。
+2.排除條件：
+(1)恢復自發性循環大於十二小時。
+(2)腦出血。
+(3)收縮血壓<90mmHg。
+(4)大量活動性出血。
+(5)無法終止的致命性心律不整。
+(6)在心跳停止前即有失智或長期意識障礙。
+(7)末期疾病。
+3.支付規範：
+(1)總治療療程為三天。
+(2)不得同時申報：47037B、47038B、47049B、47081B、47082B。
+(3)特殊材料費另計。
+
+
+
+
+
+
+週產期新生兒低溫療法
+
+
+
+
+
+47097B
+－第一日 (≦二十四小時)
+
+v
+v
+v
+10000
+47098B
+－第二日 (＞二十四小時-≦四十八小時)
+
+v
+v
+v
+3994
+47099B
+－第三日 (＞四十八小時-≦七十二小時)
+
+v
+v
+v
+3000
+47100B
+－第四日 (＞七十二小時)
+
+v
+v
+v
+3000
+
+註：
+1.適應症，須符合下列三項：
+(1)出生週數≧三十六週。
+(2)事件發生後六小時內實施。
+(3)出生後有「中等嚴重度」至「重度」腦病變之證據，且有下列任一項之情形：
+A.出生後一小時內嚴重酸血症(severe acidosis)，血液PH值≦7或base deficit≧16mmol/L(採血來源：動脈血或靜脈血均可)。
+B.出生十分鐘時的Apgar分數≦5分。
+C.出生後持續急救至少十分鐘。
+2.支付規範：
+(1)總治療療程為四天。
+(2)不得同時申報：47037B、47038B、47049B、47081B、47082B。
+(3)特殊材料費另計。
+
+
+
+
+
+47101B
+急性缺血性腦中風處置費
+註：適用範圍：
+1.急性缺血性中風病人符合全民健康保險藥物給付項目及支付標準第六編第八十三條之藥品給付規定第二節心臟血管及腎臟藥物2.1.2血栓溶解劑用於急性缺血性腦中風之使用條件。
+2.執行83106B者。
+
+v
+v
+v
+14559
+47102B
+心室輔助器置放後，第二天起之每日照護費
+Daily care post LVAD implantation
+註：
+1.本項限申報三十次。
+2.不得同時申報編號47056B。
+
+v
+v
+v
+3660
+47103A
+經導管無導線心律調節器置放或置換術
+Transcatheter Insertion or Replacement of Permanent Leadless Pacemaker
+
+
+v
+v
+16279
+
+註：
+1.適應症：
+(1)心房顫動且心搏過慢之病人。
+(2)因病竇症候群或房室傳導阻滯以致心搏過慢之病人，但因沒有適當血管通路，而無法植入傳統節律器者。
+2.禁忌症：
+(1)已植入下列醫療器材種類之病人：
+A.經醫師認定會干擾本項目之體內植入裝置。
+B.植入體內的下腔靜脈過濾器(Inferior Vena Cava Filter)。
+C.機械三尖瓣 (Mechanical Tricuspid Valve)。
+(2)股靜脈的構造無法容納7.8 mm（23 French）的導引鞘，或無法順利將裝置植入心臟右側，如因阻塞或嚴重血管彎曲。
+(3)病態性肥胖，導致無法與植入體內之裝置在12.5 cm內進行遙測通訊。
+(4)已知無法耐受本項目植入儀器物理特性之材質或肝素，或對顯影劑過敏而無法術前用藥者。
+(5)無法使用單一劑量1.0mg的dexamethasone acetate。
+3.執行人員資格：
+(1)心臟內科、心臟血管外科、小兒心臟專科醫師。
+(2)須接受且完成中華民國心臟學會、中華民國心律醫學會或台灣胸腔及心臟血管外科學會辦理之「經導管心律調節器置放術」訓練課程(含網路課程及親授課程)，且須有至少五例由指導醫師陪同完成「經導管心律調節器置放術」訓練，並由學會提供合格醫師名單。
+(3)執行本項之醫師名單應報經保險人核定，如有異動，仍應重行報請核定。
+4.不得同時申報之診療項目：68012B、68041B及18026B。
+
+
+
+
+
+47104B
+俯臥通氣治療—每療程
+Prone positioning ventilation, each procedure
+
+v
+v
+v
+5114
+
+註：
+1.每療程係指仰臥→俯臥→仰臥。
+2.適應症：
+(1)成人（十九歲以上）：入住加護病房且插管使用呼吸器之急性呼吸窘迫症候群病人（J80），同時符合下列各項條件：
+a.氧合指數（PaO₂/FiO₂ ratio）≦150。
+b.七日內急性發作。
+c.沒有心因性肺水腫的證據。
+d.CXR顯示兩側肺野浸潤。
+(2)兒童（未滿十九歲）：入住加護病房且插管使用呼吸器，同時符合下列情形之一者：
+a.氧合指數（PaO₂/FiO₂ ratio）≦150
+b.OI>16
+c.OSI>12.3
+3.禁忌症：心胸及腹腔主要手術、脊椎與骨盆不穩定、懷孕第二及第三期、頭部外傷、腦壓或眼壓過高之病人、正在發作之癲癇患者。
+4.限內科、外科、麻醉科、兒科、急診醫學科、神經科、神經外科專科醫師執行。
+5.不得同時申報47045C。
+備註：
+OI=(FiO₂×mean airway pressure ×100)/PaO₂ 
+OSI=(FiO₂×mean airway pressure ×100)/SpO₂
+
+
+
+
+
+
+影像導引氣管內管插管術
+Video-Assisted Endotracheal Intubation
+
+
+
+
+
+47105C
+—疑似或確診之空氣或飛沫傳染性疾病
+註：
+1.適應症：
+(1)疑似或確診空氣或飛沫傳染法定傳染病、疑似或確診空氣或飛沫傳染其他傳染病。
+(2)兒童（未滿十九歲）符合下列任一情形：
+A.困難氣道：頭頸部癌症、甲狀腺癌/副甲狀腺癌、氣道狹窄、頸椎骨關節相關的病變或處置、重大頭頸部外傷、張口困難、肥胖。
+B.緊急狀況：OHCA、緊急插管(需有會診麻醉科、急診科、胸腔暨重症科或外傷科之會診紀錄)。
+2.不得同時申報47031C、47106C。
+3.內含一般材料費、「甦醒球」及「單次拋棄式影像喉頭鏡葉片」比率為百分之四十一。
+v
+v
+v
+v
+2321
+47106C
+—困難氣道或緊急狀況
+v
+v
+v
+v
+1484
+
+註：
+1.適應症：
+成人（十九歲以上）：
+(1)困難氣道：頭頸部癌症、甲狀腺癌/副甲狀腺癌、氣道狹窄、頸椎骨關節相關的病變或處置、重大頭頸部外傷、張口困難、肥胖。
+(2)緊急狀況：OHCA、緊急插管(需有會診麻醉科、急診科、胸腔暨重症科或外傷科之會診紀錄)。
+2.不得同時申報47031C、47105C。
+
+
+
+
+
+47107B
+成功移除長期留置鼻胃管並恢復經口進食
+註：
+1.適用範圍（應符合下列各項條件）：
+(1)因腦中風、神經疾病、頭頸部癌症、喉部疾病、老年退化、結構異常或其他原因，導致吞嚥功能障礙而置入鼻胃管長期留置達三個月以上者。
+(2)恢復以口進食並有相關評估紀錄且未重置鼻胃管一個月以上。
+2.限由復健科、耳鼻喉科、神經科或兒科之專科醫師或牙醫師，及語言治療師與營養師組成之照護團隊執行及申報。
+3.本項限由執行吞嚥等口腔功能訓練且成功移除長期留置鼻胃管之照護團隊人員申報。
+4.申報頻率：每人每年同一傷病限申報一次。
+
+v
+v
+v
+3000
+47108B
+心臟監測器植入術
+Procedure of Insertable Loop Recorder
+註：
+1.適應症：
+(1)反覆不明原因暈厥。
+(2)高風險不明原因暈厥且經18019C及18034B仍無法查明病因者。
+2.支付規範：
+(1)醫師資格：心臟內科、心臟外科、小兒心臟內科醫師。
+(2)需事前審查，應檢附Holter二十四小時心電圖、手腕式心律紀錄檢查或電生理學檢查報告。
+(3)不得同時申報：18019C、18034B。
+
+v
+v
+v
+4722
+47109B
+植入式心臟節律器參數程控調整作業
+Exam and adjustment of implanted pacemaker
+註：
+1.適用範圍：植入心臟節律器之病人。
+2.支付規範：
+(1)執行人員：心臟內科、心臟外科或小兒心臟科專科醫師。
+(2)執行頻率：每年限申報二次，因疾病需執行MRI或手術者，得再申報一次。
+(3)申報時應檢附：裝置讀值報告，內容包括電池剩餘壽命、導線狀況（電阻、感應、閥值）、調節器設定模式、心律不整紀錄、程控操作報告摘要。
+
+v
+v
+v
+556
+47110B
+植入式心臟去顫器或再同步治療參數程控調整作業
+Exam and adjustment of implanted cardioverter defibrillator and cardiac resynchronization therapy devices
+註：
+1.適用範圍：植入心臟去顫器(ICD)及再同步治療(CRT)裝置之病人。
+2.支付規範：
+(1)執行人員：心臟內科、心臟外科或小兒心臟科專科醫師。
+(2)執行頻率：每年限申報四次，因疾病需執行MRI或手術者，得再申報一次。
+(3)申報時應檢附：裝置讀值報告，內容包括電池剩餘壽命、導線狀況（電阻、感應、閥值）、調節器設定模式、心律不整紀錄及程控操作報告摘要。
+
+v
+v
+v
+822
+
+二、創傷處置Wound Treatment (48001-48035)
+
+通則：本項各處置項目皆為兒童加成項目，另部分診療項目項下加註「提升兒童加成項目」者，其加成率適用本節通則六、(二)之規定。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+淺部創傷處理 Wound treatment
+
+
+
+
+
+48001C
+－ 傷口長小於五公分者 <5cm
+v
+v
+v
+v
+420
+48002C
+－ 傷口長五至十公分者 5-10cm
+v
+v
+v
+v
+562
+48003C
+－ 傷口長大於十公分者 >10cm
+v
+v
+v
+v
+739
+
+註：
+1.切傷、刺傷、割傷或挫滅傷之複診患者依48011C-48013C申報。
+2.含縫合、接紮、擴創處理。
+3.除於病歷註明處置日期、部位及大小，應檢附繪圖說明或處置前後彩色照片備查。
+
+
+
+
+
+48027P
+淺部創傷之第二次處理2nd Wound treatment
+註：
+1.含縫合、接紮、擴創處理。
+2.本項限第二次處理申報，至於後續療程(第三次及以後就醫)之複診患者請依48011C-48013C申報。
+3.限向衛生局登記為診所(不含中醫診所及牙醫診所)之特約醫事服務機構申報。
+v
+
+
+
+308
+
+深部複雜創傷處理 Debridement
+
+
+
+
+
+48004C
+－ 傷口長小於五公分者 <5cm
+v
+v
+v
+v
+2419
+48005C
+－ 傷口長五至十公分者 5-10cm
+v
+v
+v
+v
+3043
+48006C
+－ 傷口長大於十公分者 >10cm
+v
+v
+v
+v
+4792
+
+註：
+1.指創傷深及肌肉、神經、肌腱、骨膜時之處理。
+2.含縫合、接紮、擴創處理。
+3.除於病歷註明處置日期、部位及大小，應檢附繪圖說明或處置前後彩色照片備查。
+4.會陰部位擴創術按48006C申報。
+
+
+
+
+
+48007C
+小膿瘍切開，個 Abscess incision
+註：超過5個按5個計算。
+v
+v
+v
+v
+194
+48008C
+手術、創傷處置及換藥－填塞排膿
+Change dressing- I & D
+v
+v
+v
+v
+244
+48009C
+手術、創傷處置及換藥－導管引流
+Change dressing- tube drainage
+v
+v
+v
+v
+107
+48010C
+手術、創傷處置及換藥－傷口處置
+Change dressing- wound care
+v
+v
+v
+v
+97
+
+手術、創傷處置及換藥 Change dressing 
+
+
+
+
+
+48011C
+－ 小換藥（小於十公分）small (<10cm)
+v
+v
+v
+v
+56
+48012C
+－ 中換藥（十至二十公分）medium (10-20cm)
+v
+v
+v
+v
+76
+48013C
+－ 大換藥（大於二十公分）large ( >20cm)
+v
+v
+v
+v
+125
+
+註：
+1.包括材料費在內。
+2.基層院所申報48011C得加計百分之四十。
+3.基層院所申報48012C得加計百分之二十。
+
+
+
+
+
+
+皮面創傷處理(火、燙、電、凍、藥品燒灼傷及燒膿瘍之處理及換藥)
+
+
+
+
+
+48014C
+－ 體表面積小於十一BSA (相當半肢面積)
+v
+v
+v
+v
+2417
+48015B
+－ 體表面積十一至三十五 BSA (相當一肢面積)
+
+v
+v
+v
+4431
+48016B
+－ 體表面積三十六至五十BSA (相當二肢面積)
+
+v
+v
+v
+6663
+48017B
+－ 體表面積五十一至七十 BSA (軀幹四肢者) 
+
+v
+v
+v
+10071
+48029B
+－ 體表面積七十一至九十BSA (軀幹四肢者)
+
+v
+v
+v
+13275
+48030B
+－ 體表面積大於九十BSA (軀幹四肢者)
+
+v
+v
+v
+17854
+
+註：
+1.半肢為4.5 BSA 。
+2.包括材料費在內。
+3.申報費用時，請註明處置日期和部位。
+4.除48014C屬兒童加成項目外，其餘項目為提升兒童加成項目。
+
+
+
+
+
+
+皮面創傷換藥
+(火、燙、電、凍、藥品燒灼傷及燒膿瘍之換藥)
+
+
+
+
+
+48018C
+－ 體表面積小於十一BSA (相當半肢面積)
+v
+v
+v
+v
+1343
+48019B
+－ 體表面積十一至三十五BSA (相當一肢面積)
+
+v
+v
+v
+2014
+48020B
+－ 體表面積三十六至五十BSA (相當二肢面積)
+
+v
+v
+v
+3357
+48021B
+－ 體表面積五十一至七十BSA (軀幹四肢者)
+
+v
+v
+v
+4029
+48031B
+－ 體表面積七十一至九十BSA (軀幹四肢者)
+
+v
+v
+v
+7966
+48032B
+－ 體表面積大於九十BSA (軀幹四肢者)
+
+v
+v
+v
+8926
+
+註：
+1.半肢為4.5 BSA。 
+2.包括材料費、溼敷在內。
+3.除48018C屬兒童加成項目外，其餘項目為提升兒童加成項目。
+
+
+
+
+
+
+臉部創傷處理 Treatment of facial laceration
+
+
+
+
+
+48022C
+– 小 小於五公分< 5cm
+v
+v
+v
+v
+1566
+48023C
+– 中 五公分至十公分 5-10 cm
+v
+v
+v
+v
+2515
+48024C
+– 大 超過十公分 > 10cm
+v
+v
+v
+v
+3249
+
+註：
+1.縫合傷口包括皮膚及皮下。
+2.含縫合、接紮、擴創處理。
+
+
+
+
+
+
+深部複雜臉部創傷處理
+
+
+
+
+
+48033C
+– 小 小於五公分
+Deep complicated facial wound debridement - < 5cm
+v
+v
+v
+v
+2445
+48034C
+– 中 五公分至十公分
+Deep complicated facial wound debridement - 5-10 cm
+v
+v
+v
+v
+3534
+48035C
+– 大 超過十公分
+Deep complicated facial wound debridement - >10cm 
+v
+v
+v
+v
+4101
+
+註：
+1.縫合傷口包含皮膚、皮下、 肌膜及肌肉層。
+2.含縫合、接紮、擴創處理。
+
+
+
+
+
+48028P
+深部複雜、臉部創傷之第二次處理
+2nd Debridement、Treatment of facial laceration
+v
+
+
+
+496
+
+註：
+1.含縫合、接紮、擴創處理。
+2.本項限第二次處理申報，至於後續療程(第三次及以後就醫)之複診患者請依48011C-48013C申報。
+3.限向衛生局登記為診所(不含中醫診所及牙醫診所)之特約醫事服務機構申報。
+
+
+
+
+
+
+拆線 Remove Stiches (次)
+
+
+
+
+
+48025C
+－ 傷口小於十公分 <10cm
+v
+v
+v
+v
+97
+48026C
+－ 傷口十公分以上 >10cm
+v
+v
+v
+v
+303
+
+三、大腸肛門處置Colonand Anus Treatment (49001-49033)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+49001C
+糞嵌塞清除 
+Cleaning fecal impaction
+註：提升兒童加成項目。
+v
+v
+v
+v
+263
+49002C
+直腸清洗 
+Rectal irrigation
+註：兒童加成項目。
+v
+v
+v
+v
+392
+49003C
+會陰清洗治療 Perineal care
+v
+v
+v
+v
+54
+49004C
+肛門切除後治療(每次) 
+Post APR wound care, each
+v
+v
+v
+v
+324
+49005C
+人工肛門灌洗 Colostomy irrigation
+v
+v
+v
+v
+200
+49006C
+肛門擴張 Anal dilation bugination
+v
+v
+v
+v
+82
+49007C
+肛門瘻管刮除 Fistula curretage
+v
+v
+v
+v
+358
+49008C
+肛口電灼術 
+Electro-cauterization, perianal
+v
+v
+v
+v
+1292
+49009C
+痔瘡脫出注射治療 
+Hemorrhoid prolapse injection
+v
+v
+v
+v
+502
+49010C
+肛門周圍膿瘍引流 
+Periproctal abscess drainage
+v
+v
+v
+v
+744
+49011C
+痔冷凍治療 
+Hemorrhoid cryotherapy
+註：適用於初期(第一級和第二級)內痔出血的情況，第三級和第四級及栓塞痔不適用。
+v
+v
+v
+v
+810
+49012C
+痔硬化劑注射 
+Hemorrhoid injection （一次）
+v
+v
+v
+v
+469
+49013C
+皮下括約肌切開術
+Subcutaneous sphincterotomy
+v
+v
+v
+v
+1461
+
+大腸息肉切除術　
+Polypectomy
+
+
+
+
+
+49027C
+－一顆至三顆
+v
+v
+v
+v
+2520
+49032C
+－四顆至九顆
+v
+v
+v
+v
+3304
+49033C
+－十顆以上
+v
+v
+v
+v
+6304
+
+註：
+1.經由大腸鏡檢查時，依病情需要實施息肉切除者申報。本項目不含鏡檢費用。
+2.內含單次使用息肉切除器比率為一顆至三顆百分之二十七、四顆至九顆百分之二十及十顆以上百分之十一。
+3.限由消化內科、消化外科、大腸直腸外科、兒科消化學及小兒外科專科醫師執行。
+4.提升兒童加成項目。
+5.應檢附照片及內視鏡報告(須參考「國民健康署大腸癌篩檢指引手冊之大腸鏡報告」)，於病歷呈現逐顆之描述。
+6.不得同時申報74207C、73008B及72050B。
+
+
+
+
+
+49025C
+大腸鏡異物取出術 
+Colonoscopy, with removal of foreign body
+註：
+1.包括大腸纖維鏡檢查。
+2.提升兒童加成項目。
+3.限由消化內科、消化外科、大腸直腸外科、兒科消化學及小兒外科專科醫師執行。
+v
+v
+v
+v
+5627
+49015C
+痔單純血栓切除 
+Hemorrhoid thrombectomy
+v
+v
+v
+v
+987
+49016C
+經肛門取出直腸異物 
+Transanal removal of FB
+註：
+1.係指以內視鏡取出異物並包括內視鏡費用。
+2.提升兒童加成項目。
+v
+v
+v
+v
+2010
+49017C
+會陰清洗及瘻管沖洗
+Perineal care & fistula irrigation
+v
+v
+v
+v
+147
+49018C
+硝酸銀燒灼 Ag NO3 cauterization
+v
+v
+v
+v
+77
+49019B
+直肛壓力測定術 
+Anorectal manometry
+註：
+1.提升兒童加成項目。
+2.不得同時申報49030B。
+
+v
+v
+v
+748
+49020B
+三路灌洗 Three way irrigation
+
+v
+v
+v
+343
+49021B
+迴腸造口永久裝具裝置
+Ileostomy, permanent appliance
+
+v
+v
+v
+235
+49022B
+迴腸膀胱永久裝具裝置
+Ileum bladder, permanent appliance
+
+v
+v
+v
+282
+49023C
+直腸內視鏡止血術
+Endoscopic control of hemorrhage, rectum and/or fulguration
+註：含內視鏡使用費。
+v
+v
+v
+v
+2392
+49024B
+人工肛門造口袋置換術
+Appliance of colostomy bag
+註：由患者自行操作者不得申報。
+
+v
+v
+v
+95
+49026C
+經大腸鏡結腸止血術
+Endoscopic hemostasis for colon bleeding
+註：含一般材料費及特殊材料費。
+v
+v
+v
+v
+8044
+49028B
+直腸抽取吸片術 
+Rectal suction biopsy
+1.適應症：
+(1)曾因megacolon disease手術過。
+(2)下消化道攝影疑似先天性巨結腸症或直腸神經節缺乏之相關疾病。
+
+v
+v
+v
+1477
+49029B
+大腸金屬支架置放術
+Colonic self-expandable metalic stent placement
+註：
+1.適應症: 
+(1)結直腸癌有嚴重阻塞症狀且無法進行治癒性手術治療者。
+(2)離肛門五公分以上，兒科病人除外。
+2.符合適應症之病人，後續如有考慮使用avastin者排除使用。
+3.限消化內科、消化外科、大腸直腸外科、放射線科、兒科消化學及小兒外科專科醫師執行。
+4.執行頻率：以執行一次為原則，如需執行第二次以上須事前審查。
+5.內含一般材料費、造影導管(Cannula)及拋棄式導線費比率為百分之五十三。
+
+v
+v
+v
+13735
+49030B
+高解析度直肛壓力測定術
+High Resolution Anorectal Manometry
+
+v
+v
+v
+10433
+
+註：
+1.適應症及執行頻率：
+(1)巨結腸症：下消化道攝影後疑似巨結腸症診斷使用，每人限給付一次。
+(2)先天性巨結腸症或肛門結構異常術後，仍有排便功能異常，需持續治療者，至多兩年一次。
+2.支付規範：
+(1)限消化內科、消化兒科、小兒外科、消化外科、大腸直腸外科專科醫師執行。
+(2)不得同時申報49019B。
+(3)內含一般材料費及「高解析直肛壓力測量管」費比率為百分之五十九。
+
+
+
+
+
+49031B
+留置性導便裝置
+Fecal incontinence diversion
+註：
+1.限住院病人並符合適應症：深度二度以上之大面積燒傷，同時包含下肢或會陰部燒傷，且大便失禁者。
+2.禁忌症:
+(1)疑似或證實有直腸黏膜損傷，例如嚴重直腸炎、缺血性直腸炎、黏膜潰瘍。
+(2)一年內曾經接受直腸手術。
+(3)有任何直腸或肛門損傷。
+(4)有大小顯著的痔瘡及/或症狀。
+(5)有直腸或肛門狹窄或壞死。
+(6)有疑似或證實的高低位乙狀結腸或直腸／肛門腫瘤。
+3.執行頻率：同次住院第二次申報須與前次間隔二十八天以上。
+4.大便失禁套件另計。
+
+v
+v
+v
+485
+
+
+
+四、泌尿系統處置 Urinary Treatment (50001-50036)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+50001C
+尿道徑測量Urethral calibration with bougie
+v
+v
+v
+v
+130
+50002C
+尿道口切開術 Meatotomy
+v
+v
+v
+v
+290
+50003C
+包莖側面或背面切開
+Phimosis, dorsal/lateral slit
+v
+v
+v
+v
+1075
+50004C
+生殖器異物摘除術
+Foreign body removal, genitalia
+註：良性腫瘤切除(benign tumor excision)比照申報。
+v
+v
+v
+v
+1869
+50005C
+濕疣電燒灼入 Electrocauterization for condyloma
+v
+v
+v
+v
+945
+50006C
+膀胱造口引流換洗
+Change cystostomy tube with or without bladder irrigation
+v
+v
+v
+v
+183
+50007C
+腎造口引流管換洗
+Change nephrostomy tube with or without irrigation
+v
+v
+v
+v
+210
+50008C
+人工膀胱之擴張
+Dilation of artificial bladder
+v
+v
+v
+v
+226
+50009C
+前列腺按摩 Prostatic massage
+v
+v
+v
+v
+230
+50010C
+經膀胱鏡逆行尿管導管
+Cystoscopy + retrograded ureteral catheterization
+註：移除雙J輸尿管導管 ( remove double-J ureteral cath) 比照申報。
+v
+v
+v
+v
+2100
+50011C
+膀胱灌注 Bladder instillation
+v
+v
+v
+v
+260
+50012C
+膀胱沖洗 Bladder irrigation
+v
+v
+v
+v
+95
+50013C
+尿道擴張 Urethral sounding
+v
+v
+v
+v
+630
+50014C
+膀胱24小時連續沖洗 24hrs bladder irrigation
+註：沖洗藥水按使用量申報。
+v
+v
+v
+v
+383
+50015C
+濕疣外科化學療法 Chemosurgery, condyloma
+v
+v
+v
+v
+325
+50016C
+外尿道邊膿瘍切開術
+Incision & drainage for periurethral abscess
+v
+v
+v
+v
+390
+50017C
+陰囊膿瘍切開 Incision for scrotal abscess
+v
+v
+v
+v
+159
+50018C
+巴氏囊腫引流術，單側
+Drainage of Bartholin's gland cyst, unilateral
+v
+v
+v
+v
+468
+50019C
+雙J輸尿管導管置入術
+Double-J ureteral stent insertion
+v
+v
+v
+v
+2725
+50020C
+包莖環切術 Circumcision for phimosis
+註：兒童加成項目。
+v
+v
+v
+v
+2252
+50021C
+徒手睪丸扭轉整復
+Manual reduction of testicular torsion
+v
+v
+v
+v
+143
+50022C
+更換腎臟引流或膀胱引流管 Catheter change
+v
+v
+v
+v
+95
+
+尿路結石體外震波碎石術
+Extracorporeal shock wave lithotripsy (ESWL) for urolithiasis
+
+
+
+
+
+50023B
+第一次 first time
+
+v
+v
+v
+26920
+50024B
+第二次 second time
+註：
+1.包括下列項目 including following items 
+(1)治療費 treatment fee
+(2)一般材料費及特材費（不得再申報電擊棒之特材費用）general material fee & special material fee 
+(3)機器維護費 machine maintenance fee 
+(4)手術費 operation fee
+2.第二次係指三十日內實施之第二次。
+3.本項以 「側」為給付單位，同側不同病灶之部位同日施行治療，以治療一次計。
+4.同日施行兩側治療，另一側以第二次計。
+5.三十日內同側第三次以上治療，應檢具X光片專案申請，經保險人同意後施行，費用比照第二次申報。
+6.申報費用應檢附當次暨前次實施體外電震波腎臟碎石術（ESWL）紀錄影本憑核。
+7.麻醉費得另外申報。
+8.完全鹿角結石之第一次治療，須事前專案申請並詳細說明其必要性。
+9.醫療機構條件：
+(1)應為醫院。
+(2)應有專任之泌尿科專科醫師二名以上；離島地區醫療機構應有一名專任之泌尿科專科醫師，另一名泌尿科專科醫師得以兼任方式為之；非離島地區醫療機構，若一名泌尿科醫師係以「醫學中心支援離島及醫療資源不足地區醫院緊急醫療照護服務獎勵計畫」全年全時段支援該院，得比照上述離島地區規定。
+(3)應有下列經皮腎結石取石術及輸尿管鏡碎石手術設備：
+A.X光透視機
+B.腎臟鏡
+C.輸尿管鏡
+D.至少ㄧ種經內視鏡碎石機（如氣動式撞擊碎石機超音波碎石機、雷射碎石機、電擊碎石（electrohydraulic lithotriptor））。
+10.操作醫師資格：應具泌尿科專科醫師資格，並符合下列條件：
+(1)實際操作體外震波碎石機五十例以上之經驗，經服務醫院審查通過，發給證明文件。
+(2)依操作機型，應有下列相關訓練：
+A.操作ｘ光線定位機型，應有輻射安全證書或輻射防護訓練證明。
+B.操作超音波定位機型，應有泌尿系統超音波訓練證明。
+11.適應症符合下列任一條件：
+(1)輸尿管結石零點五公分以上。
+(2)輸尿管結石未滿零點五公分且併有明顯阻塞性腎水腫、重複感染或重複腎絞痛者。
+(3)腎臟結石或腎盞結石零點五公分以上至二公分以下。
+
+v
+v
+v
+19595
+50027B
+治療尿路迴流之膀胱三角下層注射術
+Anti-reflux procedure with subtrigonal injection
+註：
+1.含鏡檢費用。
+2.提升兒童加成項目。
+
+v
+v
+v
+4638
+50029C
+膀胱鏡檢及硝酸銀腎臟灌洗術
+Cystoscopy + Renal pelvis AgNO3 instillation
+註：
+1.為保障保險對象權益，施行前須先評估其適當性及危險性。
+2.提升兒童加成項目。
+v
+v
+v
+v
+2100
+50030C
+膀胱內血塊清除術
+Bladder blood clot evacuation with Toomy bladder evacuator
+v
+v
+v
+v
+390
+50032C
+嵌頓性包皮徒手整復術
+Reduction of paraphimosis
+v
+v
+v
+v
+143
+50033C
+疝氣徒手復位術
+Closed reduction of hernia
+v
+v
+v
+v
+143
+50034C
+副睪丸取精術
+Aspiration of sperm from epididymis
+註：僅限局部病灶治療，施行人工協助生殖技術者不得申報。
+v
+v
+v
+v
+160
+50035B
+腎臟腫瘤冷凍治療
+Cryotherapy for renal tumor
+註：
+1.限高危險病患不適接受傳統手術及麻醉者施行。
+2.個案需事前專案向保險人申請。
+3.含括手術技術費、定位技術費、一般材料費及特殊材料費等。
+
+v
+v
+v
+70000
+50036B
+膀胱內注射術
+Intravesical injection
+註：
+1.適應症：膀胱神經肌肉功能障礙(ICD-10-CM：N31)、尿失禁(ICD-10-CM：N39.3-N39.498、R32、R39.81、F98.0)、膀胱過動症(ICD-10-CM：N32.81)。
+2.禁忌症：嚴重尿路感染。
+3.限泌尿科、婦產科專科醫師執行。
+4.內含膀胱鏡及膀胱鏡注射針等費用。
+
+v
+v
+v
+6220
+
+五、皮膚處置Dermatology Treatment (51001-51033)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+皮膚切片、穿片與縫合 Skin biopsy, and suture
+
+
+
+
+
+51001C
+－ 一針one punch
+v
+v
+v
+v
+348
+51002C
+－ 二針two punchs
+v
+v
+v
+v
+432
+51003C
+－ 三針以上over two punchs
+v
+v
+v
+v
+564
+51004C
+皮膚簡單切開或切除不縫合(含膿疱切開)
+Skin surgery, no suture, each
+v
+v
+v
+v
+95
+51005C
+皮膚電燒灼治療－單純 
+Electro cauterization , simple
+註：1.面積小於二平方公分。
+2.限用於各種皮膚腫瘤、疣。
+v
+v
+v
+v
+280
+51006C
+皮膚電燒灼治療－複雜 
+Electro cauterization , complicated 
+註：1.面積大於二平方公分。
+2.限用於各種皮膚腫瘤、疣。
+v
+v
+v
+v
+425
+
+藥物燒灼治療 Chemical cauterization 
+
+
+
+
+
+51007C
+－ 單純 simple
+v
+v
+v
+v
+95
+51008C
+－ 複雜 complicated 
+v
+v
+v
+v
+270
+
+皮膚病灶內部注射 Intradermal injection
+
+
+
+
+
+51009C
+－小於四平方公分 <4cm2
+v
+v
+v
+v
+250
+51010C
+－四至九平方公分 4~9cm2
+v
+v
+v
+v
+300
+51011C
+－超過九平方公分 >9cm2
+v
+v
+v
+v
+375
+
+註：限用於蟹足腫、囊腫、圓禿及結節性癢疹，及其他經公認病灶內注射治療有效之皮症。
+
+
+
+
+
+
+密封療法 O.D.T. ( Occlusive dressig technique)
+
+
+
+
+
+51012C
+－ 局部 local 
+v
+v
+v
+v
+60
+51013C
+－ 兩上肢或兩下肢 U/E or L/E
+v
+v
+v
+v
+130
+51014C
+－ 全身 whole body
+v
+v
+v
+v
+455
+51015C
+浸泡療法 Soaking每次
+v
+v
+v
+v
+95
+51016C
+濕敷療法 Wet dressing每次 
+v
+v
+v
+v
+83
+51018C
+光化治療 一天 
+Photochemotherapy (PUVA) daily
+1.應於病歷上註明每次治療日期及劑量。
+2.病情穩定者，同一療程以六次為原則。
+3.每週至多可申報三次至四次為原則。
+4.適應症：乾癬、皮膚淋巴瘤及尿毒性皮癢症，或其他經公認照光治療有效之皮症。但屬西醫基層總額部門院所限申報乾癬(ICD-10-CM：L40.0-L40.4、L40.8、L40.9)。
+5.限皮膚科專科醫師執行及申報。
+6.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+855
+51019C
+光線治療 (包括太陽光、紫外線、紅外線)一天 
+Phototherapy (including sun-lamp、ultraviolet light、infra red)daily
+註：
+1.應於病歷上註明每次治療日期及劑量。
+2.病情穩定者，同一療程以六次為原則。
+3.每週至多可申報六次為原則。
+4.適應症：乾癬、皮膚淋巴瘤及尿毒性皮癢症，或其他經公認照光治療有效之皮症。但屬西醫基層總額部門院所限申報乾癬(ICD-10-CM：L40.0-L40.4、L40.8、L40.9)。
+5.限皮膚科專科醫師執行及申報。
+6.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+430
+51020C
+切開排膿 Incision and drainage
+註：包括囊腫切除(Including abscess excision)。
+v
+v
+v
+v
+280
+51017C
+
+液態氮冷凍治療
+Liquid nitrogen cryosurgery
+v
+v
+v
+v
+600
+
+51021C
+冷凍治療－ 單純 
+Cryotherapy –simple,including CO2 freezing and liquid nitrogen.
+v
+v
+v
+v
+125
+51022C
+冷凍治療 － 複雜 
+Cryotherapy -complicated，including CO2 freezing and liquid nitrogen.
+v
+v
+v
+v
+250
+
+註：
+1.計次不計數，每次就診不論病灶個數均申報一次，且每次治療（相同及不同處置）應間隔至少一週。
+2.適應症：
+(1)血管病變：化膿性肉芽腫、假性膿性肉芽腫、卡波西氏肉瘤、血管瘤、淋巴管瘤。
+
+
+
+
+
+
+(2)角化及癌前期病變：病毒疣、日光性角化症、皮角(cutaneous horn)、波文氏症、角化棘皮瘤、傳染性軟疣。
+(3)癌：基底細胞癌、鱗狀細胞癌、惡性黑色素瘤。
+(4)囊腫：粘液性囊腫。
+(5)瘢痕或蟹足腫。
+(6)鼻頭腫疣（酒糟鼻）。
+(7)結節性癢疹。
+(8)汗孔角化症（porokerotosis）。
+
+
+
+
+
+
+亂切治療 Scarification
+
+
+
+
+
+51023B
+－ 小 minor
+
+v
+v
+v
+297
+51024B
+－ 大 major
+
+v
+v
+v
+524
+51025B
+水泡吸著 Suction blister
+
+v
+v
+v
+420
+51026B
+水泡吸著及植皮 Suction blister and graft
+
+v
+v
+v
+840
+
+切片 Excision biopsy
+
+
+
+
+
+51027B
+－ 普通 normal
+
+v
+v
+v
+380
+51028B
+－ 螢光特別 special 
+
+v
+v
+v
+565
+51029B
+離子電泳導入 Iontophoresis
+
+v
+v
+v
+228
+
+Zyderm注射，每支Zyderm liquid, each AMP
+
+
+
+
+
+51030B
+－ 單病灶部位 simple
+
+v
+v
+v
+1476
+51031B
+－ 多病灶部位 complicate
+
+v
+v
+v
+2040
+51032B
+低能量氦氖雷射治療
+註：
+1.限皮膚科專科醫師執行。
+2.適應症為分節型白斑、慢性皮膚潰瘍及疱疹後神經痛。
+3.申報須檢附治療前後相片及治療紀錄(註明每次治療日期、劑量及部位)。
+4.每週最多申報三次，總共不超過五十次為原則。
+
+v
+v
+v
+430
+51033C
+皮膚鏡檢查
+Dermoscope examination
+註：
+1.適應症：
+(1)皮膚癌症追蹤(黑色素細胞癌、基底細胞癌、鱗狀細胞癌、其它皮膚癌症等)。但屬西醫基層總額部門院所限申報此項。
+(2)皮膚角化、色素性腫瘤良性或惡性鑑別診斷。
+2.支付規範：
+(1)每人每月限申報一次。
+(2)同一病灶第二次申報需間隔六個月，申報時需附病歷紀錄及皮膚鏡照片。
+(3)限皮膚科專科醫師執行申報。
+(4)不得同時申報編號51003C及25004C。
+3.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+250
+六、骨骼處置Orthopadic Treatment (52001-52015)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+52001B
+皮膚牽引 Skin traction 一次 
+註：含皮膚牽引組在內。
+
+v
+v
+v
+573
+52002B
+骨骼牽引（鋼線牽引） Skeletal traction 一次 
+
+v
+v
+v
+2013
+52003B
+骨盆牽引 Pelvic traction 一次 
+
+v
+v
+v
+352
+52004B
+胸骨牽引 Sternum traction一次 
+
+v
+v
+v
+565
+52005B
+羅氏牽引 Russels traction一次 
+
+v
+v
+v
+705
+52006B
+頭部牽引 Crutchfield tongs traction一次 
+
+v
+v
+v
+2130
+52007B
+頭骨夾頸椎牽引 Crutchfield cervical traction 一次
+
+v
+v
+v
+1325
+52008B
+頭骨頸椎牽引 Strape cervical traction 一次
+
+v
+v
+v
+352
+52009B
+Balance 牽引 Balance traction 一次
+
+v
+v
+v
+2416
+52010B
+牽引調整技術費 Traction adjustment 一天 
+
+v
+v
+v
+150
+52011C
+鎖骨固定術（八字帶固定）
+Subclavian fixation (Figure-8 fixation shoulder)
+註：含八字固定帶費用在內。 
+v
+v
+v
+v
+725
+52012C
+手臂固定 Verpon fixation, arm 
+v
+v
+v
+v
+250
+52013C
+拔除骨折固定之骨釘或鋼線  
+Removal of pins or wires (for fracture fixaction)
+v
+v
+v
+v
+280
+52014B
+骨盆吊帶使用 Pelvic sling use
+註：限住院期間申報一次。
+
+v
+v
+v
+280
+52015C
+掌骨、指、趾骨固定術
+Metacarpal bone or toe bone fixation
+註：
+1.本項係指未達徒手復位僅為固定時申報。
+2.含鋁板及副木在內。
+3.申報徒手復位術者不得重覆申報本項。
+v
+v
+v
+v
+350
+
+
+
+
+七、眼科處置Ocular Treatment (53001-53034)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+53001C
+睫毛拔除術 Epilation, manual
+v
+v
+v
+v
+40
+53002C
+睫毛電氣分解術 Epilation, electrolysis
+註：包括簡單麻醉在內。
+v
+v
+v
+v
+195
+53003C
+眼瞼膿瘍切開術 I&D for hordeolum
+v
+v
+v
+v
+280
+53004C
+眼瞼皮縫合每針 Eyelid suture/stitch 
+v
+v
+v
+v
+72
+53005C
+拆線單眼 Remove stitches/monocular
+v
+v
+v
+v
+70
+53006C
+淚囊沖洗 Lacrimal irrigation
+v
+v
+v
+v
+195
+53007C
+淚管探子 Lacrimal duct Bougie 
+註：兒童加成項目。
+v
+v
+v
+v
+290
+53008B
+長期沖洗（每日）Continuous irrigation 
+註：限住院申報。
+
+v
+v
+v
+248
+53009C
+結膜縫合每針 Conjunctival suture/stitch 
+v
+v
+v
+v
+160
+53010C
+角膜異物除去術 - 單純 
+Corneal foreign body removal, simple
+註：去除偽膜 (Psudomembrane removal) 比照申報。
+v
+v
+v
+v
+230
+53011C
+角膜異物除去術 - 複雜 
+Corneal foreign body removal, complicate
+v
+v
+v
+v
+490
+53012C
+角膜藥物燒灼 Corneal cauterization, medical 
+v
+v
+v
+v
+300
+53013C
+角膜電氣燒灼 Corneal cauterization, electric
+v
+v
+v
+v
+296
+53014C
+角膜縫合每針 Corneal suture/stitch
+v
+v
+v
+v
+198
+53015C
+眼窩, 膿瘍切開術
+Incision & drainage of orbital abscess 
+v
+v
+v
+v
+975
+53016C
+換藥 Change dressing
+註：
+1.執行門診手術項目最多可申報術後換藥二次，術後之期間不得超過二星期，特殊情況不在此限；隨後之門診複查、追蹤，不可再申報換藥費用。
+2.因嚴重角膜潰瘍住院，施行角膜潰瘍點藥、包紮等換藥者，每日最多限申報四次。
+v
+v
+v
+v
+40
+53017C
+砂眼手術、壓碎或電燒 
+Expression or electro cauterization for trachoma
+v
+v
+v
+v
+349
+53018C
+淚囊探測術 Lacrimal probing 
+v
+v
+v
+v
+264
+53019C
+鼻淚導管裝置術 Naso-lacrimal duct catheteri-zation
+v
+v
+v
+v
+1990
+53020C
+睫毛冷凍分解術
+Epilation, cryolysis
+v
+v
+v
+v
+610
+53021C
+斜視訓練 Orthoptic training 
+v
+v
+v
+v
+101
+53022C
+低視能訓練 Low vision training
+v
+v
+v
+v
+167
+53023B
+綜合視覺機能檢查 Visual function test 
+
+v
+v
+v
+561
+53024C
+視覺機能訓練 Visual function training 
+v
+v
+v
+v
+167
+53025C
+結膜表面異物除去術 Removal of foreign body
+from surface of conjunctiva 
+v
+v
+v
+v
+170
+
+結膜結石摘除 Removal conjunctival lithiasis 
+
+
+
+
+
+53026C
+單純／表淺 superficial／simple
+v
+v
+v
+v
+160
+53027C
+複雜／植床 embeded／complicated 
+v
+v
+v
+v
+230
+53028C
+淚孔擴張 Dilation of punctum
+v
+v
+v
+v
+170
+53029C
+雷射拆線 Suture Removal-Laser
+註：適應症
+1.於青光眼小樑切除術後，眼壓高須調整房水流量者。
+2.白內障手術後須調整散光者。
+v
+v
+v
+v
+230
+53030C
+結膜藥物燒灼 
+Conjuctival chemical cauterization
+註：已包含表面麻醉、敷料、生理食鹽水及硝酸鹽等材料費在內。
+v
+v
+v
+v
+195
+53031C
+淚小點閉合術(每針) 
+Punctum occlusion (each suture)
+註：超過五針(含)時，改按87417C「淚管開口縫合術」申報。
+v
+v
+v
+v
+195
+53033C
+鼻淚管淚道氣球擴張術
+Balloon dacryocystoplasty
+註：內含單次使用鼻淚管整型擴充器比率為百分之六十五。
+v
+v
+v
+v
+18500
+53034B
+角膜處理費
+註：
+1.限國內捐贈角膜處理之申報。
+2.內含處理費用(含義眼球或眼蓋片)、檢驗費用(包括細隙燈生體顯微鏡檢驗、角膜內皮細胞分析儀檢驗及微生物培養檢驗)、消毒費用、角膜保存液(Optisol-GS)及角膜內皮細胞分析檢驗角膜儲存盒(View chamber)、一般材料等費用。
+3.限由執行角膜移植手術醫院申報。申報時需檢附角膜評估單。
+
+v
+v
+v
+15897
+八、耳鼻喉處置 E.N.T. Treatment (54001-54045)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+54001C
+耳垢嵌塞取出，單側 Impacted cerumen, unilteral
+v
+v
+v
+v
+185
+54002C
+傳統耳膜切開術 Myringotomy without microscope 
+v
+v
+v
+v
+425
+54003C
+簡易異物取出 
+Simple F.B. removal, ENT 
+v
+v
+v
+v
+585
+54004C
+複雜異物取出
+Complicated F.B. Removal, (larynx hypopharynx)
+v
+v
+v
+v
+1654
+
+耳咽管通氣術 E-tube inflation 
+
+
+
+
+
+54005C
+－ 單側 unilateral
+v
+v
+v
+v
+224
+54006C
+－ 雙側 bilateral 
+v
+v
+v
+v
+376
+54007C
+耳膜紙成形術 Paper tympanoplasty
+v
+v
+v
+v
+590
+54008C
+外耳道切開引流術 
+I & D of external ear 
+v
+v
+v
+v
+434
+54009B
+顯微鏡下耳內注射
+Intratympanic injection under micro.
+
+v
+v
+v
+503
+54010C
+鼻前部鼻流血處理 
+Simple epistaxis (Ant.)
+v
+v
+v
+v
+280
+54011C
+鼻後部鼻流血處理 
+Complicated epistaxis (Post.)
+註：不得同時申報65079B。
+v
+v
+v
+v
+1130
+54012C
+鼻內注射術 Intranasal injection 
+v
+v
+v
+v
+160
+54013C
+鼻內電燒術 Intranasal cauterization 
+v
+v
+v
+v
+170
+54014C
+簡易繫帶切開術 Simple frenectomy
+v
+v
+v
+v
+657
+54015C
+周邊性扁桃腺膿瘍切開引流
+I & D for peritonsillar abscess 
+v
+v
+v
+v
+657
+54016B
+食道探條擴張術 
+Esophageal Bougination 
+註：提升兒童加成項目。
+
+v
+v
+v
+262
+54018C
+內視鏡喉頭異物取出術
+Endoscopic laryngeal foreign body removal
+註：
+1.兒童加成項目。
+2.含內視鏡費。
+v
+v
+v
+v
+1632
+
+耳鼻喉局部治療 ENT local treatment
+
+
+
+
+
+54019C
+－膿或痂皮之取出或抽吸
+Removal or suction of abscess or crust
+v
+v
+v
+v
+120
+54027C
+－傷口處置及換藥
+Wound treatment and change dressing 
+v
+v
+v
+v
+120
+54037C
+－耳部雙側膿或痂皮之取出或抽吸
+Removal or suction of abscess or crust, bilateral ear 
+v
+v
+v
+v
+180
+54038C
+－耳部雙側傷口處置及換藥
+Wound treatment and change dressing bilateral ear 
+註：
+1.申報本項治療，原則上限有下列適應症者：
+(1)耳部：中耳炎、外耳炎、耳部手術後、放射線治療中或後。
+(2)鼻部：鼻竇炎、鼻咽炎、萎縮性鼻炎、鼻前庭炎、鼻部手術後、放射線治療中或後。
+(3)喉部：化膿性扁桃腺炎、急性或亞急性或乾性咽喉炎、急性喉部水腫、喉部手術後、放射線治療中或後。
+(4)其他疾患必要施行本項治療者，須於病歷註明理由備查。
+2.局部之單純噴灑等，含於相關診療費內，不另支付。
+v
+v
+v
+v
+180
+54020C
+外鼻甲板放置術 Nasal splint fixation
+v
+v
+v
+v
+1120
+54021C
+鼻填塞（前側）Nasal packing (ant.)
+v
+v
+v
+v
+170
+54022C
+鼻填塞（後側）Nasal packing (post.) 
+v
+v
+v
+v
+735
+54023C
+鼻填塞物取出 Romove of nasal packing
+註：耳填塞物取出比照申報。
+v
+v
+v
+v
+170
+54024C
+鼻腔沖洗 Nasal douching 
+v
+v
+v
+v
+170
+54025C
+鼻阻壓計檢查 Rhinomanometry 
+v
+v
+v
+v
+590
+54026B
+嗅覺試驗 Olfaction test 
+
+v
+v
+v
+325
+
+上額竇穿刺沖洗
+Maxillary sinus puncture irrigation 
+
+
+
+
+
+54028C
+－ 單側 unilateral
+v
+v
+v
+v
+600
+54029C
+－ 雙側 bilateral 
+v
+v
+v
+v
+900
+54032C
+吞嚥治療 Simple swallowing therapy
+v
+v
+v
+v
+700
+54033B
+唾液腺插管術 Sialogram inbubation 
+
+v
+v
+v
+180
+54035C
+耳道沖洗 Ear canal douching 
+v
+v
+v
+v
+156
+54036C
+鼓室穿刺 Tympanocentesis
+v
+v
+v
+v
+220
+54039B
+音聲分析儀回饋治療
+Visual feedback traning phototaryngography
+
+v
+v
+v
+700
+54040B
+音聲頻譜儀回饋治療
+Vusyak feedback traning with sound spectrography 
+
+v
+v
+v
+700
+54041B
+扁桃腺術後出血處置 
+Post-operative bleeding, management, tonsil
+
+v
+v
+v
+2942
+54042C
+耳鼻喉切片 E.N.T. biopsy
+v
+v
+v
+v
+536
+54043C
+其他耳鼻喉囊腫之穿刺或引流
+Other abscess puncture or drainage
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+150
+54044C
+耳石復位術
+Canalith repositioning procedure
+註：
+1.適應症：良性陣發性姿勢性眩暈(Benign paroxysmal positional vertigo)。
+2.費用申報須附治療紀錄。
+3.限由耳鼻喉科或神經內科醫師執行。
+4.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+432
+54045B
+人工電子耳術後調圖（單耳）
+Mapping post Cochlear implantation
+註：適應症：符合下列診斷且經植入人工電子耳者。
+1.聽力喪失(Hearing loss)。
+2.感音神經性耳聾(Sensorineural hearing loss)。
+3.突發性自發性聽力喪失(Sudden idiopathic hearing loss)。
+4.老年失聰(Presbycusis)。
+
+v
+v
+v
+1311
+
+九、婦科處置GYM & OBS Treatment (55001-55027)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+55001C
+子宮頸切片（不包括病理檢查） 
+Cervical biopsy
+v
+v
+v
+v
+430
+55002C
+子宮內膜切片（不包括病理檢查）
+Endometrial sampling and biopsy
+v
+v
+v
+v
+1163
+55003C
+子宮頸冷凍或電燒手術治療 
+Cryosurgery or electrosurgery of cervix
+v
+v
+v
+v
+671
+55004C
+子宮頸出血藥物治療 
+Topical treatment for cervical bleeding
+v
+v
+v
+v
+49
+55005C
+簡單陰道異物去除術 
+Removal of foreign body, simple
+v
+v
+v
+v
+72
+55006C
+複雜嵌於陰道異物去除術
+Removal of foreign body, complicated or embedded
+註：限異物嵌入陰道壁或無性經驗之陰道異物去除。
+v
+v
+v
+v
+220
+55007C
+電或化學燒灼 Electro/chemical cauterization
+v
+v
+v
+v
+230
+55008C
+濕疣切除及電燒 
+Condyloma, excision and electrocauterization
+註：雷射治療比照申報。
+v
+v
+v
+v
+1064
+
+會陰沖洗 Perineal irrigation care
+
+
+
+
+
+55009C
+－門診，每次 OPD，each time
+v
+v
+v
+v
+54
+55010C
+－住院，每日 IPD，per day
+v
+v
+v
+v
+64
+
+註：C/S及婦科手術(如ATH, VTH等)病人住院期間最多申報三次。
+
+
+
+
+
+55011C
+陰道灌洗 Vaginal irrigation 一次
+註：婦科手術(如ATH, VTH等)住院病人，手術前施行陰道灌洗，以申報一次為原則。
+v
+v
+v
+v
+60
+55012C
+子宮頸抹片取樣 Papanicolaous smear
+v
+v
+v
+v
+80
+55013C
+子宮頸燒灼後或冷凍後治療
+Follow-up treatment of cryotherapy or electrotherapy of cervix
+v
+v
+v
+v
+54
+55015C
+產後出血止血術 
+Hemosatsis procedures for postpartum hemorrhage
+v
+v
+v
+v
+11500
+55016C
+子癇及子癇前症處置
+Treatment of eclampsia and preeclampsia
+v
+v
+v
+v
+5572
+55017C
+陰唇粘連分離術
+Separation of vulvar adhesion
+v
+v
+v
+v
+1655
+55018C
+治療性子宮頸擴張術
+Therapeutic cervical dilatation
+v
+v
+v
+v
+483
+55019C
+會陰切片
+Biopsy of perineum
+v
+v
+v
+v
+358
+55020C
+治療性子宮內避孕器插入術
+Therapeutic insertion of intrauterine device
+註：限子宮內膜粘連患者申報。
+v
+v
+v
+v
+358
+55021C
+骨盆檢查費
+Pelvic Examination
+註：
+1.限婦產科專科醫師申報，各醫療院所每月申報本項不得超過婦產科門診就診人次之百分之七十；另放射腫瘤專科醫師接受一個月婦科腫瘤相關訓練，於治療婦癌相關疾病時，亦可申報。
+2.申報本項得加計百分之六十五。
+3.無性經驗者施以肛診、會陰視診、外陰觸診亦可申報。
+v
+v
+v
+v
+55
+55022C
+子宮內避孕器取出術(須擴張子宮頸及麻醉者)
+Removal of intrauterine device (with dilatation of cervix under anesthesia)
+註：限有疾病或傷害之治療需要者申報。
+v
+v
+v
+v
+626
+55024C
+子宮外翻復位術 Reversion of uterine inversion
+v
+v
+v
+v
+11562
+55025C
+陰道切片 Vaginal biopsy
+v
+v
+v
+v
+358
+
+陰道止血處置
+
+
+
+
+
+55026C
+—冷凍或電燒
+Cryosurgery or electrosurgery for vaginal bleeding
+v
+v
+v
+v
+671
+
+註：
+1.適應症：陰道經初步處置後仍顯著出血，需要使用電燒或冷凍止血。
+2.限婦產科專科醫師申報。
+
+
+
+
+
+
+
+
+
+
+
+
+55027C
+—藥物止血
+Topical treatment for vaginal bleeding
+v
+v
+v
+v
+200
+
+註：
+1.適應症：陰道經初步處置後仍顯著出血，需要使用藥物治療止血。
+2.限婦產科專科醫師申報。
+
+
+
+
+
+十、外科處置General Surgery Treatment (56001-56044)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+56001C
+靜脈切開術 Venesection / phlebotomy
+註：基層院所僅限急救時申報。
+v
+v
+v
+v
+360
+56002B
+動脈切開術 Cutdown artery
+
+v
+v
+v
+610
+56003C
+氣管切開造口術 Tracheostomy 
+註：氣管套管另計。
+v
+v
+v
+v
+6745
+56004C
+換造口器 Change tracheostomy set
+v
+v
+v
+v
+210
+56005C
+切開引流術 Incision & drainage
+v
+v
+v
+v
+194
+56006C
+拔指甲, 每指（趾） Nail extraction
+v
+v
+v
+v
+295
+56007C
+註：每增一指（趾） one added。
+v
+v
+v
+v
+147
+56008C
+雞眼、痣電燒 Electrocauterization
+v
+v
+v
+v
+194
+56009C
+每增加一個
+v
+v
+v
+v
+86
+
+註：集簇性者視為一個，但散在性者，每增加一個加計56009C一次。
+
+
+
+
+
+56010B
+胸管插管 Chest intubation
+註：提升兒童加成項目。
+
+v
+v
+v
+2400
+56013C
+疤痕注射療法
+v
+v
+v
+v
+278
+56014C
+潰瘍包紮治療術 Unna boot
+v
+v
+v
+v
+124
+56015B
+肋膜切片術 Pleural biopsy
+註：提升兒童加成項目。
+
+v
+v
+v
+660
+
+腦神經及脊椎手術中特殊儀器使用費
+Special machines application for brain and spinal surgery
+
+
+
+
+
+56016B
+－超音波吸除機 cusa
+註：施行支付標準編號75002B、75003B、75004B、75005B、75015B、75016B、75017B、75018B、75022B等手術項目亦得申報本項。
+
+v
+v
+v
+6000
+56017B
+－超音波診查機 sonogram
+
+v
+v
+v
+2000
+56018B
+－誘發電位手術監視機 evoke potential
+
+v
+v
+v
+4000
+56019B
+－精密手術顯微鏡 microscope
+
+v
+v
+v
+2000
+56020B
+內視鏡逆行性膽管引流術
+Endoscopic retrograde biliary drainage(ERBD)
+註：內含單次使用消化道導引線、導線/導線蓋和鎖比率為百分之六十。
+
+
+v
+v
+v
+18695
+56021B
+內視鏡經鼻膽管引流術
+Endoscopic nasobiliary drainage(ENBD)
+註：
+1.提升兒童加成項目。
+2.內視鏡經鼻胰管引流術比照申報。
+3.本項費用包括內視鏡及放射線費。
+4.內含單次使用消化道導引線、導線/導線蓋和鎖比率為百分之二十六。
+5.引流管之材料費另計。
+
+v
+v
+v
+21682
+56022C
+氣管造瘻口處理 Tracheostomy care
+v
+v
+v
+v
+70
+56023B
+ERBD外引流管留置處置
+Management of external drainage tube for ENBD
+
+v
+v
+v
+343
+56024B
+膽管切開引流管置換術
+Change drainage tube of cholangiostomy
+
+v
+v
+v
+125
+56025C
+趾甲部分摘除併母組織切除術
+Partial nail renoral and matricetomy
+v
+v
+v
+v
+987
+56026B
+特殊皮膚處置
+Dermatology special treatment
+註：
+1.限STEVEN-JOHNSON症候群或廣泛性皮膚壞死之特殊個案申報，一般皮膚科病人不得適用 
+2.有關費用申報，悉依支付標準及審查注意事項相關規定辦理。
+
+v
+v
+v
+588
+56028B
+一般性支氣管鏡雷射切除腫瘤或疤痕
+Simple through bronchoscopic laser resection of tumor or scar
+註：
+1.支氣管鏡另計。
+2.限支氣管腫瘤、支氣管結痂之患者使用。
+3.一般性係指阻塞管腔未達二分之一者。
+
+v
+v
+v
+9193
+56035B
+複雜性支氣管鏡雷射切除腫瘤或疤痕
+Complicated through bronchoscopic laser resection of tumor or scar
+註：
+1.支氣管鏡另計。
+2.限支氣管腫瘤、支氣管結痂之患者使用。
+3.複雜係指阻塞管腔超過二分之一者。
+
+v
+v
+v
+14849
+56029B
+全肺灌洗
+
+v
+v
+v
+7880
+56030B
+經頸靜脈肝臟切片術
+Transjugular liver biopsy
+
+v
+v
+v
+8923
+56031B
+經內視鏡括約肌切開術
+Endoscopic sphincterotomy
+註：
+1.適應症：
+(1)經十二指腸乳頭膽胰管結石取石前。
+(2)經十二指腸乳頭膽胰管組織獲取前。
+(3)經十二指腸乳頭膽胰管支架置放前。
+(4)經十二指腸乳頭膽胰管內視鏡術前。
+(5)經十二指腸乳頭膽胰管異物取出前。
+(6)膽源性胰臟炎合併膽管阻塞或肝生化功能異常。
+(7)符合十二指腸括約肌功能異常。
+(8)十二指腸乳頭狹窄。
+(9)胰管癒合不全。
+2.支付規範：
+(1)不得同時申報33024B及56032B。
+(2)內含單次使用電刀、導管、導引線等費用。
+
+v
+v
+v
+27331
+56032B
+經內視鏡十二指腸括約肌氣球成形術
+Endoscopic balloon sphincteroplasty
+註：
+1.適應症：
+(1)經十二指腸乳頭膽胰管結石取石前。
+(2)經十二指腸乳頭膽胰管組織獲取前。
+(3)經十二指腸乳頭膽胰管支架置放前。
+(4)經十二指腸乳頭膽胰管內視鏡術前。
+(5)經十二指腸乳頭膽胰管異物取出前。
+(6)膽源性胰臟炎合併膽管阻塞或肝生化功能異常。
+(7)符合十二指腸括約肌功能異常。
+(8)十二指腸乳頭狹窄。
+(9)胰管癒合不全。
+2.支付規範：
+(1)內含單次使用膽道氣球擴張球囊或膽道氣球擴張導管、導引線等費用。
+(2)不得同時申報33024B及56031B。
+
+v
+v
+v
+27331
+56034B
+膽道鏡及膽道狹窄切開術
+Choledochoscopy and choledochotomy
+註：含內視鏡費。
+
+v
+v
+v
+6852
+56036B
+深腦刺激術治療參數調整作業
+Parameter programming for deep brain stimulation
+註：每年不得申報超過六次。
+
+v
+v
+v
+1260
+56037B
+深部腦核電生理定位
+Intraoperative Microelectrode recording of basal ganglia
+註：須符合下列條件之一：
+1.治療巴金森病深腦刺激電極植入使用。
+2.清醒開顱手術須符合下列事項：
+(1)須檢附術中電生理報告。
+(2)不得同時申報支付標準編號56018B。
+(3)限神經外科、神經內科或復健科專科醫師施行。
+3.原發性肌張力不全(Primary Dystonia)經藥物、肉毒桿菌注射等非手術治療一年以上無效者。
+4.遲發性肌張力不全(Tardive dystonia)經藥物、肉毒桿菌注射等非手術治療一年以上無效者，且由二位以上神經外科、神經內科、小兒神經科或復健科專科醫師評估適合接受DBS治療，並經事前審查同意。
+
+v
+v
+v
+20081
+56038B
+內視鏡冷凍治療(含內視鏡檢查費用)
+Endoscopic Cryotherapy
+註：
+適應症：
+1.氣管、支氣管內病灶之切片（biopsy）。 
+2.氣管、支氣管內異物之移除。
+3.氣管、支氣管狹窄、肉芽之處置。
+
+v
+v
+v
+3838
+56039B
+神經外科術中神經功能監測(IONM)
+Intra-operative neuromonitoring(IONM)
+註：
+1.適用條件：
+(1)Brain surgery (含supratentorial glioma, epilepsy surgery, brain tumor involved cranial nerve, brain stem lesion)：限施行83017B、83018B、83019B、83056B、83066B、83068B、83070B、83071B、83088B申報，且腦部病灶必須位於eloquent area (定義為brainstem, thalamus, insula cortex, basal ganglia, paracentral region, language area, cranial nerve 2-12 involvement)。
+(2)Intradural spinal surgery (含intradural tumor, intradural vascular lesion, spinal bifida, lipomyelomeningocele, dorsal rhizotomy)：限施行83042B、83072B、83073B申報，且脊椎病灶限intradural lesion。
+(3)Scoliosis surgery：限施行83097B、83096B、83046B、83044B、67044B、64241B、67043B、67036B申報。
+2.支付規範：
+(1)限神經外科專科醫師、神經內科專科醫師、小兒神經科專科醫師、復健科專科醫師、骨科專科醫師、麻醉科專科醫師執行，主刀醫師、手術團隊其它成員及執行麻醉醫師自行監測則不予支付。
+(2)不得同時申報：56018B、20047B。
+(3)申報費用時應檢附監測報告及簽名。
+
+v
+v
+v
+15271
+56040B
+導管式膽胰管內視鏡術
+Catheter Based Cholangiopancreaticoscopy
+註：
+1.適應症：
+(1)不明原因之膽管或胰管病灶，無法藉由逆行性內視鏡膽胰管攝影術細胞刷檢或切片取得確切細胞病理診斷者。
+(2)困難膽管或胰管結石，使用機械碎石術仍無法將結石取出，經內外科醫師討論評估施行本項優於外科手術者。
+(3)經肝臟移植術或肝膽管手術後，困難膽管狹窄，使用導絲線技術十五分鐘，仍無法通過狹窄者。
+2.支付規範：
+(1)屬前項適應症(1)及(2)者，須事前審查。
+(2)限消化內科、消化外科、兒科消化學及小兒外科專科，並接受輻射防護訓練之醫師施行。
+(3)不得同時申報28007B、28008B、28034B、28035B、33024B、56031B、56032B。
+(4)本項點數含一般材料費及單一使用之拋棄式導引線或雙頭導線、拋棄式內視鏡造影導管、拋棄式灌洗導管費用。
+
+v
+v
+v
+19123
+56041B
+迷走神經刺激術（VNS）─參數調整
+註：
+1.適應症：
+(1)無法以抗癲癇藥控制病情的頑固型癲癇病人，且亦無法以切除手術改善或曾以癲癇切除手術治療失敗。
+(2)頑固型癲癇病人定義：已服用或曾服用二種以上具適應症並已達有效劑量之抗癲癇藥物至少一年以上，仍無法控制發作。
+2.支付規範：
+(1)特殊專科別限制：曾參加迷走神經刺激器訓練課程並領有證書之小兒神經內科、神經內科及神經外科之專科醫師。
+(2)執行頻率：
+A.手術後第一至二個月，每月至多四次。
+B.手術後第三至六個月：十五歲以下兒童每月至多二次，其餘每月至多一次。
+C.手術後第七個月以後，每月至多一次。
+
+v
+v
+v
+2087
+56042B
+脊髓刺激器參數程控調整作業
+Spinal cord stimulator programming procedure
+註：
+1.限植入永久脊髓刺激器者(含「脊髓刺激器永久植入手術」項目實施前之病人)。
+2.一年申報三次為限。
+
+v
+v
+v
+1881
+56043C
+環甲膜穿刺術／切開術
+Needle／Surgical Cricothyroidotomy
+註：
+1.適應症：經口腔或鼻腔進行氣管內管插管失敗或無法立即執行氣管切開造口術者，並有下列任一情形：
+(1)緊急顏面外傷、燒傷等困難插管情形。
+(2)呼吸道受阻(SpO₂<90%)。
+2.氣管套管另計。
+v
+v
+v
+v
+4331
+56044B
+主動脈復甦性血管內球囊閉合術
+Resuscitative endovascular balloon occlusion of the aorta 
+(REBOA)
+註：適用範圍為腹腔或骨盆腔大量出血導致休克，需阻斷主動脈血流以暫時控制出血者。
+
+v
+v
+v
+7753
+十一、呼吸治療處置 (57001-57034)
+
+通則：
+一、同一設備可同時提供多種治療處置時，按主要處置項目擇一申報。
+二、支氣管擴張劑、袪痰或誘痰劑等治療性藥品得另申報。
+三、蒸餾水、生理食鹽水、可重複消毒使用之器材（如延長管、張口器、面罩、蓋罩、套管）等，已含於相關費用內，不另支付。
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+57001B
+侵襲性呼吸輔助器使用費一天
+Pressure/Volume control respirator, day
+註：
+1.須經由人工氣道使用，含氧氣吸入使用費、濕氣吸入治療及氧氣濃度分析器等費用。
+2.已內含Ambu bag之使用及抽痰，不得另申報57009B（甦醒器使用/天）及47041C或47042C（呼吸道抽吸）之費用。
+3.不得同時申報57032B。
+
+v
+v
+v
+1800
+57002B
+負壓呼吸輔助器使用費 一天
+Negative pressure ventilator, day
+註：
+1.含氧氣吸入使用費、濕氣吸入治療及氧氣濃度分析器等費用。
+2.已內含Ambu bag 之使用及抽痰，不得另申報57009B(甦醒器使用/天)及47041C或47042C(呼吸道抽吸)之費用。
+
+v
+v
+v
+1150
+57003C
+氧氣吸入使用費 Oxygen inhalation 每小時
+註：
+1.含氧氣費。
+2.超過六小時者以一天計。
+v
+v
+v
+v
+30
+57004C
+氧氣吸入使用費 Oxygen inhalation 一天
+註：
+1.含氧氣費。
+2.不得同時申報57030B、57031B。
+v
+v
+v
+v
+360
+57007C
+濕氣吸入治療 Humidity inhalation
+註：限人工氣道患者申報，使用呼吸器者不得申報。
+v
+v
+v
+v
+115
+57009B
+甦醒器使用(天)Resusitator (day)
+註：手術室及麻醉恢復室使用者，已含括於相關診療費用中，不另支付。
+
+v
+v
+v
+85
+57010B
+呼吸運動(次) Breathing exercise(time)
+
+v
+v
+v
+85
+57011B
+誘發性深呼吸運動(次)
+Incentive inspiratory exercise(time)
+
+v
+v
+v
+70
+57012B
+復原運動 Reconditioning exercise (time)
+
+v
+v
+v
+140
+57013B
+呼吸暫停監視器(日) Apnea monitor (day)
+註：手術室及麻醉恢復室使用者，已含括於相關診療費用中，不另支付。
+
+v
+v
+v
+60
+57014B
+氧氣濃度分析器(日) O2 analyzer (day)
+註：
+1.使用人工呼吸器者不另支付。
+2.限使用氧氣帳及氧氣罩者申報。
+
+v
+v
+v
+166
+57015B
+經皮測氧分壓器(日) TC PO2 monitor (day)
+註：手術室及麻醉恢復室使用者，已含括於相關診療費用中，不另支付。
+
+v
+v
+v
+531
+57016B
+經皮測二氧化碳分壓器或呼氣末二氧化碳分壓器(日)
+TC PCO2 or End tidal CO2 monitor (day)
+註：手術室及麻醉恢復室使用者，已含括於相關診療費用中，不另支付。
+
+v
+v
+v
+565
+
+脈動式或耳垂式血氧飽和監視器
+Pulse or ear oximetry
+
+
+
+
+
+57017C
+－ 每次 time
+v
+v
+v
+v
+30
+57018B
+－ 一天 day
+
+v
+v
+v
+360
+
+註：
+1.同日使用五次以上者，按57018B計。
+2. 57017C屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+
+
+
+
+
+
+氧氣帳吸入治療費
+
+
+
+
+
+57019C
+－每小時
+v
+v
+v
+v
+91
+57020C
+－每天(使用六小時以上計一天)
+v
+v
+v
+v
+1308
+
+註：含氧氣費。
+
+
+
+
+
+
+蒸氣或噴霧吸入治療
+Humidity or aerosol therapy
+
+
+
+
+
+57021C
+－ 每次 time
+v
+v
+v
+v
+40
+57022C
+－ 每天 day
+v
+v
+v
+v
+150
+
+註：
+1.含器材使用費。
+2.同日實施四次以上者，按57022C計。
+
+
+
+
+
+57023B
+非侵襲性陽壓呼吸治療一天
+Non-invasive positive pressure（day） (如Nasal PAP、CPAP、Bi-PAP)。
+註：
+1.含氧氣吸入使用費、濕氣吸入治療費及器材使用費用。
+2.已內含Ambu bag 之使用及抽痰，不得另申報57009B(甦醒器使用/天)及47041C或47042C(呼吸道抽吸)之費用。
+3.不得同時申報57030B、57031B及57032B。
+
+v
+v
+v
+900
+57024B
+人工呼吸器噴霧吸入治療 一天
+Aerosol therapy for ventilator(day)
+
+v
+v
+v
+205
+57025B
+一氧化氮吸入療法/天
+Inhaled Nitric oxide therapy
+註：六小時以上以一天計，含氣體使用費、裝置費、呼吸器、監視器等費用。
+
+v
+v
+v
+9398
+57026B
+一氧化氮吸入療法裝置費/次
+Inhaled Nitric oxide therapy
+註：每天限申報一次。
+
+v
+v
+v
+756
+57027B
+一氧化氮吸入療法/每小時
+Inhaled Nitric oxide therapy
+註：六小時以上以一天計，含氣體使用費、呼吸器、監視器等費用。
+
+v
+v
+v
+1260
+57028B
+皮膚氧及二氧化碳分壓(日)
+Transcutaneous O2 & CO2 pressure
+註：不得與57015B或57016B同時申報。
+
+v
+v
+v
+1415
+57029C
+震動式高頻呼吸器治療
+註：不得同時申報57032B。
+v
+v
+v
+v
+3500
+
+濕化高流量氧氣治療
+Humidified high flow oxygen therapy
+
+
+
+
+
+57030B
+－ 第一天照護費（含管路特材）First time
+
+v
+v
+v
+6000
+57031B
+－ 第二天後照護費（天）Daily care
+
+v
+v
+v
+1937
+
+註：
+1.限急診或住院病人符合下列適應症者使用：
+(1)成人(十九歲以上)
+A.急性缺氧性呼吸衰竭，且需同時符合下列各項條件：
+(a)當以10L/min或更高的流速供應氧氣至少十五分鐘，P/F ratio≦300時。
+(b)RR>25次/min，呼吸困難或呼吸窘迫。
+(c)PaCO2≦45 mmHg。
+B.呼吸衰竭拔管後，預防再次插管使用，並有下列任一情形：
+(a)曾插管二十四小時以上之病人，且有下列任一高危險因子者：年紀六十五歲以上、APACHE II＞12分、BMI>30 Kg/㎡、呼吸道清除功能失效、困難脫離呼吸器病人或插管大於七天病人。
+(b)經臨床負責醫師判定有再度發生呼吸衰竭之可能。
+(2)兒童(未滿十九歲)
+A.缺氧性呼吸衰竭或呼吸窘迫，並有下列任一情形者： 
+(a)血氧飽和濃度SpO2≦94%。
+(b)呼吸窘迫症狀（呼吸急促、使用呼吸輔助肌、鼻翼扇動、點頭式呼吸、胸凹或矛盾式呼吸等）。
+B.脫離侵襲性或非侵襲性呼吸器後，預防再次使用呼吸器時使用。
+2.限內科、外科、麻醉科、兒科、急診醫學科、神經科及神經外科專科醫師執行。
+3.不得同時申報57004C、57023B及57032B。
+4.更換管路當日比照第一天照護費申報。
+5.兒童(未滿十九歲)得依表定點數加計百分之二十。
+6.若臨床上認為拔管後應使用非侵襲性陽壓呼吸治療的成人病人，則不建議使用本項。
+7. 57030B內含一般材料費、高流量鼻導管及高流量管路組費比率為百分之六十五。
+
+
+
+
+
+57032B
+神經調控通氣輔助呼吸治療及橫膈膜電位訊號監測（一天）
+Neurally adjusted ventilatory assist（NAVA）ventilation and Electrical activity of the diaphragm（Edi）monitoring／day
+註：
+1.適應症：限用於患有支氣管肺發育不全的未滿兩歲嬰幼兒，且符合插管天數十四天以上，無法拔管之病人。
+2.支付規範：
+(1)限醫院緊急醫療能力分級評定基準評定結果，屬高危險妊娠及新生兒醫療中度級以上急救責任醫院申報。
+(2)限新生兒科、兒童胸腔暨重症科、兒童重症醫學科、兒童神經科專科醫師申報。
+(3)申報費用時應檢附下列呼吸治療項目之紀錄：呼吸器使用模式、Edi min、Edi peak、FiO2、PEEP，視需要加填NAVA level。
+(4)限住院案件申報。
+(5)不得同時申報57001B、57023B、57029C、57030B及57031B。
+
+v
+v
+v
+3712
+57033B
+脈動式或耳垂式血氧飽和監視器未滿二歲者－每次
+Pulse or ear oximetry- time-under-2 years old
+
+v
+v
+v
+36
+57034B
+脈動式或耳垂式血氧飽和監視器未滿二歲者－一天
+Pulse or ear oximetry- day-under 2 years old
+
+v
+v
+v
+430
+
+註：
+1.57033B同日使用五次以上者，以57034B申報。
+2.限於急診、新生兒中重度病房或加護病房申報。
+
+
+
+
+
+十二、嬰幼兒處置 (57101-57126)
+
+通則：本節各項目限為未滿七歲嬰幼兒施行時申報。
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+臍息肉處理 Umbilical Granuloma ligation
+
+
+
+
+
+57101C
+－電燒手術 
+v
+v
+v
+v
+507
+57102C
+－硝酸銀處置
+v
+v
+v
+v
+293
+57103C
+新生兒臍靜脈導管置入術
+Umbilical vein catheterization
+註：「基層院所」限急救時才可施行本項。
+v
+v
+v
+v
+1149
+57104C
+新生兒臍動脈導管置入術
+Umbilical artery catheterization
+註：「基層院所」限急救時才可施行本項。
+v
+v
+v
+v
+1831
+57105B
+新生兒換血
+Blood exchange transfusion
+
+v
+v
+v
+4472
+57106C
+新生兒光線治療(天)
+Phototherapy (day)
+v
+v
+v
+v
+168
+57107B
+穿透照明檢查
+Transillumination test
+註：本項如用於找血管，限三個月以下之嬰幼兒因病情需要施行。
+
+v
+v
+v
+90
+57108B
+骨齡評估
+Assessment of bone age
+
+v
+v
+v
+787
+57109B
+直腸抽吸切片術
+Rectal suction biopsy
+
+v
+v
+v
+2584
+57110C
+嬰幼兒抽血 (次)
+Blood sampling
+註：各採血檢驗項目已包含抽血費用，本項目乃針對嬰幼兒抽血所訂之點數加算。
+v
+v
+v
+v
+340
+57111C
+嬰幼兒小量靜脈注射
+IV injection
+v
+v
+v
+v
+62
+57112C
+兒童結核菌素測驗
+PPD test
+
+v
+v
+v
+v
+50
+57113B
+兒童經皮靜脈導管放置術
+Percutaneous IV catheterization
+註：
+1.限使用PCVC材料之導管放置術，且需長期(三日以上)放置靜導管之未滿七歲兒童。
+2.提升兒童加成項目。
+
+v
+v
+v
+2801
+57114C
+自然生產新生兒費(每人次)
+註：
+1.限出生當次住院者，併母親費用申報。
+2.本項費用已含診察費、護理費、嬰兒床及各種處置費用。
+3.已含新生兒使用烤燈、照光治療、膽紅素檢驗、血比容測定、梅毒反應、ABO血型、RH型態等檢驗。
+4.每一新生兒限申報一次。
+v
+v
+v
+v
+3000
+57115C
+剖腹生產新生兒費(每人次)
+註：
+1.限出生當次住院者，併母親費用申報。
+2.本項費用已含診察費、護理費、嬰兒床及各項處置費用。
+3.已含新生兒使用烤燈、照光治療、膽紅素檢驗、血比容測定、梅毒反應、ABO 血型、RH型態等檢驗。
+4.每一新生兒限申報一次。
+5.新生兒出生六天內不得重複申報57116B項。
+v
+v
+v
+v
+4000
+
+高風險妊娠生產新生兒緊急處置費
+High risk neonatal critical care
+
+
+
+
+
+57124C
+－ 初階 elementary level
+v
+v
+v
+v
+2354
+57125B
+－ 中階 general level
+
+v
+v
+v
+5000
+57126B
+－ 高階 advance level
+註：
+1.適應症：
+(1)初階：完成新生兒緊急處置且符合下列任一條件：
+A.出生時孕齡三十三週至未滿三十七週。
+B.出生時體重一千五百零一公克至二千五百公克。
+C.任何經產科醫師評估為高危險妊娠生產。
+(2)中階：完成新生兒緊急處置且符合下列任一條件：
+A.Apgar score：一分鐘≦5或五分鐘≦7。
+B.出生時孕齡二十九週至未滿三十三週。
+C.出生時體重一千零一公克至一千五百公克者。
+
+v
+v
+v
+10000
+
+(3)高階：完成新生兒緊急處置且符合下列任一條件：
+A.Apgar score：一分鐘≦3或五分鐘≦5。
+B.出生時孕齡未滿二十九週。
+C.出生時體重≦一千公克者。
+2.限具合格且效期內新生兒高級急救救命術（NRP）證書之新生兒科醫師、兒科醫師執行。
+3.病歷須附出生紀錄、會診單、新生兒急救紀錄。
+4.限住院申報。
+5.不得同時申報02005B，另初階、中階、高階互為不得併報項目。
+
+
+
+
+
+57116B
+嬰兒室繼續照護費（天）
+註：
+1.限新生兒於出生之第四日起須繼續於嬰兒室治療者申報。
+2.新生兒於出生之第四日起因病（未達中重度）須繼續於嬰兒室治療者比照申報。
+3.本項目已含嬰兒床、診察費、治療費等，不得另行申報其他費用。
+4.限小兒科專科醫師照護者申報。
+5.婦產科診所有小兒科專科醫師照護者比照申報。
+
+v
+v
+v
+900
+57117B
+加強照光治療 Intensive phototherapy
+註：
+1.適應症
+(1)出生體重>=2000公克、年齡<三天、膽紅素值>=15.0mg/dl
+(2)出生體重>=2000公克、年齡>三天、膽紅素值>=17.0mg/dl
+(3)出生體重1500-1999公克、年齡<三天、膽紅素值>=13.0mg/dl
+(4)出生體重1500-1999公克、年齡>三天、膽紅素值>=15.0mg/dl
+(5)出生體重1000-1499公克、年齡<三天、膽紅素值>=10.0mg/dl
+(6)出生體重1000-1499公克、年齡>三天、膽紅素值>=13.0mg/dl
+(7)出生體重<1000公克、年齡<三天、膽紅素值
+>=8.0mg/dl
+(8)出生體重<1000公克、年齡>三天、膽紅素值
+>=10.0mg/dl
+2.病患依上述適應症實施加強照光治療後，若膽紅素值降至上述標準減 2mg/dl以下時，即不得繼續施行加強照光治療。
+
+v
+v
+v
+817
+57118B
+極低出生體重早產兒心智發展檢查
+Neurodevelopment examination for very low birth infant
+註：
+1.限出生體重≦1500公克之早產兒。
+2.本項檢查包括認知發展、動作發展、氣質行為的衡鑑、心智發展問題指導。
+3.限具有貝利嬰幼兒發展測驗檢查能力(Bayley scales of infant development)並領有心理師執照者施行。
+4.限矯正年齡為六個月、十二個月、十八個月、二十四個月各申報一次。
+
+v 
+v
+v
+3174
+57119B
+嬰兒保溫箱(天) 
+Infant incubator(day)
+註：
+1.適應症：
+(1)早產兒懷孕週數未滿37週，出生體重未滿2500公克之無法維持體溫恆定的新生兒。
+(2)足月新生兒因疾病有出現低體溫(小於36度)現象。
+(3)足月新生兒因外科手術之後一週內無法維持體溫恆定(36.0~37.0度)。
+2.婦產科診所有小兒科專科醫師照護者比照申報。
+
+v
+v
+v
+200
+57120B
+嬰兒靜脈留置導管(未滿六個月)
+註：
+1.不得重復申報39004C。
+2.三日內限申報乙次。
+3.本項包含57107B穿透照明檢查。
+
+v
+v
+v
+938
+57121B
+幼兒靜脈留置導管(六個月以上至未滿二歲)
+註：
+1.不得重復申報39004C。
+2.三日內限申報乙次。
+3.本項包含57107B穿透照明檢查。 
+
+v
+v
+v
+716
+57122B
+兒童靜脈留置導管(二歲以上至未滿七歲)
+註：
+1.不得重復申報39004C。
+2.三日內限申報乙次。
+3.本項包含57107B穿透照明檢查。
+
+v
+v
+v
+604
+
+57123B
+小血袋無菌分裝處理費
+註：
+1.新生兒輸血(出生到四個月，早產兒出生體重<1500公克出生到六個月)。
+2.限使用無菌導管接合器。
+
+v
+v
+v
+170
+第二項 透析治療Dialysis Therapy  (58001-58031)
+
+
+通則：血液透析採定額支付，惟如有下列特殊病例得核實申報：
+一、如每人每月使用EPO劑量連續三個月均達20,000單位，但Hb值小於8.5g/dl時，應尋找抗性原因，若其URR≧65%、血清ferritin≧300ng/ml，而且無引起貧血之非腎臟因素時，得以檢附病人臨床相關資料及說明使用理由專案申請增加每月注射劑量，經同意後始能提高EPO注射劑量。
+二、特殊透析病患：在夜間透析(非屬醫院例行排班性透析)之肺水腫、藥物難以控制之嚴重高血鉀症或藥物難以控制代謝性酸中毒之透析病患。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+血液透析（一次） Hemodialysis
+
+
+
+
+
+58001C
+—住院
+v
+v
+v
+v
+4192
+
+—門診
+
+
+
+
+
+58027C
+1.急重症透析
+v
+v
+v
+v
+4192
+58029C
+2.一般透析
+v
+v
+v
+v
+4000
+
+註：
+1.以上項目所定點數包括技術費、檢驗費、藥劑費、一般材料費、特殊材料費、特殊藥劑費用(含EPO、Vadadustat)及腎性貧血之輸血費在內。
+2. 58027C僅限符合下列條件之一者申報。
+(1)領有慢性腎衰竭、腎囊腫性疾病或腎臟移植手術後追蹤照護之重大傷病證明外，同時領有第二張其他疾病之重大傷病證明者。
+(2)未滿十三歲病人。
+(3)急診案件(緊急傷病必須立即血液透析當次申報)。
+(4)金門、馬祖、澎湖、小琉球、蘭嶼及綠島院所。
+(5)急性期個案透析(限首次領取慢性腎衰竭且必須接受定期透析治療之重大傷病卡之有效起日三十日內申報，含有效卡三個月)。
+
+
+
+
+
+58002C
+腹膜透析（一次）
+Peritoneal dialysis
+註：使用特殊材料及特殊藥劑者得加算其費用。
+v
+v
+v
+v
+2112
+58003C
+血液灌洗 
+Hemoperfusion
+註：本項目所定點數包括技術費及一般材料費在內，特殊材料、血液灌洗器另計。
+v
+v
+v
+v
+3096
+
+動靜脈分流管栓塞去除術
+Declotting of A-V shunt
+
+
+
+
+
+58004C
+－ 單純simple
+v
+v
+v
+v
+480
+58005C
+－ 中度moderate
+v
+v
+v
+v
+720
+58006C
+－ 複雜complicated
+v
+v
+v
+v
+965
+58007C
+連續性動靜脈血液過濾術
+CAVH
+註：
+1.生命現象不穩定，且必需為接受過透析治療者。
+2.嚴重心臟衰竭合併肺水腫之病人。
+3.開心手術數日內併發急性腎衰竭之病人。
+
+v
+v
+v
+v
+3591
+58008C
+血漿置換術
+Plasma exchange
+註：
+限下列病人實施
+1.SLE，CNS involvement
+2.Myasthenia gravis crisis
+3.Macroglobulinaemia
+4.RPGN
+5.Goodpasture's disease
+6.Multiple myoloma
+7.Guillain-Barre syndrome
+8.Thrombocytopenic Purpura
+9.Multiple Sclerosis and Neuromyelitis Optica
+10.其他經專案向保險人申請同意實施者
+11.血型不相容活體器官移植前之前置作業。
+12.治療器官移植後之急性抗體排斥。
+
+
+
+
+
+v
+v
+v
+v
+2871
+
+連續性可攜帶式腹膜透析
+Continuous ambulatory peritoneal dialysis, CAPD
+
+
+
+
+
+58009B
+1.初次CAPD病人指導費，CAPD instruction
+註：1.限以經專案向保險人申請同意後之醫院申報。
+    2.限病人初次腹膜透析申報。
+    3.包括病人專門技術訓練，家屬指導及教材給予。
+
+v
+v
+v
+2847
+58010B
+2.CAPD病人輸液連接管更換材料費
+CAPD single unit P.D. set transfer material fee
+註：1.包括輸液管組更換準備包、導管管夾、輸液連接管、腹膜透析引流袋。
+2.限術後使用CAPD病人申報。
+3.植管當次四周內以申報一次為原則，若有特殊阻塞或感染需更換管路者，得另申報一次，最多以二次為限。
+
+v
+v
+v
+600
+
+3.腹膜透析追蹤處置費 
+Peritoneal Dialysis Follow up therapy
+
+
+
+
+
+58011C
+(1)連續性可攜帶式腹膜透析 CAPD
+v
+v
+v
+v
+8870
+58017C
+(2)全自動腹膜透析 Automated peritoneal dialysis
+v
+v
+v
+v
+8870
+
+
+
+
+
+
+
+
+註：1.包括：
+(1)醫護人員費 (nursing care) 5350點。
+(2)特殊材料費 (CAPD special material) 450點。
+(3)每月醫材消耗品 (monthly consumption) 1535點。
+(4)每月檢查費 (monthly laboratory fee) 1535點。
+    2.每月申報一次。
+3.病人改變治療模式(如腹膜透析改為血液透析)或停止腹膜透析治療者，則按比率扣除腹膜透析未治療天數費用。
+4.病人因故住院仍持續接受腹膜透析治療，費用由住院之院所申報。
+5.申報腹膜透析追蹤處置費應確實追蹤病人治療情形，病人由門診轉住院治療，住院醫院應聯繫原腹膜透析診治院所，告知病人住院期間、透析治療方式及儀器使用情形等，並於病歷記載。
+
+
+
+
+
+58028C
+(3)全自動腹膜透析機相關費用-每日(APD daily fee)
+註：1.限長期使用全自動腹膜透析治療病人申報。
+2.每日每一病人限申報一次。包含租金、保養、維修及管理等費用。
+v
+v
+v
+v
+67
+58012B
+4.連續性可攜帶式腹膜透析導管植入術。
+CAPD,Tenckhoff catheter implantation
+註：
+1.限以經專案向保險人申請同意後之醫院申報。
+2.包含手術費及一般材料費。
+
+v
+v
+v
+4284
+58013C
+腹水移除透析
+Ascites dialytic ultrafiltration
+註：
+1.應以「頑固性腹水移除」為治療目的。
+2.已包括透析有關之技術費、檢驗費、一般及特殊藥劑費、一般及特殊材料費等。
+v
+v
+v
+v
+4100
+58014C
+連續性全靜脈血液過濾術(每日)
+continuous veno-venous hemofiltration( C.V.V.H )
+註：
+1.生命徵象不穩定，且必需為接受過透析治療者。
+2.嚴重心臟衰竭合併肺水腫之病人。
+3.開心手術數日內併發急性腎衰竭之病人。
+v
+v
+v
+v
+4343
+58015C
+血小板分離術Platelets pheresis, 
+註：
+1.適應症
+(1)懷孕而併有血小板增多症之病人有發生胎盤梗塞之危險。
+(2)因血小板增多症而導致即將中風之病人。
+2.本案不須事前專案申請，但申報費用時應附事前審查申報書及病歷摘要。
+3.特材請依支付標準特殊材料規定申報。
+v
+v
+v
+v
+2475
+58016C
+二重過濾血漿置換療法
+Double filtration plasmapheresis
+註：施行本項之適應症請依支付標準58008C「血漿置換術」之規定辦理。
+v
+v
+v
+v
+2475
+58018C
+連續性全靜脈血液過濾透析術(每三日)
+Continuous veno-venous hemofiltration dialysis (C.V.V.H.D)
+註：
+1.生命徵象不穩定，且必需為接受過透析治療者。
+2.嚴重心臟衰竭合併肺水腫之病人。
+3.開心手術數日內併發急性腎衰竭之病人。
+v
+v
+v
+v
+5387
+58026C
+居家訪視-居家透析治療
+Home visit－home dialysis therapy
+註：
+1.新病患出院後一個月內一次。
+2.長期病患每年一次。
+3.多次合併症的個案，如腹膜炎導管出口及遂道發炎等特殊個案，視情況申報。
+v
+v
+v
+v
+1200
+58030B
+緩慢低效率每日血液透析過濾治療
+Sustained low efficiency daily dia-hemofiltration (SLEDD-f)
+註：適應症：
+1.生命徵象不穩定，且必要為接受過透析治療者。
+2.嚴重心臟衰竭合併肺水腫之病患。
+3.開心手術數日內併發急性腎衰竭之病患。
+
+v
+v
+v
+10375
+58031A
+分子吸附循環系統
+Molecular absorbent recirculating system(MARS)
+1.適應症：肝臟衰竭病人肝臟移植前的橋接治療，並須符合下列所有條件：
+(1)病人經傳統治療無法維持肝功能，而於短期內有致死之虞者（MELD score >30 或 PELD score >30）。
+(2)經評估通過需要肝臟移植者。
+(3)已有活體肝臟移植捐贈者。
+2.終止條件：下列情況之一，應考慮中止治療或改為自費治療：
+(1)治療後一週內無明顯改善者（SOFA score仍未小於十一分，或MELD score仍未小於二十五分）。
+(2)一週內無法接受肝移植者。
+3.當次移植以給付三次為限。
+4.含血清白蛋白注射液及血液淨化套組(MARS Treatment Kit)。
+
+
+v
+v
+144277
+
+
+第三項 高壓氧治療 Hyperbaric Oxygen Therapy (59002-59016)
+通則：
+一、本項所定點數，包括氧氣、修復、油電及醫師治療費等在內。
+二、高壓氧治療以下列適應症為限，申報費用時，應附病歷影本，包括應詳細記錄治療深度及停留時間。
+三、各適應之支付點數，得因時間之增減比例計算之。
+四、休閒潛水或其他屬預防性治療不予支付。
+
+編號
+診療項目
+深
+度
+(呎)
+時
+間
+(分)
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+59002B
+潛水病（減壓病）或急性氣栓塞症
+Decompression sickness and acute gas embolism (including post operative)
+50
+120
+
+v
+v
+v
+2784
+59003B
+一氧化碳中毒（氰化物及氣體中毒） 
+Carbon monoxide toxicity(including cyanide toxicity and smoke inhalation) 
+66
+180
+
+v
+v
+v
+6960
+59004B
+66
+90
+
+v
+v
+v
+3480
+
+註：59003B限急性發作期患者申報。
+
+
+
+
+
+
+
+59005B
+氣壞疽病 
+1.氣壞疽及厭氧擋細菌感染
+Clostridial gasgangrene、anaerobic bacteriodes infections
+2.壞死性軟組織感染及混合性細菌感染
+Necrotizing soft tissue infection and mixed infection 
+註：限急性發作有生命危險者實施。
+66
+180
+
+v
+v
+v
+8352
+59006B
+66
+90
+
+v
+v
+v
+4176
+59007B
+慢性復發性骨髓炎 
+Osteomyelitis, refractory 
+50
+120
+
+v
+v
+v
+2880
+59008B
+33
+90
+
+v
+v
+v
+1800
+
+註：
+1.59007B須經外科治療或抗生素治療証實無效患者申報。
+2.需專案報經保險人同意後實施。
+
+
+
+
+
+
+
+59009B
+肢體壓傷伴有創傷性缺血 Crush injury with acute traumatic Ischemia
+1.應符合下列任一條件：
+(1)必需遲延之病人。
+(2)無法輸血之病人。
+(3)無法外科治療之病人。
+(4)經緊急適當處置(如：血管腔內手術Endovascular surgery、血管重建、血管修復、血管繞道、血管吻合、血管內取栓、暫時性血管架接術、筋膜切開減壓手術、清創及其他）後或59010B 治療後仍療效不佳病人。
+2.申報時應檢附肢體處置前後照片備查。
+50
+120
+
+v
+v
+v
+2400
+59010B
+肢體壓傷伴有創傷性缺血
+Crush injury with acute traumatic Ischemia
+註：應事前審查。
+33
+90
+
+v
+v
+v
+1800
+59011B
+急性燒灼傷、二至三度燒傷，表面積介於百分之十五至百分之九十
+Thermal burns acute-second and third degree burns involving 15% to 90% of total body surface
+註：
+1.59011B限皮膚移植可能失敗或不能確定效果或以往有皮膚移植失敗病史患者申報。
+2.需專案報經保險人同意後實施。
+50
+120
+
+v
+v
+v
+3341
+59012B
+66
+90
+
+v
+v
+v
+4176
+59013B
+放射性組織壞死 
+1.放射性骨壞死
+ Osteoradionecrosis
+2.放射性膀胱炎、放射性腸炎
+ Radiation cystitis、radiation、 enteritis
+註：「放射性膀胱炎」、「放射性腸炎」須為合併大量出血，經屢次輸血及其他治療無效者。
+50
+120
+
+v
+v
+v
+3341
+59014B潛水病（減壓病）或急性氣栓塞症
+Decompression sickness and acute gas embolism (including post operative) 之高壓氧治療
+註：
+1.限治療第二型潛水減壓病（Decompression Sickness, DCSII）及空氣栓塞症（Arterial Gas Embolism, AGE）之急診與住院病人申報，且申報時應檢附詳細記載症狀及身體檢查之病歷紀錄。
+2.急診病人限申報一次。165319vvv3083659015B潛水病（減壓病）或急性氣栓塞症 Decompression sickness and acute gas embolism (including post operative)之高壓氧治療
+註：治療第一型潛水減壓病（Decompression Sickness, DCS = 1 \* ROMAN I）(輕微型)及空氣栓塞症（Arterial Gas Embolism, AGE）病患申報。165154vvv1488659016B潛水病（減壓病）或急性氣栓塞症 Decompression sickness and acute gas embolism (including post operative)之高壓氧治療
+註：DCS及AGE之殘餘症狀治療。60135vvv3236
+
+第四項 眼科雷射治療 Ocular Laser Therapy (60001-60016)
+通則：以門診手術為原則，限眼科專科醫師施行後申報
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+黃斑部雷射術 Laser for macula
+
+
+
+
+
+60001C
+－ 初診 first visit
+v
+v
+v
+v
+4330
+60002C
+－ 複診 return visit
+v
+v
+v
+v
+2180
+
+全網膜雷射術 PRP
+
+
+
+
+
+60003C
+－ 初診 first visit
+v
+v
+v
+v
+4940
+60004C
+－ 複診 return visit
+v
+v
+v
+v
+2470
+
+周邊(局部)網膜雷射術
+Focal laser for peripheral retina
+
+
+
+
+
+60005C
+－ 初診 first visit
+v
+v
+v
+v
+4330
+60006C
+－ 複診 return visit
+v
+v
+v
+v
+2180
+
+小樑雷射術(青光眼)
+Laser for trabecular meshwork (glaucoma)
+
+
+
+
+
+60007C
+－ 初診 first visit
+v
+v
+v
+v
+3900
+60008C
+－ 複診 return visit
+v
+v
+v
+v
+1950
+
+睫狀體雷射破壞術
+Laser ciliary body destruction, for glaucoma
+
+
+
+
+
+60009C
+－ 初診 first visit
+v
+v
+v
+v
+2915
+60010C
+－ 複診 return visit
+v
+v
+v
+v
+1494
+
+虹膜雷射術(青光眼) Laser for iris (glaucoma)
+
+
+
+
+
+60011C
+－ 初診 first visit
+v
+v
+v
+v
+3900
+60012C
+－ 複診 return visit
+v
+v
+v
+v
+1950
+
+雷射後囊切開術 Laser capsulotomy
+
+
+
+
+
+60013C
+－ 初診 first visit
+v
+v
+v
+v
+3900
+60014C
+－ 複診 return visit
+v
+v
+v
+v
+1950
+60015C
+角膜新生血管雷射燒灼術
+Corneal neovascular laser treatment
+v
+v
+v
+v
+2180
+60016C
+光動力雷射治療
+Photodynamic Laser Therapy
+v
+v
+v
+v
+6000
+第五項 骨骼外固定器使用Application of External Fixation Apparatus (61001-61020)
+通則：
+一、本項第61001-61017、61019、61020項係指每日租金。
+二、如經診斷可出院療養者，其出院後租金費用應併於門診費用申報，並予註明其起訖日 
+    期。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+61001C
+脛骨一般骨折及膝關節溶合術
+Tibia fracture or knee arthrodeis
+v
+v
+v
+v
+125
+61002C
+脛骨下三分之一骨折 
+tibia low 1/3 fracture
+v
+v
+v
+v
+168
+61003C
+脛骨上三分之一骨折
+Tibia up 1/3 fracture (High tibia osteotomy)
+v
+v
+v
+v
+168
+61004C
+脛骨上三分之一粉碎性骨折
+Tibia up 1/3 comminuted fracture
+v
+v
+v
+v
+240
+61005C
+脛骨分段性骨折 Tibia segmental fracture
+v
+v
+v
+v
+228
+61006C
+踝部骨折 Ankle fracture
+v
+v
+v
+v
+216
+61007C
+股骨骨折 Femur fracture
+v
+v
+v
+v
+144
+61008C
+股骨髁部骨折 Femur subcondylor fracture
+v
+v
+v
+v
+264
+61009C
+股骨分段性骨折 Femur segmental fracture
+v
+v
+v
+v
+204
+61010C
+骨盤穩定性骨折 Pelvic fracture
+v
+v
+v
+v
+102
+61011C
+骨盤不穩定性骨折 Pelvic fracture (unstable)
+v
+v
+v
+v
+216
+61012C
+髖骨或上股骨骨折 Actabular fracture Hip
+v
+v
+v
+v
+115
+61013C
+肱骨骨折 Humerus fracture
+v
+v
+v
+v
+60
+61014C
+橈骨或尺骨一般性骨折
+Radius or ulna simple fracture
+v
+v
+v
+v
+40
+61015C
+橈骨和尺骨雙骨折 Radius and ulna fracture
+v
+v
+v
+v
+115
+61016C
+肘部骨折 Elbow fracture
+v
+v
+v
+v
+150
+61017C
+肩部骨折 Shoulder fracture
+v
+v
+v
+v
+60
+61018C
+骨骼外固定器取除術 
+Remove of external fixation apparatus
+註：包括骨穿刺針移除。
+v
+v
+v
+v
+1672
+61019C
+頸外固定器租金
+註：本項限高位頸椎脫臼骨折或C1-C2骨折，不適合開放性復位情況使用。本組含頭圈部、吸盤釘、鈦金屬頭釘、紅色轉扭、扭力棒、白色牽引圈、身架、羊毛墊、板手。
+v
+v
+v
+v
+40
+61020C
+顱顏面骨折-骨骼外固定器使用
+Application of external fixation apparatusfacial in facial bone fracture
+v
+v
+v
+v
+138
+
+
+
+
+
+
+
+
+
+	   -第二部第二章第六節 -  PAGE 50 -
+
+
+

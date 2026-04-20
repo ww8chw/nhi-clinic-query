@@ -37,12 +37,13 @@ async function loadData() {
 
   state.fuse = new Fuse(state.items, {
     keys: [
-      { name: 'name_zh',    weight: 0.35 },
-      { name: 'name_en',    weight: 0.25 },
-      { name: 'aliases',    weight: 0.25 },
-      { name: 'code',       weight: 0.10 },
-      { name: 'subcategory',weight: 0.03 },
-      { name: 'indication_desc', weight: 0.02 },
+      { name: 'name_zh',      weight: 0.30 },
+      { name: 'name_zh_full', weight: 0.20 },
+      { name: 'name_en',      weight: 0.20 },
+      { name: 'aliases',      weight: 0.20 },
+      { name: 'code',         weight: 0.08 },
+      { name: 'subcategory',  weight: 0.01 },
+      { name: 'indication_desc', weight: 0.01 },
     ],
     threshold: 0.35,
     ignoreLocation: true,
@@ -89,6 +90,7 @@ function applyFilter() {
       if (it.code && it.code.toLowerCase().includes(qLower)) return true;
       if (it.id && it.id.toLowerCase().includes(qLower)) return true;
       if (it.name_zh && it.name_zh.toLowerCase().includes(qLower)) return true;
+      if (it.name_zh_full && it.name_zh_full.toLowerCase().includes(qLower)) return true;
       if (it.name_en && it.name_en.toLowerCase().includes(qLower)) return true;
       if ((it.aliases || []).some(a => a.toLowerCase().includes(qLower))) return true;
       return false;
@@ -198,7 +200,11 @@ function openModal(id) {
   const it = state.items.find(i => i.id === id);
   if (!it) return;
   $('#modalTitle').textContent = it.name_zh;
-  $('#modalSubtitle').textContent = `${it.name_en || ''}${it.code && it.code !== '-' ? ` · ${it.code}` : ''}`;
+  const subtitleParts = [];
+  if (it.name_en) subtitleParts.push(it.name_en);
+  if (it.code && it.code !== '-') subtitleParts.push(it.code);
+  if (it.effective_date) subtitleParts.push(`生效 ${it.effective_date}`);
+  $('#modalSubtitle').textContent = subtitleParts.join(' · ');
 
   const indicHtml = (it.indications || []).length
     ? `<div class="flex flex-wrap gap-1.5">${it.indications.map(c => `
@@ -239,6 +245,11 @@ function openModal(id) {
       <div class="text-xs text-slate-500 mb-1">類別</div>
       <div class="text-sm">${escapeHtml(it.subcategory || '')}</div>
     </div>
+    ${it.name_zh_full && it.name_zh_full !== it.name_zh ? `
+    <div>
+      <div class="text-xs text-slate-500 mb-1">官方完整名稱</div>
+      <div class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">${escapeHtml(it.name_zh_full)}</div>
+    </div>` : ''}
     ${aliases ? `<div><div class="text-xs text-slate-500 mb-1">別名 / 縮寫</div>${aliases}</div>` : ''}
     <div>
       <div class="text-xs text-slate-500 mb-1">適用診斷 (ICD-10)</div>

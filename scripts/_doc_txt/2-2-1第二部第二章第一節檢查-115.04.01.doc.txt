@@ -1,0 +1,12808 @@
+第二章 特定診療Specific Diagnosisand Treatment
+第一節 檢查Laboratory Examination
+通則：
+一、檢查之費用，包括人員、試藥、內服藥劑、檢驗器材、一般材料、管理費及採取檢體之費用在內；如需使用特殊材料部分，另依全民健康保險藥物給付項目及支付標準申報。
+二、於施行檢查時，需使用特殊麻醉者，得依本標準第二部第二章第十節麻醉項目所定點數加算。
+三、對稱器官之檢查，各項目所定點數，除有特殊規定者外，係指兩側器官之檢查。
+四、不得為研究、預防或健康檢查而作與診療無關之檢查，但有特殊規定者，從其規定。
+五、急診病人因緊急傷病必須立即檢查時，其檢查費用得按本節所定點數加計百分之二十。
+六、本節之各項檢查中，註有「兒童加成項目」者，意指病人年齡未滿六個月者，依表定點數加計百分之六十；年齡在六個月以上至未滿二歲者，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之二十；但所有特材一律不加計。
+七、本節第一項至第四項之檢查項目，除各類癌症、臟器移植、糖尿病及加護病房與燙傷病房(中心)病人所作檢查項目外，於每次門診或住診施行檢查，合併累計至一定項次數後，總給付金額予以折扣支付，累計項次數折扣數如下：
+
+折扣數
+累計項次數
+門診診別
+累計項次數之總給付額折扣數
+全額給付
+九折
+八折
+門診檢查
+區域醫院、醫學中心、地區醫院
+合計20項次以下
+合計21-30項次
+合計31項次以上
+基層院所
+合計10項次以下
+合計11-15項次
+合計16項次以上
+住診檢查
+區域醫院、醫學中心、地區醫院
+合計40項次以下
+合計41-60項次
+合計61項次以上
+基層院所
+合計30項次以下
+合計31-40項次
+合計41項次以上
+第一項 尿液檢查 Urine Test
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+一、一般尿液檢查(06001-06017)
+註：尿常規檢查各項點數累積超過75點者，以75點支付。
+06001C
+酸鹼度反應 pH
+v
+v
+v
+v
+15
+06002C
+比重檢驗 Sp.gr (specific gravity)
+v
+v
+v
+v
+15
+06003C
+尿蛋白 Urine protein
+v
+v
+v
+v
+15
+06004C
+尿糖 Urine sugar  
+註：尿糖試紙檢查比照申報
+v
+v
+v
+v
+15
+06005C
+尿膽素原 Urine urobilinogen
+v
+v
+v
+v
+15
+06006C
+尿膽紅素 Urine bilirubin
+v
+v
+v
+v
+15
+06007C
+尿酮體 Ketone body
+註：血中丙酮檢查比照申報
+v
+v
+v
+v
+15
+06008C
+斑尼迪克特反應 Benedict reaction
+v
+v
+v
+v
+15
+06009C
+尿沉渣 Urine Sediments
+註：包括紅血球、白血球、圓柱體、上皮細胞、粘液、淋巴球、寄生蟲等無染色標本檢查。
+v
+v
+v
+v
+25
+06010C
+本周氏蛋白試驗Bence Jones protein
+v
+v
+v
+v
+25
+06011B
+乳糜尿之確定Chyuria
+
+v
+v
+v
+40
+06012C
+尿一般檢查(包括蛋白、糖、尿膽元、膽紅素、尿沈渣、比重、顏色、混濁度、白血球酯酶、潛血、酸鹼度及酮體) General urine examination
+v
+v
+v
+v
+75
+06013C
+尿生化檢查(包括蛋白、糖、尿膽元、膽紅素、比重、顏色、混濁度、酸鹼度、白血球酯酶及酮體) Urine biochemistry examination
+v
+v
+v
+v
+75
+06014B
+酸鹼度(酸鹼儀) pH by pH meter
+
+v
+v
+v
+50
+06015C
+亞硝酸鹽檢驗 Nitrite
+v
+v
+v
+v
+15
+06016B
+脂肪染色 Fat stain
+
+v
+v
+v
+25
+06017B
+白血球酯酶 Leukocyte rsterase
+
+
+
+v
+v
+v
+25
+二、特殊尿液檢查(06503-06513)
+06503B
+尿滲透壓檢驗 Urine-osmolarity test
+
+v
+v
+v
+70
+
+懷孕試驗Pregnancy test
+
+
+
+
+
+06504C
+－ 乳膠凝集法 Latex agglutination
+v
+v
+v
+v
+70
+06505C
+－ 酵素免疫法 EIA
+v
+v
+v
+v
+100
+06508B
+紫質類檢驗 Porphyrin
+
+v
+v
+v
+40
+06509B
+Porphobilinogen 檢驗 Porphobilinogen test
+
+v
+v
+v
+30
+06510C
+巴拉刈定性檢驗 Paraquet (qualitative) test
+v
+v
+v
+v
+50
+06511C
+四次尿糖 Urine Sugar  (4 timed specimens)  
+v
+v
+v
+v
+120
+06512B
+尿液糞紫質檢驗 Coproporphyrin
+
+v
+v
+v
+30
+06513B
+尿液新陳代謝障礙檢測 CNP, DNPH, AAT
+
+v
+v
+v
+50
+
+
+
+
+
+
+
+
+第二項 糞便檢查 Stool Test (07001-07018)
+通則：糞便常規檢查各項點數累積超過75點者，以75點支付。
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+07001C
+糞便潛血化學法 
+Occult blood(chemical method)
+v
+v
+v
+v
+20
+07002C
+糞便中膽紅素Stool bilirubin
+v
+v
+v
+v
+20
+07003C
+阿米巴檢驗(直接法)Amoeba (direct smear)
+v
+v
+v
+v
+20
+07004C
+澱粉質染色Starch stain 
+v
+v
+v
+v
+20
+07005C
+中性脂肪染色Neutral fat stain
+v
+v
+v
+v
+20
+07006C
+脂肪酸染色Fatty acid stain
+v
+v
+v
+v
+20
+07007C
+酸鹼值PH
+v
+v
+v
+v
+20
+07008C
+糞便中尿膽素原 Stool urobilinogen
+v
+v
+v
+v
+20
+07009C
+糞便一般檢查(包括外觀、蟲卵、潛血反應、硬度、顏色、消化能力、紅、白血球、粘液等)
+Stool routine
+v
+v
+v
+v
+75
+07010B
+胰蛋白酶 Trypsin test
+
+v
+v
+v
+50
+
+寄生蟲卵Parasite ova
+
+
+
+
+
+07011C
+－直接抹片檢查 direct smear
+v
+v
+v
+v
+25
+07012C
+－濃縮法 conc. method of ova
+v
+v
+v
+v
+50
+07013C
+－計數法 count/gram註：含培養費用
+v
+v
+v
+v
+150
+07015C
+還原物質測定 Reducing substances
+v
+v
+v
+v
+35
+07016C
+蟯蟲膠片 Perianal swab for pinwarm
+v
+v
+v
+v
+25
+07017B
+APT檢測試驗 APT test
+
+v
+v
+v
+40
+07018C
+糞便白血球檢查 Stool WBC
+v
+v
+v
+v
+25
+
+第三項 血液學檢查Hematology Test (08001-08135)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+08001C
+紅血球計數R.B.C
+v
+v
+v
+v
+20
+08002C
+白血球計數W.B.C
+v
+v
+v
+v
+20
+08003C
+血色素檢查Hemoglobin (Hb)
+v
+v
+v
+v
+20
+08004C
+血球比容值測定Hematocrite (Hct)
+v
+v
+v
+v
+20
+08005C
+紅血球沈降速度測定E.S.R.
+(Erythrocyte sedimentation rate)
+v
+v
+v
+v
+30
+08006C
+血小板計數Platelet count
+v
+v
+v
+v
+40
+08007C
+血中寄生蟲檢查Parasite (malaria or filaria)
+v
+v
+v
+v
+50
+08008C
+網狀紅血球計數Reticulocyte count
+v
+v
+v
+v
+30
+08009C
+紅血球形態RBC morphology
+v
+v
+v
+v
+30
+08010C
+嗜酸性白血球計算Eosinophil count
+v
+v
+v
+v
+30
+08011C
+全套血液檢查 Ｉ CBC-I
+(WBC，RBC，Hb，Hct，platelet count，MCV，MCH，MCHC 八項)
+v
+v
+v
+v
+200
+08012C
+全套血液檢查 Ⅱ CBC-Ⅱ
+(WBC，RBC，Hb，Hct，MCV，MCH，MCHC 七項)
+v
+v
+v
+v
+130
+08082C
+全套血液檢查Ⅲ CBC-Ⅲ
+(WBC,RBC,Hb,Hct,MCV五項)
+v
+v
+v
+v
+90
+08013C
+白血球分類計數WBC differential count
+v
+v
+v
+v
+70
+08014C
+血液一般檢查（白血球，紅血球及血色素）
+Blood routine
+註：同時實施此三項檢查，須以此項申報。
+v
+v
+v
+v
+50
+08015C
+紅斑性狼瘡細胞LE cell preparation
+(Lupus-Erythromatosus)
+v
+v
+v
+v
+100
+08016C
+紅斑性狼瘡因子LE factor
+v
+v
+v
+v
+120
+08017B
+血清黏度 Serum viscosity
+
+v
+v
+v
+50
+08018C
+出血時間 Bleeding time (Duke method)
+v
+v
+v
+v
+30
+08019C
+出血時間 Bleeding time (Ivy method)
+v
+v
+v
+v
+150
+08020C
+凝血時間 Clotting time, coagulation time
+(Lee-White method)
+v
+v
+v
+v
+40
+08021C
+血塊收縮試驗 Clot retraction test
+v
+v
+v
+v
+40
+08022B
+纖維蛋白原測定(定性) Fibrinogen (qualitative)
+
+v
+v
+v
+40
+08023B
+纖維蛋白原測定(定量) Fibrinogen (quantitative)
+
+v
+v
+v
+120
+08024B
+纖維蛋白原測定(免疫比濁法)
+Fibrinogen (Nephelometry)
+
+v
+v
+v
+275
+08025B
+凝血酶時間 Thrombin time
+
+v
+v
+v
+100
+08026C
+凝血酶原時間 Prothrombin time (一段式)
+v
+v
+v
+v
+150
+08027B
+骨髓細胞形態判讀
+Bone marrow cells morphology interpretation    
+註：
+1.Hematopathology
+2.淋巴檢查比照申報。
+
+v
+v
+v
+603
+08128B
+骨髓細胞形態判讀合併細胞分類計數
+Bone marrow cells morphology interpretation and differential counting
+註：
+1.Hematopathology
+2.淋巴檢查比照申報。
+
+v
+v
+v
+946
+08028B
+胚胎血色素量值 Hb F quantitation (fetal Hb)
+
+v
+v
+v
+150
+08029B
+Ｈ血紅素檢查 Hb H preparation
+
+v
+v
+v
+40
+08030C
+血紅素電泳 Hb electrophoresis
+v
+v
+v
+v
+300
+08031B
+紅血球脆性試驗 RBC fragility
+
+v
+v
+v
+400
+08032B
+漢姆斯酸性血清試驗 Acid Ham test
+
+v
+v
+v
+200
+08033B
+自動溶血試驗 Autohemolysis test
+
+v
+v
+v
+300
+08034B
+毛細管抵抗測定 Capillary fragility test
+
+v
+v
+v
+40
+08035C
+血漿凝固時間 Plasma clotting time
+v
+v
+v
+v
+90
+08036C
+部分凝血活酶時間
+APTT (activated partial thromboplastin time)
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+180
+
+纖維蛋白降解產物
+FDP (fibrin degradation product)
+
+
+
+
+
+08037B
+－ 定性qualitative
+
+v
+v
+v
+270
+08038B
+－ 定量quantitative
+
+v
+v
+v
+600
+08039B
+半定量血塊收縮試驗
+Semiquantitative clot retraction
+
+v
+v
+v
+340
+08040B
+變性血色素檢查 Methemoglobin
+
+v
+v
+v
+100
+08041B
+糖水試驗 Sugar water test
+註：含半定量
+
+v
+v
+v
+50
+08042C
+骨髓鐵染色 B.M. iron stain
+v
+v
+v
+v
+100
+08043C
+蘇丹Ｂ染色 B.M. Sudan black B stain
+v
+v
+v
+v
+80
+08044B
+白血球鹼性磷酸解酶染色
+LAP stain (leukocyte-alkaline phosphatase)
+
+v
+v
+v
+225
+08045B
+凝塊溶解試驗 Clot lysis test
+
+v
+v
+v
+80
+08046B
+硫酸魚精蛋白副凝固試驗3P test
+
+v
+v
+v
+160
+08047B
+過氧化酶染色 B.M. peroxidase stain
+
+v
+v
+v
+100
+08048B
+特異性酯酶染色 Specific esterase stain
+
+v
+v
+v
+200
+08049B
+非特異性酯酶染色 Nonspecific esterase stain
+
+v
+v
+v
+200
+08050B
+酸性磷酸酶染色 Acid phosphatase stain
+
+v
+v
+v
+200
+08051B
+肝糖染色試驗 PAS (periodic acid schiff) stain
+
+v
+v
+v
+150
+08052B
+胚胎血色素染色 Betke stain (fetal Hb)
+
+v
+v
+v
+150
+08053B
+漢斯氏體染色 Heinz body stain
+
+v
+v
+v
+160
+08054B
+血色素A2測定Hemoglobin A2 (Hb-A2)
+
+v
+v
+v
+190
+08055B
+凝血酶原消耗試驗
+Prothrombin consumption test
+
+v
+v
+v
+200
+08056B
+部份凝血激素取代試驗 PTT substitution test
+
+v
+v
+v
+200
+08057B
+第二因子測定 Factor Ⅱ assay
+
+v
+v
+v
+400
+08058B
+第五因子測定 Factor Ⅴ assay
+
+v
+v
+v
+400
+08059B
+第七因子測定 Factor Ⅶ assay
+
+v
+v
+v
+400
+08060B
+第八因子測定 Factor Ⅷ assay
+
+v
+v
+v
+400
+08061B
+第九因子測定 Factor Ⅸ assay
+
+v
+v
+v
+400
+08062B
+第十因子測定 Factor Ⅹ assay
+
+v
+v
+v
+400
+08080B
+第十一因子測定 FactorＸⅠ assay
+
+v
+v
+v
+400
+08081B
+第十二因子測定 FactorＸⅡ assay
+
+v
+v
+v
+400
+08135B
+第十三因子測定 Factor XIII assay
+註：
+1.適用範圍：先天性或後天性第十三因子缺乏症之確認診斷及追蹤。
+2.每三個月限申報一次，緊急開刀或其他特殊情形不在此限。
+3.不得同時申報08063B。
+4.申報時檢附Factor XIII活性定量報告。
+5.限血液病專科醫師開立。
+
+v
+v
+v
+2084
+08063B
+尿素溶解試驗 Urea solubility test
+
+v
+v
+v
+100
+08064B
+凝血酶原轉化試驗
+Prothrombin-proconvertin test (P&P)
+（包括測Ⅲ、Ⅶ、Ⅹ）
+
+v
+v
+v
+400
+08065B
+終端去氧轉化酶染色
+TdT(terminal deoxy-transferase stain)
+
+v
+v
+v
+640
+08066B
+優球蛋白溶解時間 Euglobulin clot lysis test
+
+v
+v
+v
+400
+08068B
+凝血酶時間矯正試驗
+Thrombin time correction test
+
+v
+v
+v
+200
+08069B
+血小板凝集試驗 Platelet aggregation test
+註：包括 ADP, collagen（膠原）及 epinephrin
+（腎上腺素）等三項以上。
+
+v
+v
+v
+800
+08070B
+血小板留滯試驗 Platelet retention test
+
+v
+v
+v
+400
+08071B
+細胞化學染色 Cytochemical stain
+
+v
+v
+v
+900
+08072B
+抗凝血 Ⅲ AT Ⅲ (antithrombin)
+
+v
+v
+v
+300
+08073B
+Isopropanol HR stability test
+
+v
+v
+v
+360
+08074B
+活化再鈣化凝血時間 ART
+
+v
+v
+v
+180
+08075C
+血液滲透壓 Blood osmolality
+v
+v
+v
+v
+150
+08076B
+鋅化原紫質檢查 ZPP (zincprotoporphrin)
+
+v
+v
+v
+90
+08077B
+蛋白CProtein C
+
+v
+v
+v
+367
+08078B
+α2抗胞漿素α-2-Antiplasmin
+
+v
+v
+v
+367
+08079B
+D雙合體試驗  D dimer test
+
+v
+v
+v
+367
+08127C
+平均紅血球容積 MCV
+註：不得與 08011C、08012C、08082C重複申報。
+v
+v
+v
+v
+20
+08083C
+平均紅血球血紅素量 MCH
+註：不得與 08011C、08012C重複申報。
+v
+v
+v
+v
+20
+08084C
+平均紅血球血紅素濃度 MCHC
+註：不得與 08011C、08012C重複申報。
+v
+v
+v
+v
+20
+08085B
+血漿黏度 Plasma viscosity
+
+v
+v
+v
+50
+08086B
+全血黏度 Whole blood viscosity
+
+v
+v
+v
+50
+08087B
+尿液纖維蛋白原分解物含量 
+Urine fibrinogen degeneration product (Urine FDP)
+
+v
+v
+v
+275
+08088B
+混合性凝血酶原時間 Mixing PT
+
+v
+v
+v
+150
+08089B
+活化凝血時間 ACT test
+註：不得合併施行08026C及08036C。
+
+v
+v
+v
+150
+08090B
+血漿血色素電泳 Plasma hemoglobin
+
+v
+v
+v
+300
+08091B
+等電點血色素電泳分析 
+Isoelectric hemoglobin electrophoresis
+
+v
+v
+v
+300
+08092B
+混合性部份凝血活酶時間 Mixed APTT
+
+v
+v
+v
+180
+08093B
+不穩定性血紅素 
+Unstable hemoglobin
+
+v
+v
+v
+100
+08094B
+尿甘酸化物酶染色 Beta-glucuronidase stain
+
+v
+v
+v
+200
+08095B
+第二因子抗原 Factor 2 antigen
+
+v
+v
+v
+400
+08096B
+第五因子抗原 Factor 5 antigen
+
+v
+v
+v
+400
+08097B
+第七因子抗原 Factor 7 antigen
+
+v
+v
+v
+400
+08098B
+第十二因子抗原 Factor 12 antigen
+
+v
+v
+v
+400
+08099B
+第十三因子抗原 Factor 13 antigen
+
+v
+v
+v
+400
+08100B
+第二因子之抑制因子 Factor 2 inhibitor
+
+v
+v
+v
+700
+08101B
+第五因子之抑制因子 Factor 5 inhibitor
+
+v
+v
+v
+700
+08102B
+第七因子之抑制因子 Factor 7 inhibitor
+
+v
+v
+v
+700
+08067B
+第八因子之抑制因子 Factor 8 inhibitor
+
+v
+v
+v
+700
+08103B
+第九因子之抑制因子 Factor 9 inhibitor
+
+v
+v
+v
+700
+08104B
+第十因子之抑制因子 Factor 10 inhibitor
+
+v
+v
+v
+700
+08105B
+第十一因子之抑制因子 Factor 11 inhibitor
+
+v
+v
+v
+700
+08106B
+第十二因子之抑制因子 Factor 12 inhibitor
+
+v
+v
+v
+700
+08107B
+G型免疫球蛋白次群定量
+IgG subclass (含IgG1、IgG2、IgG3、IgG4)
+
+v
+v
+v
+700
+08109B
+蛇毒素試驗時間 Reptilase time
+
+v
+v
+v
+200
+08111B
+輔因子活力 Ristocetin cafactor activity
+註：適應症為凝血異常，疑有Von-willebrands disease者。
+
+v
+v
+v
+800
+08112B
+血小板第三因子呈現試驗
+Platelat factor-3 availbility test
+
+v
+v
+v
+400
+08113B
+血小板第四因子呈現試驗 
+Platelat factor 4 test
+
+v
+v
+v
+400
+08114B
+β-血凝球蛋白 β-tromboglobulin
+
+v
+v
+v
+400
+08115B
+血栓質生成試驗 Throm. gener. test
+
+v
+v
+v
+400
+08116B
+組織胞漿素元活化因子 TPA (Tissue-type plaseminogen activator)
+
+v
+v
+v
+400
+08117B
+胞質素元活化因子抑制劑 PAI-1
+
+v
+v
+v
+400
+08118B
+Von willebrand factor
+
+v
+v
+v
+400
+08119B
+黏著試驗 Adhesion test
+
+v
+v
+v
+400
+08120B
+凝血酵素碎片1+2 
+Prothrombin fragment 1+2
+
+v
+v
+v
+400
+08122B
+蛋白S  Protein S
+
+v
+v
+v
+367
+08123B
+蛋白C抗原 Protein C Ag
+
+v
+v
+v
+367
+08124B
+蛋白S抗原 Protein S Ag
+
+v
+v
+v
+367
+08125B
+血中肝素濃度測定 Heparin level
+
+v
+v
+v
+400
+08126B
+狼瘡抗凝血因子 Lupus anticoagulant test
+
+v
+v
+v
+700
+08129C
+胰島素血清檢驗
+v
+v
+v
+v
+160
+08130C
+骨質特異性鹼性磷酸酶
+Bone-alkaline phosphatase
+註：適應症同33064B。
+v
+v
+v
+v
+325
+08131C
+血小板功能閉鎖時間-膠原蛋白/腎上腺素 Platelet function closure time-Col/Epi 註：不得與08018C、08019C、08069B同時申報
+v
+v
+v
+v
+367
+08132C
+血小板功能閉鎖時間-膠原蛋白/二磷酸腺苷酸 Platelet function closure time-Col/ADP 註：不得與08018C、08019C、08069B同時申報
+v
+v
+v
+v
+367
+08133B
+胱蛋白C
+Cystatin C
+註：適應症：
+1.第一型及第二型糖尿病患者腎臟功能監測。
+2.腎臟移植病患腎功能監測。
+3.具急性腎衰竭風險者之早期腎功能監測。
+
+v
+v
+v
+200
+08134B
+連續血糖監測
+Continuous glucose monitoring
+註：
+1.適應症：
+(1)第一型糖尿病(領有重大傷病證明)、新生兒糖尿病，或因Near-total pancreatectomy所致糖尿病等個案，且須符合下列任一條件：
+A.血糖過度起伏且最近六個月二次醣化血紅素(HbA1c)值都大於(含)8%。
+B.低血糖無感症。
+C.常有嚴重低血糖，須他人協助治療，最近三個月有因低血糖曾至急診診治或住院。
+D.懷孕。
+(2)懷孕之第二型糖尿病或妊娠糖尿病，且接受胰島素注射者。
+(3)肝醣儲積症第零型、第一型、第三型、第六型、第九型，有嚴重低血糖病史或仍持續使用玉米粉治療者。
+2.支付規範：
+(1)門診使用，一年至多執行二次，且間隔一個月以上。如一年執行超過二次者，應事前審查。
+(2)住院使用應事前審查。一年至多執行二次，且間隔一個月以上。
+(3)限糖尿病共同照護網醫療機構申報，執行檢查人員和判讀醫師、營養師、衛教師必須參加過有關連續血糖監測之訓練課程。
+
+v
+v
+v
+4842
+
+第四項 生化學檢查 Biochemistry Examination
+一、一般生化學檢查 (09001-09140)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+09001C
+總膽固醇 Cholestero1, total
+v
+v
+v
+v
+70
+09002C
+血中尿素氮 BUN, blood urea nitrogen
+v
+v
+v
+v
+40
+09003C
+尿素氮、尿 Urea-N (urine)
+v
+v
+v
+v
+40
+09004C
+三酸甘油脂 Triglyceride (TG)
+v
+v
+v
+v
+120
+09005C
+-空腹Glucose-Ante Cibum, AC
+v
+v
+v
+v
+50
+09140C
+-餐後Glucose-Post Cibum, PC
+註：
+1.空腹血糖係指飯前空腹八小時；餐後血糖係指飯後二小時或喝完糖水二小時（依進食時開始計時）。
+2.尿液除外。
+3.同次門診以申報一次為限。
+4.下列情形須於病歷註明理由備查：
+(1)急診病人未符合上述時間條件，惟因病情需要執行者，得以09140C申報。
+(2)空腹與餐後二項同時申報。
+v
+v
+v
+v
+50
+09006C
+醣化血紅素 HbA1c (Hemoglobin A1c)
+v
+v
+v
+v
+200
+09008B
+酚磺鈦 P.S.P.(Phenol-sulfon-phthalein)
+
+v
+v
+v
+40
+09009C
+三碘甲狀腺原氨酸攝取率 T3 Uptake Ratio
+v
+v
+v
+v
+280
+09010C
+四碘甲狀腺素T4生化法
+v
+v
+v
+v
+280
+09011C
+鈣 Ca (Calcium)
+v
+v
+v
+v
+40
+09012C
+磷 P (Phosphoras)
+v
+v
+v
+v
+40
+09013C
+尿酸 Uric acid
+v
+v
+v
+v
+40
+09014C
+肌氨酸Creatin
+v
+v
+v
+v
+40
+09015C
+肌酐、血 Creatinine (B) CRTN
+v
+v
+v
+v
+40
+09016C
+肌酐、尿 Creatinine (U) CRTN
+v
+v
+v
+v
+40
+09017C
+澱粉酶、血 Amylase (B)
+v
+v
+v
+v
+50
+09018B
+粘性蛋白 Mucoprotein
+
+v
+v
+v
+40
+09019B
+r-球蛋白 r-globulin
+
+v
+v
+v
+85
+09020C
+鐵 Fe (Iron-bound)
+v
+v
+v
+v
+90
+09021C
+鈉 Na (Sodium)
+v
+v
+v
+v
+40
+09022C
+鉀 K(Potassium)
+v
+v
+v
+v
+40
+09023C
+氯 Cl (Chloride)
+v
+v
+v
+v
+40
+09024C
+二氧化碳 Carbon dioxide
+v
+v
+v
+v
+80
+09025C
+血清麩胺酸苯醋酸轉氨基酶 
+S-GOT/AST (Glutamic-oxaiacetic-transaminase)
+v
+v
+v
+v
+50
+09026C
+血清麩胺酸丙酮酸轉氨基酶 
+S-GPT/ALT
+v
+v
+v
+v
+50
+09027C
+鹼性磷酯酶 Alkaline phosphatase
+v
+v
+v
+v
+50
+09028C
+酸性磷酯酶 Acid phosphatase
+v
+v
+v
+v
+50
+09029C
+膽紅素總量 Bilirubin total
+v
+v
+v
+v
+50
+09030C
+直接膽紅素 Bilirubin direct
+v
+v
+v
+v
+40
+09031C
+麩胺轉酸酶 r-GT(r-glutamyl transferase)
+v
+v
+v
+v
+70
+09032C
+肌酸磷化酶 CPK(Creatine-phospho-kinase)
+v
+v
+v
+v
+70
+09033C
+乳酸脫氫酶 LDH(Lactic dehydrogenase)
+v
+v
+v
+v
+60
+09034B
+酚四溴鈉試驗 BSP45' (Sulfobromophthalein)
+
+v
+v
+v
+40
+09035C
+總鐵結合能力 
+TIBC(Total Iron Binding Capacity)
+v
+v
+v
+v
+270
+09036B
+腦燐脂膽固醇結合試驗
+C.C.F. (Cephalin cholestered flocculation)
+
+v
+v
+v
+35
+09037C
+血氨 Blood ammonia
+v
+v
+v
+v
+200
+09038C
+白蛋白 Albumin
+v
+v
+v
+v
+40
+09039C
+球蛋白 Globubin
+v
+v
+v
+v
+40
+09040C
+全蛋白 Total protein
+v
+v
+v
+v
+40
+09041B
+血液氣體分析 Blood gas analysis
+註：1.包括PH、PCO、PO2及HCO3等測定在內。
+2.本項不得加計急診加成。
+
+v
+v
+v
+200
+09042C
+攝護腺酸性磷酸酶
+P.A.P. (Prostatic acid phoshpatase)
+v
+v
+v
+v
+240
+09043C
+高密度脂蛋白－膽固醇  
+HDL-C (highdensity lipoprotein cholesterol)
+v
+v
+v
+v
+200
+09044C
+低密度脂蛋白－膽固醇 
+LDL-C (Lowdensity lipoprotein cholesterol)
+v
+v
+v
+v
+250
+09046B
+鎂 Mg (Magnesium)
+
+v
+v
+v
+50
+09047B
+銅 Cu (Copper)
+
+v
+v
+v
+130
+09048B
+鋅 Zn (Zinc)
+
+v
+v
+v
+225
+09049B
+鉛 Pb (Lead)
+
+v
+v
+v
+400
+09050B
+乳糖 Galactose
+
+v
+v
+v
+350
+09051C
+葡萄糖六磷酸脫氫酶 G-6-P-D (Glucose-6-
+phosphate-dehydrogenase)
+v
+v
+v
+v
+250
+09052B
+香莢杏仁酸定量 VMA (Vanillyle-mandelic-acid) (quantative)
+
+v
+v
+v
+300
+09053B
+17酮類固醇類 17-KS (17-ketosteroids)
+
+v
+v
+v
+270
+09054B
+17氫氧根腎上腺酮
+17-OHCS(17-hydroxycorticosteroids)
+
+v
+v
+v
+200
+09055B
+尿動情激素 Urinary estriol E3
+
+v
+v
+v
+250
+09056B
+5-氫氧靛基醋酸 5-HIAA 
+(5-Hydroxyindoleacetic-acid)
+
+v
+v
+v
+200
+09057B
+胺基左旋醣酸 S-ALA (S-Aminolevulinic acid)
+
+v
+v
+v
+315
+09058B
+胺基左旋醣酸脫氫酵素 S-ALA dehydrase
+
+v
+v
+v
+225
+09059B
+乳酸 Lactic Acid (lactate)
+
+v
+v
+v
+270
+09060B
+丙銅酸 Pyruvate
+
+v
+v
+v
+270
+09061B
+肌酸磷化同功酶 CPK isoenzyme
+
+v
+v
+v
+450
+09062B
+乳酸脫氫同功酶 LDH isoenzyme
+
+v
+v
+v
+450
+09063B
+Ｄ型木糖吸收試驗 D-xylose test
+
+v
+v
+v
+90
+09064C
+解脂酶 Lipase
+v
+v
+v
+v
+150
+09065B
+蛋白電泳分析 protein electrophoresis
+註：包括血清及體液
+
+v
+v
+v
+300
+09066B
+脂蛋白電泳分析 Lipoprotein electrophoresis
+
+v
+v
+v
+360
+09067B
+鹼性磷酸酯電泳分析 
+Alkaline phosphatase isoenzyme electrophoresis
+
+v
+v
+v
+390
+09068B
+澱粉酶電泳分析 
+Amylase isoenzyme electrophoresis
+
+v
+v
+v
+390
+09069B
+血清醛縮酶 Aldolase
+
+v
+v
+v
+300
+09070B
+羥基丁酸鹽脫氫酶
+HBDH (Hydroxbutyric-dehydrogenase)
+
+v
+v
+v
+150
+09071C
+肌酸磷酸酶(MB同功酶)  
+CK-MB (Creatine phosphokinase-MB)
+v
+v
+v
+v
+150
+09072B
+異枸櫞酸去氫酶
+ICDH (Isocitric dehydrogenase)
+
+v
+v
+v
+150
+09073B
+維生素Ａ定量 Vitamin A
+
+v
+v
+v
+85
+09074B
+維生素Ｃ定量 Vitamin C
+
+v
+v
+v
+85
+09075B
+後腎上腺髓素 Metanephrine
+
+v
+v
+v
+300
+09076B
+5-核酸解酶 5-Nucleotidase
+
+v
+v
+v
+320
+09077B
+兒荼酚酶測定 Catecholamine
+
+v
+v
+v
+1000
+09078B
+結石分析 Stone analysis
+註：
+1.限泌尿道結石申報。
+2.同一患者，間隔時間應為兩年(含)以上。
+
+v
+v
+v
+500
+09079C
+麝香混濁反應 T.T.T.
+v
+v
+v
+v
+30
+09080C
+硫酸鋅混濁反應 Z.T.T. 
+v
+v
+v
+v
+30
+09081C
+殘餘氯定量 N.P.N.
+v
+v
+v
+v
+40
+09082B
+蔗糖溶血分析 Sucrose hemolysis test
+
+v
+v
+v
+120
+09083B
+膽素脂酶 Cholinesterase
+
+v
+v
+v
+90
+09084B
+β脂蛋白 β-lipoprotein
+
+v
+v
+v
+135
+09085C
+白胺酸胺酶 Leucine aminopeptidase(LAP)
+v
+v
+v
+v
+70
+09086C
+N-乙醯胺基葡萄糖甘酶
+NAG (N-acetyl-β-D-glucosaminidase)
+v
+v
+v
+v
+100
+09087B
+甲狀腺素結合容量 TBK
+
+v
+v
+v
+240
+09088B
+先天代謝異常有關之酵素定量檢查
+Enzyme test for inborn errors of metabolism
+註：
+1.限衛生福利部委託具優生保健諮詢中心之醫院申請實施。
+2.限由小兒科遺傳專科醫師主持。
+3.本項目如已申請衛生福利部補助者，本保險不另支付該次檢查費用。
+4.如做為一般性篩檢者，非屬本保險給付範圍。
+5.每單項酵素檢查400點，酵素定量檢查總點數以3500點為上限。
+
+
+v
+v
+v
+400
+09089B
+有機酸定量檢查 
+Organic acdis analysis quantitative
+註：
+1.限衛生福利部委託具優生保健諮詢中心之醫院申請實施。
+2.限由小兒科遺傳專科醫師主持。
+3.本項目如已申請衛生福利部補助者，本保險不另支付該次檢查費用。
+4.如做為一般性篩檢者，非屬本保險給付範圍。
+
+v
+v
+v
+1800
+09090B
+有機酸定性檢查 
+Organic acids analysis qualitative
+註：
+1.限衛生福利部委託具優生保健諮詢中心之醫院申請實施。
+2.限由小兒科遺傳專科醫師主持。
+3.本項目如已申請衛生福利部補助者，本保險不另支付該次檢查費用。
+4.如做為一般性篩檢者，非屬本保險給付範圍。
+
+v
+v
+v
+1080
+09091B
+經皮測黃疸值 Transcutaneous biliubin
+
+v
+v
+v
+35
+09092B
+游離膽固醇 Free cholesterol
+
+v
+v
+v
+70
+09093B
+肝臟機能ICG色素檢查
+ICG (Indocyanine green)
+註：限肝臟手術前之評估使用。
+
+v
+v
+v
+40
+09094B
+尿液鐵 Urine hemosiderin
+
+v
+v
+v
+90
+09095B
+總脂肪 Total lipid
+
+v
+v
+v
+200
+09096B
+胺基酸定性檢查 Amino acids analysis qualitative
+註：
+1.限衛生福利部委託具優生保健諮詢中心之醫院申請實施。
+2.限由小兒科遺傳專科醫師主持。
+3.本項目如已申請衛生福利部補助者，本保險不另支付該次檢查費用。
+4.如做為一般性篩檢者，非屬本保險給付範圍。
+
+v
+v
+v
+350
+09097B
+G6PD定量 G6PD quantitative
+
+v
+v
+v
+250
+09098B
+心肌旋轉蛋白T  Troponin T
+註：本項與心肌旋轉蛋白I檢驗，限擇一施行申報。
+
+v
+v
+v
+450
+09099C
+心肌旋轉蛋白Ｉ  Troponin I
+註：
+1.本項與心肌旋轉蛋白T檢驗，限擇一施行申報。
+2.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+450
+09100B
+尿液蛋白電泳 Urine protein electrophoresis
+
+v
+v
+v
+300
+09101B
+蔗糖確認試驗 Sucrose confirmation
+
+v
+v
+v
+120
+09102B
+腺甘脫胺酶 ADA
+
+v
+v
+v
+240
+09103C
+胰島素免疫分析 Insulin (EIA/LIA)
+v
+v
+v
+v
+120
+09104C
+胎盤生乳激素免疫分析 HPL (EIA/LIA)
+v
+v
+v
+v
+200
+09105C
+黃體脂酮免疫分析 Progesteron (EIA/LIA)
+v
+v
+v
+v
+200
+09106C
+游離甲狀腺素免疫分析 Free T4 (EIA/LIA)
+v
+v
+v
+v
+200
+09107C
+游離三碘甲狀腺素免疫分析
+Free T3 (EIA/LIA)
+v
+v
+v
+v
+200
+09108C
+生長激素免疫分析 
+GH (Growth hormon), EIA/LIA
+v
+v
+v
+v
+200
+09109C
+17-氫氧基黃體脂酮免疫分析
+17-OHP (EIA/LIA)
+v
+v
+v
+v
+200
+09110B
+骨原蛋白免疫分析 Osteocalcin (EIA/LIA)
+
+v
+v
+v
+280
+09111C
+甲狀腺球蛋白  Thyroglobulin(EIA/LIA)
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+90
+09112C
+甲狀腺刺激素免疫分析 TSH(EIA/LIA)
+v
+v
+v
+v
+240
+09113C
+皮質素免疫分析 Cortisol (EIA/LIA)
+註：
+1.游離皮質素(Free cortisol)比照申報。
+2.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+240
+09114B
+醛類脂醇酵素免疫分析
+Aldosterone (EIA/LIA)
+
+v
+v
+v
+240
+09115B
+降血鈣素免疫分析 Calcitonin (EIA/LIA)
+
+v
+v
+v
+240
+09116B
+抗利尿激素免疫分析 ADH (EIA/LIA)
+
+v
+v
+v
+400
+09117C
+甲狀腺原氨酸免疫分析 T3 (EIA/LIA)
+v
+v
+v
+v
+250
+09118B
+碳-副甲狀腺素免疫分析 
+C-terminal PTH (EIA/LIA)
+
+v
+v
+v
+315
+09119B
+促腎上腺皮質素免疫分析 ACTH (EIA/LIA)
+
+v
+v
+v
+450
+09120C
+催乳激素免疫分析 Prolactin (PRL), EIA/LIA
+v
+v
+v
+v
+150
+09121C
+睪丸酯醇免疫分析 Testosterone (EIA/LIA)
+v
+v
+v
+v
+150
+09122C
+Intact副甲狀腺素免疫分析 
+Intact parathyrin (EIA/LIA)
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+360
+09123B
+MM-副甲狀腺素免疫分析 
+MM-parathyrin (EIA/LIA)
+
+v
+v
+v
+360
+09124B
+血漿腎素活性免疫分析 PRA (EIA/LIA)
+
+v
+v
+v
+320
+09125C
+濾泡刺激素免疫分析 FSH (EIA/LIA)
+v
+v
+v
+v
+180
+09126C
+黃體化激素免疫分析 LH (EIA/LIA)
+v
+v
+v
+v
+180
+09127C
+二氫基春情素免疫分析 
+Estradiol (E2), EIA/LIA
+v
+v
+v
+v
+180
+09128C
+C-胜鏈胰島素免疫分析 C-peptide (EIA/LIA)
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+180
+09129C
+維生素B12免疫分析 VIT-B12 (EIA/LIA)
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+180
+09130C
+葉酸免疫分析 Folic acid (EIA/LIA)
+註：
+1.屬西醫基層總額部門院所，限貧血病人病因檢查申報，一年不得超過一次。
+2.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+180
+09131C
+春情素醇酵素免疫分析 Estriol (E3), EIA/LIA
+v
+v
+v
+v
+180
+09132B
+胃泌激素免疫分析 Gastrin (EIA/LIA)
+
+v
+v
+v
+180
+09133B
+環磷酸腺酐酸免疫分析 C-AMP (EIA/LIA)
+
+v
+v
+v
+180
+09134C
+糞便潛血免疫分析 
+Stool occult blood (iFOB)
+v
+v
+v
+v
+80
+09135B
+乳酸-丙酮酸檢查 Lactic acid, pyruvic acid
+
+v
+v
+v
+400
+09136B
+缺糖型式運鐵蛋白之分析 
+Carbohydrate-deficient transferrin, CDT
+
+v
+v
+v
+450
+09137B
+血清酮體定量分析
+Serum ketone body (quantitative) 註：
+1.適應症：糖尿病酮酸中毒。
+2.不得同時申報06007C。
+
+v
+v
+v
+150
+09138C
+直接及總膽紅素比值
+Direct Bilirubin/Total Bilirubin Ratio
+註：不得同時申報之診療項目及編號為09029C及09030C。
+
+v
+v
+v
+v
+90
+09139C
+醣化白蛋白(GA)
+註：
+1.適應症：
+(1)糖尿病合併慢性腎病變。
+(2)因血液疾病導致HbA1c無法反映血糖控制者。
+(3)懷孕糖尿病人及妊娠糖尿病人。
+(4)血糖數值顯示控制不良，但HbA1c數值仍於良好範圍者。
+(5)禁忌症：血中白蛋白濃度<3g/dL。
+2.支付規範：
+(1)不得同時申報編號09006C。
+(2)一年限申報四次，若為懷孕糖尿病人、妊娠糖尿病人或當年度為糖尿病及初期慢性腎臟病照護整合方案新收案個案，一年限申報六次。
+v
+v
+v
+v
+200
+
+
+二、微量元素測定 (10001-10012)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+10001B
+銀 Silver (Ag)
+
+v
+v
+v
+400
+10002B
+鋁 Aluminum (Al)
+
+v
+v
+v
+400
+10003B
+砷 Arsenic (As)
+
+v
+v
+v
+400
+10004B
+金 Gold (Au)
+
+v
+v
+v
+400
+10005B
+鎘 Cadmium (Cd)
+
+v
+v
+v
+400
+10006B
+鈷 Cobalt (Co)
+
+v
+v
+v
+400
+10007B
+鉻 Chromium (Cr)
+
+v
+v
+v
+400
+10008B
+汞 Mercury (Hg)
+
+v
+v
+v
+200
+10009B
+錳 Manganese (Mn)
+
+v
+v
+v
+320
+10010B
+鎳 Nickel (Ni)
+
+v
+v
+v
+400
+10011B
+鉬 Molybdenium (Mo)
+
+v
+v
+v
+400
+10012B
+鋅(原子吸收光譜法)  Zinc(Zn)(AA method)
+
+v
+v
+v
+400
+
+
+
+
+三、血中藥物濃度測定Therapeutic Drug Monitoring (10501-10537)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+10501C
+卡巴馬平Carbamazepine
+v
+v
+v
+v
+320
+10502B
+二苯妥因 Diphenylhydantoin
+
+v
+v
+v
+320
+10503B
+甲乙琥珀亞胺 Ethosuximide
+
+v
+v
+v
+320
+10504B
+滅殺除癌 Methotrexate
+
+v
+v
+v
+320
+10505B
+普卡因胺 Procainamide & NAPA
+
+v
+v
+v
+320
+10506B
+立克菌星 Netilmicin
+
+v
+v
+v
+320
+10507B
+乙苯嘧啶二酮 Primidone
+
+v
+v
+v
+320
+10508B
+水楊酸 Salicylate
+
+v
+v
+v
+320
+10509B
+茶鹼 Theophylline
+
+v
+v
+v
+320
+10510C
+發爾波克 Valproic acid
+v
+v
+v
+v
+320
+10511C
+長葉毛地黃 Digoxin 
+v
+v
+v
+v
+320
+10512B
+Amikacin
+
+v
+v
+v
+320
+10515B
+力多卡因 Lidocaine
+
+v
+v
+v
+320
+10516B
+奎尼丁 Quinidine
+
+v
+v
+v
+320
+10517B
+Disopyramide
+
+v
+v
+v
+320
+10518B
+健大黴素 Gentamicin
+
+v
+v
+v
+320
+10519B
+托不拉黴素 Tobramycin
+
+v
+v
+v
+320
+10520C
+鋰鹽 Li(Lithium)
+v
+v
+v
+v
+150
+10521B
+Imipramine
+
+v
+v
+v
+150
+10522B
+血中藥物濃度測定-Cyclosporine-A
+Therapeutic drug monitoring- cyclosporine
+
+v
+v
+v
+320
+10523B
+血中藥物濃度測定-二苯環丙氨
+Therapeutic drug monitoring- amitriptyline
+
+v
+v
+v
+320
+10524B
+血中藥物濃度測定-Desipramine
+Therapeutic drug monitoring- desipramine
+
+v
+v
+v
+320
+10525B
+血中藥物濃度測定-Phenobarbital (luminal)
+Therapeutic drug monitoring- phenobarbital (luminal)
+
+v
+v
+v
+320
+10526B
+血中藥物濃度測定-Diazepam (valium)
+Therapeutic drug monitoring- diazepam (valium)
+
+v
+v
+v
+320
+10529B
+血中藥物濃度測定-普潘奈
+Therapeutic drug monitoring- propanolol
+
+v
+v
+v
+320
+10530B
+血中藥物濃度測定-Dibekacin
+Therapeutic drug monitoring- dibekacin
+
+v
+v
+v
+320
+10531B
+血中藥物濃度測定-Vancomycin
+Therapeutic drug monitoring- vancomycin
+
+v
+v
+v
+320
+10532B
+血中藥物濃度測定-氯黴素
+Therapeutic drug monitoring- chloramphenicol
+
+v
+v
+v
+320
+10533B
+血中藥物濃度測定-康絲菌素
+Therapeutic drug monitoring- kanamycin
+
+v
+v
+v
+320
+10534B
+血中藥物濃度測定-Nortriptyline
+Therapeutic drug monitoring- nortriptyline
+
+v
+v
+v
+320
+10535B
+血中藥物濃度測定-三環抗鬱劑
+Therapeutic drug monitoring- TCA (tricyclic antidepressant)
+
+v
+v
+v
+150
+10536B
+血中藥物濃度測定-FK-506
+Therapeutic drug monitoring-FK-506
+
+v
+v
+v
+1080
+10527B
+苯重氮基鹽類濃度(定量) 
+Benzodiazepine(quantitative)
+
+v
+v
+v
+320
+10537C
+Sirolimus 全血濃度測定
+v
+v
+v
+v
+1600
+
+四、血中毒物濃度測定Toxicologic Examination (10801-10819)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+10801B
+毒物試驗(定性)  Drug test(qualitative)
+
+v
+v
+v
+250
+10802B
+巴比妥酸鹽　Barbiturate
+
+v
+v
+v
+320
+10803B
+乙醯對氨基酚　Acetaminophen
+
+v
+v
+v
+320
+10804B
+一氧化碳血紅素　Carboxylhemoglobin
+
+v
+v
+v
+150
+10805B
+氰化物　Cyanide
+
+v
+v
+v
+150
+10806B
+甲醇　Methyl alcohol
+
+v
+v
+v
+150
+10807B
+乙醇　Ethyl alcohol
+
+v
+v
+v
+180
+10808B
+高鐵血紅素　Methemoglobin
+
+v
+v
+v
+100
+10809B
+血中農藥中毒濃度測定
+
+v
+v
+v
+270
+10810B
+安非他命檢測(免疫分析) 
+Amphetamine (EIA)
+註：限鑑別診斷用。
+
+v
+v
+v
+250
+10811B
+嗎啡檢測(免疫分析)  Morphine (EIA)
+註：限鑑別診斷用。
+
+v
+v
+v
+250
+10812B
+古柯鹼檢測(免疫分析)  Cocaine (EIA)
+註：限鑑別診斷用。
+
+v
+v
+v
+250
+10813B
+大麻檢測(免疫分析)  Cannabinoids (EIA)
+註：限鑑別診斷用。
+
+v
+v
+v
+250
+10814B
+天使塵檢測(免疫分析) 　Phonclidine (EIA)
+註：限鑑別診斷用。
+
+v
+v
+v
+250
+10815B
+有機磷濃度確認分析 
+Organophosphate confirmation test
+
+v
+v
+v
+270
+10816B
+乙醯膽鹼酶紅血球(定量) 
+Cholinestrase-RBC
+
+v
+v
+v
+270
+10817B
+乙醇-酒後非駕駛 
+Ethanol-drunk not driving
+
+v
+v
+v
+180
+10818B
+乙醇-酒後駕駛 
+Ethanol-DUI (Driving under the influence)
+
+v
+v
+v
+180
+10819C
+殺鼠藥分析 Rodenticide test
+v
+v
+v
+v
+240
+
+
+第五項 輸血前檢查 Pre-tranfusion Examination (11001~11012)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+11001C
+ABO血型測定檢驗 (A.B.AB.O blood grouping)
+註：
+1.同一醫療院所門、住診限申報一次
+2.接受不同血型之骨髓或周邊血液幹細胞移植術後之病人不限申報一次。
+v
+v
+v
+v
+30
+11002C
+交叉配合試驗 Crossmatching test
+註：
+1.冷凍沈澱品(cryoprecipitate)、凝血酶(thrombin)、血漿(plasma)不得申報交叉試驗。
+2.每一血袋限申報一次。
+v
+v
+v
+v
+200
+11003C
+RH(D)型檢驗
+註：
+1.同一醫療院所門、住診限申報一次
+2.接受不同血型之骨髓或周邊血液幹細胞移植術後之病人不限申報一次。
+v
+v
+v
+v
+90
+11004C
+不規則抗體篩檢 Antibody screening
+註：每次輸血前限申報一次。
+v
+v
+v
+v
+100
+11005B
+不規則抗體鑑定 Antibody identification
+
+v
+v
+v
+400
+11006B
+不規則抗體之沖出及鑑定
+Elution & antibody identification
+
+v
+v
+v
+500
+11007B
+血小板抗體  Platelet antibody
+註：適應症
+1.兩次以上輸血仍無法提升血小板數目(輸血小板無療效)，懷疑免疫因素引起。
+2.血小板低下症鑑別診斷，如NAITP、AITP、TTP、DITP、PTP、ITP等。
+
+v
+v
+v
+2323
+
+
+特殊血型 Special blood group studies
+
+
+
+
+
+11008B
+－ Lewis antigen
+
+v
+v
+v
+315
+11009B
+－ D、E、C、e、c
+
+v
+v
+v
+300
+11010B
+－ 特殊血型三大群以上
+
+v
+v
+v
+1600
+11011B
+輸血反應探測 
+Investigation transfusion reaction
+
+v
+v
+v
+500
+11012B
+HLA符合試驗 
+HLA compatible donor searching
+
+v
+v
+v
+300
+第六項 免疫學檢查Immunology Examination (12001-12219)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+12001C
+梅毒試驗 RPR/VDRL test
+註：S.T.S檢查比照申報
+v
+v
+v
+v
+70
+12002B
+傷寒凝集試驗 Widal & Weil-Felix test
+
+v
+v
+v
+100
+
+抗鏈球菌溶血素O 效價測定
+ASLO, anti-streptolysin-O test
+
+
+
+
+
+12003C
+－ 溶血抑制法
+v
+v
+v
+v
+150
+12004C
+－ 免疫比濁法 Nephelometry
+v
+v
+v
+v
+275
+12005B
+鏈球菌激脢試驗  Streptokinase test
+註：Streptokinase檢查比照申報
+
+v
+v
+v
+180
+12006B
+布魯氏菌凝集素試驗 Brucella agglutinin test
+
+v
+v
+v
+80
+12007C
+α－胎兒蛋白檢驗
+AFP α-fetoprotein（EIA/LIA）
+v
+v
+v
+v
+200
+12008B
+冷凝集反應 Cold hemoagglutinin
+
+v
+v
+v
+70
+
+類風濕性關節炎因子試驗 
+Rheumatoid factor test
+
+
+
+
+
+12009C
+－  乳膠凝集法 Latex agglutination
+v
+v
+v
+v
+90
+12010C
+－  被動血球凝集法 PHA(passive hemagglutination)
+v
+v
+v
+v
+130
+12011C
+－  免疫比濁法 Nephelometry
+v
+v
+v
+v
+275
+12012B
+冷凝球蛋白 Cryoglobulin
+
+v
+v
+v
+50
+
+Ｃ反應性蛋白試驗 C.R.P (C-reactive protein)
+
+
+
+
+
+12013C
+－  乳膠凝集法 Latex agglutination
+v
+v
+v
+v
+90
+12014C
+－  免疫擴散法 Macinni immunodifusion
+v
+v
+v
+v
+150
+12015C
+－  免疫比濁法 Nephelometry
+v
+v
+v
+v
+275
+
+砂眼披衣菌抗原 Chlamydia trachomatis Ag
+
+
+
+
+
+12016C
+－ 酵素免疫法 EIA
+v
+v
+v
+v
+260
+12017B
+－ 螢光法 FA
+
+v
+v
+v
+400
+12018C
+梅毒螺旋體抗體試驗 TPPA/TPHA test
+v
+v
+v
+v
+300
+12019B
+螢光梅毒螺旋體抗體吸附試驗 FTA-ABS
+
+v
+v
+v
+300
+12020C
+肺炎黴漿菌抗體試驗
+Mycoplasma pneumonia Ab test
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+225
+12021C
+癌胚胎抗原檢驗 CEA（EIA/LIA）
+v
+v
+v
+v
+400
+12022C
+乙型人類絨毛膜促性腺激素  
+β-HCG（EIA/LIA）
+v
+v
+v
+v
+400
+12023B
+人體阿米巴體抗體檢驗
+Amebiasis Ab test(IHA法)
+
+v
+v
+v
+160
+
+免疫球蛋白Ｇ  IgG
+
+
+
+
+
+12024B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+120
+12025B
+－  免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+
+免疫球蛋白Ａ  IgA
+
+
+
+
+
+12026B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+120
+12027B
+－  免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+
+免疫球蛋白Ｍ  IgM
+
+
+
+
+
+12028B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+120
+12029B
+－  免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+12030B
+免疫球蛋白Ｄ  IgD
+
+v
+v
+v
+180
+12031C
+免疫球蛋白Ｅ  IgE
+v
+v
+v
+v
+250
+12032B
+補體1定量  C1 quantitation
+
+v
+v
+v
+200
+
+補體3  C3
+
+
+
+
+
+12033B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+120
+12034B
+－  免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+
+補體3(活化測定)
+C3 Activator(properdin factor B)
+
+
+
+
+
+12035B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+135
+12036B
+－  免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+
+補體4  C4
+
+
+
+
+
+12037B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+120
+12038B
+－  免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+12039B
+補體-5定量  C'-5
+
+v
+v
+v
+275
+
+α1- 抗胰蛋白酶  α1-antitrypsin
+
+
+
+
+
+12040B
+－　單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+160
+12041B
+－　免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+12042B
+α1- 粘液蛋白 (免疫比濁法)
+α1-acid glycoprotein  ( Nephelometry)
+
+v
+v
+v
+275
+
+α2- 巨球蛋白  α2-macroglobulin
+
+
+
+
+
+12043B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+160
+12044B
+－  免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+
+結合蛋白 Haptoglobin
+
+
+
+
+
+12045B
+－單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+160
+12046B
+－免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+
+運鐵蛋白 Transferrin
+
+
+
+
+
+12047B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+160
+12048C
+－  免疫比濁法 Nephelometry
+v
+v
+v
+v
+275
+
+註：12048C除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+
+
+
+
+
+
+轉銅素 Ceruloplasmin
+
+
+
+
+
+12049B
+－  單向免疫擴散法 Single radial immunodiffusion
+
+v
+v
+v
+160
+12050B
+－  免疫比濁法 Nephelometry
+
+v
+v
+v
+275
+12051B
+胞漿蛋白原 Plasminogen
+
+v
+v
+v
+160
+12052B
+β2- 微球蛋白  β2-microglobulin
+
+v
+v
+v
+300
+12053C
+抗核抗體(間接免疫螢光法)
+ANA (antinuclear antibody)  IFA法
+v
+v
+v
+v
+330
+12054B
+微粒體抗體 AMIA,anti-microsomal antibody
+
+v
+v
+v
+200
+12055B
+骨骼肌抗體 
+ASkMA,anti-skeletal muscle antibody
+
+v
+v
+v
+200
+12056B
+粒腺體抗體 AMA,anti-mitochondrial antibody
+
+v
+v
+v
+200
+12057B
+平滑肌抗體 ASMA,anti-smooth muscle antibody
+
+v
+v
+v
+200
+12058B
+壁細胞抗體 APCA,anti-parietal cell antibody
+
+v
+v
+v
+200
+12059B
+嗜異性抗體 Heterophile Ab 
+
+v
+v
+v
+80
+12060C
+DNA抗體 Anti-DNA、Anti-dsDNA
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+300
+12061B
+肌球蛋白 Myoglobin
+
+v
+v
+v
+100
+12062B
+冷凝球蛋白 Cryoglobubin
+
+v
+v
+v
+163
+12063B
+可抽出的核抗體檢查(定性)
+Anti-ENA test (qualitative)
+
+v
+v
+v
+300
+
+可抽出的核抗體測定 Anti-ENA
+
+
+
+
+
+12064B
+— Ro/La 抗體 Ro/La  Ab	
+
+v
+v
+v
+561
+12173B
+— Sm/RNP 抗體 Sm/RNP  Ab
+
+v
+v
+v
+561
+12174B
+— Scl-70 抗體 Scl-70  Ab
+
+v
+v
+v
+507
+12065B
+EB Capsid Ab (Epstein-Barr virus C.A)
+
+v
+v
+v
+180
+12066B
+基底膜帶抗體 Basement membrane zone Ab
+
+v
+v
+v
+300
+12067B
+細胞間質抗體 Intercellular substance antibody
+
+v
+v
+v
+300
+12068C
+甲狀腺球蛋白抗體
+Thyroglobulin antibody
+註：
+1.屬西醫基層總額部門院所，適應症：用於甲狀腺低下(自體免疫型)及甲狀腺癌病人。
+2.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+200
+12069B
+隱球菌抗原 Cryptococcus antigen
+
+v
+v
+v
+360
+12070B
+冷凝纖維蛋白元 Cryofibrinogen 
+
+v
+v
+v
+180
+
+淋巴球表面標記 Lymphocyte surface marker
+
+
+
+
+
+12071B
+－ Ｔ細胞及Ｂ細胞定量 
+Total T & B lymphocytes
+註：單源抗體定量T及B細胞或E及EAC-rosette。
+
+v
+v
+v
+400
+12072B
+－ 癌症腫瘤檢驗 Tumor/cancer
+註：包含成熟T及Ｂ細胞檢查，輔助性及抑制性T細胞，殺手細胞及活化細胞之檢查。
+
+v
+v
+v
+1000
+12073C
+－ 感染性疾病檢驗 Infectious disease
+註：
+1.包含成熟T及B細胞檢查，輔助性及抑制性T細胞檢查。
+2.屬西醫基層總額部門院所限由感染科專科醫師開立處方始可申報。
+3.12073C屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+800
+12074B
+－ 免疫性疾病檢驗 Immunological disease
+註：包含成熟T及Ｂ細胞檢查，輔助性及抑制性T細胞，活化T細胞及其他HLA之單源抗體檢查。
+
+v
+v
+v
+1747
+12076B
+－ 其他疾病 Others
+註：至少包含五種有關T及B細胞檢查。
+
+v
+v
+v
+1000
+
+白血球表面標記
+Leukocyte surface marker
+成熟與不成熟Ｔ及Ｂ或顆粒球與單核球等單源抗體之使用量    
+
+
+
+
+
+12075B
+－ ≦10種
+
+v
+v
+v
+2000
+12204B
+－ 11-20種
+
+v
+v
+v
+4000
+12205B
+－ 21-30種
+
+v
+v
+v
+6000
+12206B
+－ 31種以上
+
+v
+v
+v
+8000
+12077C
+CA-125腫瘤標記  (EIA/LIA法) 
+CA-125 (EIA/LIA)
+v
+v
+v
+v
+400
+12078C
+CA-153腫瘤標記  (EIA/LIA法)
+CA-153 (EIA/LIA)
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+
+v
+v
+v
+v
+400
+12079C
+CA-199腫瘤標記  (EIA/LIA法)
+CA-199 (EIA/LIA)
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+400
+12080B
+SCC腫瘤標記  (EIA/LIA法) 
+SCC (EIA/LIA) 
+
+v
+v
+v
+400
+12081C
+攝護腺特異抗原(EIA/LIA法) 
+Prostate specific antigen-EIA/LIA (PSA-EIA/LIA)
+註：
+1.適用範圍：
+(1)符合下列任一條件之五十歲以上男性或四十五歲以上有攝護腺癌家族病史男性，得每年檢測攝護腺特異抗原(PSA)一次：
+A.超音波檢查發現攝護腺腫大者。
+B.肛門指診發現攝護腺腫大、攝護腺硬塊或表面不規則。
+(2)PSA值檢測異常者，一週後可再複檢一次，其後得每半年檢測PSA一次；PSA值超過10ng/ml，得每三個月檢測PSA一次。
+(3)接受5α-還原酶抑制劑治療者，得每半年檢測PSA一次。
+(4)男性罹患排尿障礙。
+(5)因疾病接受睪固酮補充療法者應在第三個月、第六個月、第十二個月及之後每年檢測PSA。
+(6)攝護腺癌確診後之評估與追蹤。
+2.不得同時申報27052C。
+v
+v
+v
+v
+400
+12082B
+多核形白血球吞噬功能 PMN phagocytosis
+
+v
+v
+v
+684
+12083B
+多核形白血球殺菌功能 PMN bacterial capacity
+
+v
+v
+v
+977
+12084B
+總Ｂ－細胞檢查（包括Ｇ．Ａ．Ｍ．Ｃ四項）
+Total B-cell count
+
+v
+v
+v
+360
+
+淋巴球變形反應  Lymphocyte transformation
+
+
+
+
+
+12085B
+—分裂原刺激 Mitogen stimulation
+
+v
+v
+v
+1940
+12175B
+—抗原刺激  Antigen stimulation
+
+v
+v
+v
+1940
+
+人類白血球抗原
+
+
+
+
+
+12086C
+－ HLA-B27
+v
+v
+v
+v
+1351
+12087B
+－ HLA-ABC (多種抗原) multiple antigen
+
+v
+v
+v
+5053
+12176B
+－ HLA-ABC(單一抗原) single antigen
+
+v
+v
+v
+3285
+12088B
+－ HLA-DR (多種抗原) multiple antigen
+
+v
+v
+v
+4383
+12177B
+－ HLA-DR (單一抗原) single antigen
+
+v
+v
+v
+2849
+
+註：
+1.保險對象接受器官移植申報12087B及12176B時，除父母、兄弟姐妹等各給付一次外，另確定為捐贈者最高可給付共三次。
+2.12088B及12177B需俟12087B及12176B檢查後配合相合者，如有需要另行檢查。
+3. 12086C屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方始可申報。
+
+
+
+
+
+
+12089B
+單向混合淋巴球反應 One-way MLR
+註：1.雙向混合淋巴球反應 two-way MLR 比照申報。
+2.受者對捐者或捐者對受者皆以本項核實申報。
+
+v
+v
+v
+1108
+
+淋巴球毒殺試驗 Lymphocytotoxic test
+
+v
+v
+v
+1228
+12090B
+—單獨檢驗B細胞或T細胞
+
+v
+v
+v
+1228
+12214B
+—同時檢測B細胞及T細胞
+註：
+1.同時檢測B細胞及T細胞時，不得申報二次12090B。
+2.活體器官移植及骨髓移植前配對，若同時由多名捐贈者進行本項檢驗，申報上限二次。
+
+v
+v
+v
+2000
+12091B
+免疫病理檢查 Immunopathology  腎組織Kidney
+
+v
+v
+v
+450
+12092B
+免疫病理檢查 Immunopathology 皮膚組織 Skin
+
+v
+v
+v
+450
+12093B
+免疫病理檢查 Immunopathology 肝組織 Liver
+
+v
+v
+v
+450
+12094B
+免疫病理檢查 Immunopathology 肺組織 Lung
+
+v
+v
+v
+450
+12095B
+免疫病理檢查 Immunopathology 胃組織Stomach
+
+v
+v
+v
+450
+12096B
+免疫病理檢查 Immunopathology  其他 Others
+
+v
+v
+v
+450
+12097B
+庫姆氏血中多項抗體檢驗（直接法）
+Direct Coombs' polyspecific test
+
+v
+v
+v
+70
+12098B
+庫姆氏血中多項抗體檢驗（間接法）
+Indirect Coombs' polyspecific test
+
+v
+v
+v
+100
+12099B
+庫姆氏血中單項 IgG  抗體檢驗
+Coombs' IgG monospecific test
+
+v
+v
+v
+250
+12100B
+庫姆氏血中單項 C3 抗體檢驗
+Coombs' C3 monospecific test
+
+v
+v
+v
+250
+12101B
+趨化性試驗 Chemotaxis
+
+v
+v
+v
+489
+12102B
+免疫擴滲分析 Immunodiffusion
+
+v
+v
+v
+652
+12103B
+免疫電泳分析 Immunoelectrophoresis
+
+v
+v
+v
+900
+12104B
+CH50 免疫檢查
+
+v
+v
+v
+529
+12105B
+單核球移動抑制因子 Migration inhibition factor
+
+v
+v
+v
+360
+12106C
+結核菌素測驗 Tuberculin test
+v
+v
+v
+v
+60
+12107C
+披衣菌抗體 Chlamydia Ab
+v
+v
+v
+v
+315
+12108B
+體液免疫複合體檢查 Immune complex
+
+v
+v
+v
+433
+12109B
+成人T淋巴白血病病毒抗體  
+Anti-HTLV-Ⅰ/ Anti-ATLA Ab
+
+v
+v
+v
+400
+12110B
+血清前白蛋白定量  Prealbumin
+
+v
+v
+v
+275
+12111C
+微白蛋白 (免疫比濁法)
+Microalbumin (Nephelometry)
+v
+v
+v
+v
+275
+12112B
+白蛋白 (免疫比濁法) Albumin (Nephelometry)
+
+v
+v
+v
+275
+12113B
+脂蛋白酶元B (免疫比濁法)
+Apolipoprotein B (Nephelometry)
+
+v
+v
+v
+275
+12114B
+脂蛋白酶元A1 (免疫比濁法)
+Apolipoprotein A1 (Nephelometry)
+
+v
+v
+v
+275
+12115B
+抗凝血原 (免疫比濁法)
+Anti-thrombin (Nephelometry)
+
+v
+v
+v
+275
+12116C
+鐵蛋白 
+Ferritin (EIA/LIA) 
+v
+v
+v
+v
+300
+12117B
+T 淋巴球交叉配合試驗
+T lymphocyte crossmatch test
+註：1. B淋巴球交叉配合試驗(B lymphocyte cross-match)比照申報。
+2.此項檢查必須配合骨髓移植才能實施申報。
+
+v
+v
+v
+1000
+12118B
+退伍軍人菌抗體
+Legionella pneumophila Ab
+
+v
+v
+v
+250
+12120B
+腫瘤多胜酶抗原 TPA(EIA/LIA)
+
+v
+v
+v
+350
+12121C
+甲促素結合體抗體 
+TSH recepter Ab(EIA/LIA)
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+360
+12122B
+免疫球蛋白E補體結合反應免疫分析 
+Reaginic IgE (EIA/LIA)
+
+v
+v
+v
+390
+12123C
+C-反應蛋白(毛細管沉澱法)
+C-Reactive protein (Capillary ppt)
+v
+v
+v
+v
+30
+12124B
+甲狀腺結合球蛋白 TBG (EIA/LIA)
+
+v
+v
+v
+240
+12125C
+B型鏈球菌抗原 (乳膠凝集法)
+Streptococcus group B Ag-latex agglutination
+v
+v
+v
+v
+90
+12126B
+肺炎雙球菌抗原(乳膠凝集法)
+Streptococcus pneumonia Ag-latex agglutination  
+
+v
+v
+v
+90
+12127B
+B型嗜血桿菌抗原(乳膠凝集法)
+Hameophilus influenzae type B Ag-latex  agglutination
+
+v
+v
+v
+90
+12128B
+腦膜炎雙球菌抗原(乳膠凝集法)
+Neisseria meningitides Ag-latex agglutination
+
+v
+v
+v
+90
+12129C
+腦脊髓液快速測定 CSF quick test
+v
+v
+v
+v
+90
+12130B
+沙門氏菌抗原 Salmonella AG 
+
+v
+v
+v
+90
+12131B
+志賀氏菌抗原 Shigella AG 
+
+v
+v
+v
+90
+12132B
+肺炎披衣菌(TWAR)抗原 
+Chlamydia pneumoniae Ag
+
+v
+v
+v
+400
+12133B
+抗β2醣蛋白I抗體 
+Anti-β2-glycoprotein-I Ab
+
+v
+v
+v
+300
+12134C
+甲狀腺過氧化酶抗體 Anti-TPO Ab
+註：
+1.本項檢查與12054B僅可擇一申報。
+2.屬西醫基層總額部門院所，適應症：用於甲狀腺低下(自體免疫型)及孕婦甲狀腺功能異常。
+3.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+200
+12135B
+抗角質抗體 Anti-keratin antibody
+
+v
+v
+v
+200
+12136B
+DNA分析 DNA analysis
+
+v
+v
+v
+300
+12137B
+肌肉炎自體抗體組合 
+Myositis auto-antibodies
+註：包括抗t-合成酵素抗體(T-synthetase Ab)、抗訊號測定微抗體(Anti-SRP Antibody)、Mi-2 抗體(Mi-2 Ab)。
+
+v
+v
+v
+600
+12138B
+腎絲球基底膜抗體
+Anti-glomerular basement menbrane antibody
+
+v
+v
+v
+300
+12139B
+腦脊髓液新隱形球菌藥物濃度試驗 
+Cryptococcus neoformans stain (CSF)
+
+v
+v
+v
+360
+12140B
+T3+DR+, T3+DR-
+
+v
+v
+v
+400
+12141B
+劉氏3+8+抗原, 劉氏3+8-細胞 
+LEU3+8+, LEU3+8- CELL
+
+v
+v
+v
+400
+12142B
+劉氏2+15+抗原, 劉氏2+15-細胞 
+LEU2+15+, LEU2+15- CELL
+
+v
+v
+v
+400
+12143B
+抗原依靠性補體細胞毒殺試驗 
+ADCC cytotoxicity
+
+v
+v
+v
+400
+12144B
+自然毒殺細胞活力試驗 NK activity
+
+v
+v
+v
+400
+12145B
+直接細胞毒殺試驗 Direct cytotoxicity
+
+v
+v
+v
+400
+12146B
+免疫球蛋白G1量  IgG1
+
+v
+v
+v
+400
+12147B
+免疫球蛋白G2量  IgG2
+
+v
+v
+v
+400
+12148B
+免疫球蛋白G3量  IgG3
+
+v
+v
+v
+400
+12149B
+免疫球蛋白G4量  IgG4
+
+v
+v
+v
+400
+12150B
+胺基酸定量檢查 
+Amino acids analysis (quantitative)
+註：
+1.限衛生福利部委託具優生保健諮詢中心之醫院申請實施。
+2.限由小兒科遺傳專科醫師主持。
+3.本項目如已申請衛生福利部補助者，本保險不另支付該次檢查費用。
+4.如做為一般性篩檢者，非屬本保險給付範圍。
+
+v
+v
+v
+2000
+12151C
+同半胱胺酸 Homocysteine
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+400
+12152B
+In vitro IgG, A, M synthesis
+
+v
+v
+v
+4500
+12153B
+混合淋巴球雙向培養 
+MLC (Mixed lymphocyte culture)
+
+v
+v
+v
+1000
+12154B
+可抽出之核抗體Jo-1
+Anti Jo-1 antibody
+
+v
+v
+v
+600
+12155B
+可抽出之核抗體KI, KU (免疫擴滲分析法)
+KI, KJ (ID)
+
+v
+v
+v
+600
+12156B
+Ribosomal-P抗體 Ribosomal-P Ab
+
+v
+v
+v
+600
+12157B
+腦脊髓液免疫球蛋白免疫電泳
+IEP for CSF Immunoglobulin
+
+v
+v
+v
+900
+12158B
+尿液免疫球蛋白免疫電泳 
+IEP for Urine Immunoglobulin
+
+v
+v
+v
+900
+12159B
+尿液免疫固定電泳分析 
+Urine immunofixation electrophoresis
+
+v
+v
+v
+900
+12160B
+免疫球蛋白κ/λ
+Immunoglobulin κ/λ
+
+v
+v
+v
+900
+12161B
+白血球介質-2  IL-2 
+
+v
+v
+v
+405
+12162B
+組織壞死因子 TNF
+註：適應症
+1.類風濕性關節炎、僵直性關節炎、乾癬、乾癬性關節炎、發炎性腸炎、血管炎之特定表現鑑別診斷。
+2.使用抗腫瘤壞死因子生物製劑藥物者，依臨床狀況監控其疾病狀態及藥物反應。
+3.特定感染症如結核感染之特定表現及免疫缺損之監控。
+
+v
+v
+v
+405
+12163B
+第一型人類嗜T細胞抗體(定性)
+HTLV-1 antibody (qualitative)
+
+v
+v
+v
+400
+12164B
+脂蛋白a 
+Lipoprotein a
+
+v
+v
+v
+275
+12165C
+A群鏈球菌抗原
+Streptococcus group A antigen (EIA)
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+200
+12166B
+腦膜炎雙球菌抗原
+Meningococcal Ag 
+
+v
+v
+v
+200
+12167B
+組織胞漿菌抗體檢查 
+Histoplasma capsutatum Ab test
+
+v
+v
+v
+200
+12168B
+芽生菌抗體檢查 Blastomycosis Ab test
+
+v
+v
+v
+200
+12169B
+球孢子菌抗體檢查 C. immitis Ab test
+
+v
+v
+v
+200
+12170B
+麴菌抗體檢查 Aspergillus Ab test
+
+v
+v
+v
+200
+12171B
+抗嗜中性球細胞質抗體 
+ANCA (Anti-nutrophil cytoplasmic Ab)
+
+v
+v
+v
+380
+12172C
+尿液肺炎球菌抗原
+Pneumococcus Ag (urine)
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+320
+12178C
+腎上腺抗體 Adrenal antibody
+v
+v
+v
+v
+350
+12179C
+Aspergillus抗原測定 
+Aspergillus Ag
+v
+v
+v
+v
+250
+12180C
+穀醯酸脫梭酶抗體
+Glutamic acid decarboxylase autoantibody
+v
+v
+v
+v
+397
+12181C
+乙醯膽鹼抗體
+Acetylcholine receptor antibody
+v
+v
+v
+v
+300
+12182C
+去氧核糖核酸類定性擴增試驗
+DNA qualitative amplification test
+v
+v
+v
+v
+1000
+12183C
+核糖核酸類定性擴增試驗
+RNA qualitative amplification test
+v
+v
+v
+v
+1200
+12184C
+去氧核糖核酸類定量擴增試驗
+DNA quantitative amplification test
+註：不得同時申報14085C、14086C。
+v
+v
+v
+v
+2000
+12185C
+核糖核酸類定量擴增試驗
+RNA quantitative amplification test
+註：若執行人類免疫缺乏病毒核酸檢測以14074C申報。
+v
+v
+v
+v
+2229
+12186C
+染色體轉位基因重組之南方墨點法分析
+Chromosomal translocation gene recombination analysis by southern blot
+v
+v
+v
+v
+2000
+12187C
+短片段重覆序列多型性分析
+STR polymorphism analysis
+v
+v
+v
+v
+4500
+12188C
+染色體轉位融合基因之反轉錄聚合酶連鎖反應分析
+Chromosomal translocation fusion gene analysis by RT-PCR
+v
+v
+v
+v
+1200
+12189C
+肺炎披衣菌
+IgM Chlamydia pneumoniae Ab IgM
+v
+v
+v
+v
+300
+12190C
+肺炎披衣菌
+IgG Chlamydia pneumoniae Ab IgG
+v
+v
+v
+v
+300
+12191C
+尿液退伍軍人菌抗原
+Legionella pneumophila Ag (urine) 
+註：
+適應症：
+1.非典型肺炎。
+2.一般治療肺炎之抗生素使用後，病情持續惡化者。
+v
+v
+v
+v
+400
+12192C
+前降鈣素原　Procalcitonin(PCT)
+v
+v
+v
+v
+1000
+12193C
+B型利納肽(B型利納利尿胜肽)
+Pro-BNP/(BNP)
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+800
+12194B
+代謝產物串聯質譜儀分析
+Tandem Mass Analysis of Metabolites
+註：
+1.限衛生福利部委託具優生保健諮詢中心之醫院申請實施。
+2.限由遺傳專科醫師主持。
+3.本項目如已申請衛生福利部補助者，本保險不另支付該次檢查費用。
+4.如做為一般性篩檢者，非屬本保險給付範圍。
+
+v
+v
+v
+500
+12195B
+第二型人類表皮生長因子受體(Her-2/neu)原位雜合檢驗
+Her-2/neu in situ hybridization（ISH）
+註：
+適應症：
+1.乳癌之invasive carcinoma(侵襲性癌)、轉移性胃腺癌（或胃食道接合處腺癌）。
+2.本法為IHC染色結果之輔助檢查方法，不可單獨使用。
+3.此法僅適用於Her-2/neu IHC score為2+之乳癌或胃腺癌（或胃食道接合處腺癌）患者。
+
+v
+v
+v
+10400
+12196B
+HLA-B 1502 基因檢測
+HLA-B 1502 gene typing
+註：
+1.適應症：癲癇症、三叉神經痛、腎原性尿崩症及雙極性之精神疾患初次需使用含卡馬西平Carbamazepine成份藥物病患申報。
+2.每人限申報一次，需於健保卡藥物過敏欄註記藥物過敏基因型。
+
+v
+v
+v
+2648
+12197B
+血中藥物濃度測定-Everolimus
+TDM - Everolimus
+註：
+1.測定移植病人器官移植後抗排斥用藥Certican濃度
+2.罕見疾病結節性硬化症患者經本保險核准使用Everolimus者亦適用。
+
+v
+v
+v
+1500
+12198C
+游離攝護腺特異抗原 
+Free PSA (EIA/LIA)
+v
+v
+v
+v
+400
+12199B
+人類組織相容複合物Ι類鏈相關基因A抗體篩檢
+註：
+1.臟器移植接受者術前評估，且PRA 60%以上，限申報1次為原則。
+2.限臟器移植接受者術後產生排斥現象，且PRA上升，當次排斥限申報1次為原則。
+
+v
+v
+v
+2000
+12200B
+人類白血球群體反應性抗體百分比篩檢試驗
+註：
+1.臟器移植接受者術前評估，每6個月內限申報1次為原則。
+2.限臟器移植接受者術後產生排斥反應時檢測。
+
+v
+v
+v
+2949
+12201B
+抗環瓜氨酸肽抗體
+註：
+1.原因不明之關節炎且RF為陰性。
+2.RF 陽性，但仍未符合類風濕診斷，需區分／鑑別是否為其他原因。
+3.每位患者僅給付一次，疑似RA者，每年最多檢查1次。
+4.限風濕病專科醫師。
+
+v
+v
+v
+700
+
+
+12202C
+12203B
+C型肝炎病毒核酸基因檢測
+HCV Genotyping Test
+－即時聚合酶連鎖反應法（RealTime PCR）
+－一般聚合酶連鎖反應法（PCR）
+註：
+適應症：
+1.疑似感染C型肝炎(包含急性、慢性，及未知原因感染者)且C型肝炎核酸病毒量檢測結果為陽性患者。
+2.未做過基因型檢測的C型肝炎陽性確定患者。
+
+
+v
+
+
+
+v
+v
+
+
+v
+v
+
+
+v
+v
+
+
+2450
+1280
+12207B
+白血病即時定量聚合酶連鎖反應法實驗室開發檢測(LDTs)
+RQ-PCR(Real Time Quantitative PCR) for leukemia(LDTs)
+註：
+1.適應症：
+(1)含有BCR-ABL1之慢性骨髓性白血病(chronic myelogenous leukemia，CML)與急性白血病。
+(2) 含有PML-RARA、RUNX1-ETO、CBFB-MYH11與IDH1之急性骨髓性白血病(acute myeloid leukemia，AML)。
+2.支付規範：限衛生福利部核准之實驗室開發檢測施行計畫表列醫療機構申報。
+3.執行本項之醫事服務機構應報經保險人核定，如有異動，應重行報請核定。
+4.不得同時申報編號12217B。
+
+v
+v
+v
+3571
+12217B
+白血病即時定量聚合酶連鎖反應法體外診斷醫療器材檢測(IVD)
+RQ-PCR(Real Time Quantitative PCR) for leukemia(IVD)
+註：
+1.適應症：
+(1)含有BCR-ABL1之慢性骨髓性白血病(chronic myelogenous leukemia，CML)與急性白血病。
+(2)含有PML-RARA、RUNX1-ETO與CBFB-MYH11之急性骨髓性白血病(acute myeloid leukemia，AML)。
+2.支付規範：限具 BCR-ABL1或具 PML-RARA及RUNX1-ETO及 CBFB-MYH11檢測項目有通過美國病理學會 (The College of American Pathologists, CAP)、財團法人全國認證基金會 (Taiwan Accreditation Foundation, TAF)認證、台灣病理學會之分子實驗室認證或經衛生福利部食品藥物管理署精準醫療分子檢測實驗室認證(列冊登錄)之分子實驗室檢測，並須檢附IVD檢測試劑進貨證明，由特約醫事服務機構申報。
+3.執行本項之醫事服務機構應報經保險人核定，如有異動，應重行報請核定。
+4.不得同時申報編號12207B。
+
+v
+v
+v
+3571
+12208B
+生長刺激表達基因2蛋白(ST2)
+註：
+1.適應症：慢性心臟衰竭NYHA Class III或ACC/AHA Stage D以上且病情急性惡化。
+2.支付規範：不得同時申報編號12193C。
+
+v
+v
+v
+800
+12209B
+類胰蛋白酶 Tryptase
+註：
+1.適應症：疑過敏性休克，臨床上出現以下任一狀況：
+(1)急性出現病徵累及皮膚/黏膜組織(如：全身性蕁麻疹、發癢或潮紅、嘴唇-舌-懸雍垂水腫)，且合併血壓下降或終器官失能(如：暈倒、昏厥、大小便失禁)。
+(2)於接觸可能過敏原後，快速(幾秒至幾小時內)出現血壓下降或終器官失能(如：暈倒、昏厥、大小便失禁)，且出現A至C一項以上病徵：
+A.累及皮膚/黏膜組織(如：全身性蕁麻疹、發癢或潮紅、嘴唇-舌-懸雍垂水腫)。
+B.危及呼吸(如：喘、哮鳴-支氣管攣縮)、喘鳴、尖峰流速下降、低血氧)。
+C.持續腸胃道症狀(如：腹部絞痛、嘔吐)。
+(3)接觸可能過敏原後血壓快速下降(數分鐘至數小時內)：
+A.成人血壓下降之定義：收縮壓小於90 mmHg或下降大於其人血壓基礎值30%以上。
+B.嬰幼兒或兒童血壓下降之定義
+a.一個月以上至未滿一歲：低於70 mmHg。
+b.一歲以上至未滿十一歲：低於[70 mmHg + (2 × age)]。
+c.十一歲以上至未滿十八歲：低於90 mmHg或收縮壓下降大於其人血壓基礎值30%以上。
+2.支付規範：執行時點為症狀發生後六小時內及二十四至四十八小時。
+
+v
+v
+v
+1147
+12210B
+水通道蛋白4抗體
+Aquaporin-4 antibody
+註：
+1.適應症：
+(1)泛視神經脊髓炎症候群(Neuromyelitis Optica Spectrum Disorders, NMOSD)之診斷。
+(2)多發性硬化症(Multiple Sclerosis, MS)、視神經炎(Optical Neuritis, ON)、橫截性脊髓炎(Transverse Myelitis, TM)、自體免疫性腦炎(Autoimmune Encephalitis, AE)之鑑別診斷。
+2.專科別：過敏免疫風濕科(含兒科)、眼科(含兒科)、神經科(含兒科)。
+3.檢查次數：除下列情形，每人每年限執行一次。
+(1)檢測結果為陽性者，不得再檢驗。
+(2)檢測結果為陰性者，疑似泛視神經脊髓炎症候群且疾病明顯惡化時，得再次檢驗(需於病歷記載)。
+
+v
+v
+v
+1781
+12211B
+異常凝血酶原檢驗
+PIVKA-II (Des-r-Carboxy Prothrombin)
+註：
+1.適應症：
+(1)肝硬化之慢性肝炎（含酒精性肝硬化），並符合下列條件之一：
+A.肝組織切片Metavir F4或Ishak F5以上，另血友病病人及類血友病病人經照會消化系專科醫師同意後，得不作切片。
+B.超音波診斷為肝硬化併食道或胃靜脈曲張，或肝硬化併脾腫大。
+C.電腦斷層或磁振造影檢查診斷為肝硬化。
+(2)肝癌接受根除治療之病人。
+2.執行頻率：每年兩次。
+
+v
+v
+v
+967
+12212B
+腦膜炎/腦炎病原體多標的核酸檢測
+Meningitis Encephalitis multiplex PCR
+註：
+1.適應症：疑似有腦膜炎或腦炎徵兆或症狀之病人，且有實驗室檢查相關證據(含腦脊髓液)支持者。
+2.限急診科、感染科、兒科及神經科專科醫師執行。
+
+v
+v
+v
+9689
+12213B
+HLA-B* 5801基因檢測
+HLA-B* 5801 gene typing
+註：
+1.適應症：新使用Allopurinol 前且符合下列任一條件者：
+(1)尿酸製造過多之痛風。
+(2)經促尿酸排泄藥物使用最大耐受劑量後仍無法控制血液尿酸值6mg/dl 以下，需使用Allopurinol者。
+(3)具促尿酸排泄藥物使用禁忌症，如過敏、腎功能不全、肝功能不全等。
+(4)具尿酸成分之尿路結石病史。
+(5)接受化學治療之癌症病人用以預防急性尿酸引起腎病變。
+2.已連續使用Allopurinol一個月以上或曾使用Allopurinol累計滿三個月以上者，不予給付。
+3.為確保檢測品質，以LDT執行本項檢測，須具衛生福利部核准之實驗室開發檢測施行計畫。
+4.每人終生限給付一次，若檢測結果為陰性，且一個月內未開立Allopurinol者，不予給付；另檢測後一個月內未上傳檢測結果者，不予支付。
+5.內含一般材料費及檢測套組比率為百分之七十五。
+
+v
+v
+v
+2343
+12215C
+新型冠狀病毒核糖核酸定性擴增試驗
+SARS-CoV-2 RNA qualitative amplification test
+註：
+1.適應症：符合抗病毒藥物使用條件者或臨床醫師懷疑為COVID-19中重症者，且抗原快篩陰性或無法取得抗原快篩適用的檢體化驗時。
+2.支付規範：本項須按「全民健康保險鼓勵醫事服務機構即時查詢病患就醫資訊方案」格式，於檢驗（查）申報前上傳檢驗（查）結果報告，未上傳者本項不予支付。
+v
+v
+v
+v
+1200
+12216C
+C型肝炎病毒核心抗原
+Hepatitis C core Ag
+註：
+適應症：下列高風險族群再感染之追蹤檢驗C型肝炎病毒得執行本項或HCV RNA檢驗項目，執行頻率如下：
+1.C型肝炎抗體陽性之HIV感染者、靜脈注射藥癮者，每一年限申報一次。
+2.C型肝炎抗體陽性之慢性血液透析病人，每四年限申報一次。
+v
+v
+v
+v
+900
+12218C
+二胺基酸攝護腺特異抗原前驅物 p2PSA(EIA法)
+註：
+1.適應症須符合下列各項條件：
+(1)攝護腺特異抗原(PSA)介於4.0 ng/ml至10.0 ng/ml間者。
+(2)尿液分析及臨床症狀已排除攝護腺感染或發炎。
+(3)肛門指診無異常。
+(4)五十歲以上，或未滿五十歲但有攝護腺癌家族史。
+2.限由泌尿科專科醫師開立處方始可申報。
+3.須檢附八週內PSA報告及本次攝護腺健康指數(PHI)於病歷紀錄備查。
+4.每十二個月限執行一次，若因PHI顯示為攝護腺癌低風險(PHI<30)，再次施行檢測PSA至少間隔二十四週。
+v
+v
+v
+v
+1606
+12219C
+酪氨酸磷酸酶自體抗體(EIA法)
+Tyrosine phosphatase Autoantibody (IA-2Ab)(EIA)
+註：
+1.適用範圍：疑似第一型糖尿病診斷。
+2.支付規範：
+(1)限內分泌新陳代謝科、小兒內分泌專科醫師開立處方。
+(2)限12180C「穀醯酸脫梭酶抗體」呈現陰性，始得申報本項。
+(3)每人終生限給付一次。
+v
+v
+v
+v
+1067
+第七項 細菌學與黴菌檢查Bacteriology & Fumgus Test (13001-13032)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+13001C
+痰液一般檢查(含括結晶, 寄生蟲)
+Sputum Routine (Include Crystal, Parasite)
+v
+v
+v
+v
+40
+13002B
+阿米巴抗體凝集試驗
+Amoebic Ab (IHA)
+
+v
+v
+v
+320
+13003B
+新型隱球菌抗原
+Cryptococcus neoformans antigen test
+
+v
+v
+v
+320
+13004B
+白喉毒力試驗
+Virulence test for c. diphtherise
+
+v
+v
+v
+90
+13005B
+披衣菌檢查(定性)
+DNA test for chlamydia (qualitative)
+
+v
+v
+v
+360
+13006C
+排泄物，滲出物及分泌物之細菌顯微鏡檢查
+註：
+1.此項檢查係指對糞便，喀痰，穿刺液，胃液，十二指腸液，膽汁，膿，眼分泌液，鼻腔液，咽喉液，唾液，及其他滲出物中細菌，原蟲等的檢查。
+2.同一檢體之檢查不論有無染色及方法如何，均限申報一次。
+v
+v
+v
+v
+45
+13007C
+細菌培養鑑定檢查(包括一般細菌、真菌、原蟲等為對象的培養鑑定，抗酸菌除外) 
+v
+v
+v
+v
+200
+13008C
+註：
+1.一般厭氧性的培養比照申報。
+2.對同一檢體合併實施一般培養及厭氧性培養時加算二分之一，以13008C申報。此項加計除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+3.不得同時申報13030B。
+v
+v
+v 
+v
+100
+
+細菌藥物敏感性試驗
+
+
+
+
+
+13009C
+－ 1 菌種
+v
+v
+v
+v
+150
+13010C
+－ 2 菌種
+v
+v
+v
+v
+230
+13011C
+－ 3 菌種以上
+v
+v
+v
+v
+300
+
+註：
+1.細菌藥物感受性檢查結果，若無法檢測出細菌時，不可申報此項。
+2.此項之申報是以細菌培養鑑定所鑑定的菌種中實際實施細菌藥物感受性試驗的菌種數來申報
+3.試驗的藥物須至少有三分之一以上是第一代之抗生素。
+4.除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+
+
+
+
+
+13012C
+抗酸菌培養 Acid-fast culture
+v
+v
+v
+v
+180
+13013C
+抗酸菌鑑定檢查
+v
+v
+v
+v
+200
+
+抗酸菌藥物敏感性試驗
+Sensitivity test of acid-fast
+
+
+
+
+
+13014B
+－ 三種藥物以下
+
+v
+v
+v
+280
+13015C
+－ 四種藥物以上
+v
+v
+v
+v
+350
+13016B
+血液培養
+註：
+1.限對同一血液檢體合併實施厭氧及需氧檢查且使用血液培養瓶者申報。
+2.申報本項者，不得另行申報13007C、13008C。
+
+v
+v
+v
+380
+13017C
+KOH顯微鏡檢查 KOH preparation
+註：除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+75
+13018C
+幽門桿菌檢驗 
+Helicobacter pyroli test (Clo test)
+v
+v
+v
+v
+200
+13019B
+試管抗藥性試驗 Sensitivity test (tube method)
+
+v
+v
+v
+150
+13020C
+抗生素敏感性試驗(MIC法) 一菌種【抗微生物藥劑最低抑菌濃度(minimum inhibitory concentration MIC)】
+Bacteria MIC test (1 species)
+註：不得同時申報13009C-13011C。
+v
+v
+v
+v
+150
+13021B
+抗生素敏感性試驗(MIC法)  二菌種【抗微生物藥劑最低抑菌濃度(minimum inhibitory concentration MIC)】 
+Bacteria MIC test (2 species)
+註：不得同時申報13009C-13011C。
+
+v
+v
+v
+230
+13022B
+抗生素敏感性試驗(MIC法)  三菌種以上【抗微生物藥劑最低抑菌濃度(minimum inhibitory concentration MIC)】 
+Bacteria MIC test (3 species)
+註：不得同時申報13009C-13011C。
+
+v
+v
+v
+300
+13023C
+細菌最低抑制濃度快速試驗
+Bacterial minimal inhibition concentration rapid detection
+註：不得同時申報13031B、13032B。
+v
+v
+v
+v
+300
+13024C
+結核菌檢驗
+Tuberculosis（T.B）test
+v
+v
+v
+v
+200
+13025C
+抗酸性濃縮抹片染色檢查
+註：
+1.適應症：
+(1)懷疑分枝桿菌感染。 
+(2)分枝桿菌治療監控。
+2.相關規範：
+(1)需在負壓實驗室操作。
+(2)需附抗酸菌濃縮抹片染色檢查報告。
+(3)不得與13006C同時申報。
+(4)限疾病管制署認可之結核病檢驗機構執行。
+v
+v
+v
+v
+74
+13026C
+抗酸菌培養(限同時使用固態培養基及具自動化偵測功能之液態培養系統)
+註：
+1.適應症：
+(1)懷疑分枝桿菌感染。 
+(2)分枝桿菌治療監控。
+2.相關規範：
+(1)需在負壓實驗室操作，且具自動化偵測之液態培養基系統。
+(2)需附抗酸菌培養報告。
+(3)不得與13012C同時申報。
+(4)限疾病管制署認可之結核病檢驗機構執行。
+v
+v
+v
+v
+304
+13028B
+困難梭狀桿菌抗原快速檢驗（GDH）
+Clostridium Difficile GDH Ag rapid test
+註：
+1.結腸炎、偽膜性結腸炎、中毒性巨結腸及結腸穿孔。
+2.抗生素治療後發生腹瀉症狀。
+3.懷疑C.difficile群聚感染。
+
+v
+v
+v
+402
+13029B
+困難梭狀桿菌毒素A、B快速檢驗（Toxin A/B）
+Clostridium Difficile Toxin A/B rapid test
+註：
+1.結腸炎、偽膜性結腸炎、中毒性巨結腸及結腸穿孔。
+2.抗生素治療後發生腹瀉症狀。
+3.懷疑C.difficile群聚感染。
+
+v
+v
+v
+402
+13030B
+胃幽門螺旋桿菌特殊培養法
+Special Cultivation method for Helicobacter pylori
+註：
+1.適應症：
+(1)消化性潰瘍（不含食道）。
+(2)胃淋巴瘤。
+(3)萎縮性胃炎。
+(4)結節性胃炎。
+(5)胃黏膜腸上皮化生。
+(6)胃癌。
+2.每人以申報一次為原則，惟第一線除菌治療失敗，需進行第二、三線治療時，得再次檢測，並應於病歷詳述理由。
+3.限內科、兒科、家醫科專科醫師開立處方。
+4.須於生物安全第二等級(BSL-2)實驗室操作。
+5.不得同時申報13007C、13008C。
+
+
+
+
+v
+v
+v
+903
+13031B
+胃幽門螺旋桿菌藥物敏感度檢測—三種抗生素藥物敏感度檢測
+Susceptibility testing containing three antibiotics for Helicobacter pylori
+註：
+1.適應症：
+(1)消化性潰瘍（不含食道）。
+(2)胃淋巴瘤。
+(3)萎縮性胃炎。
+(4)結節性胃炎。
+(5)胃黏膜腸上皮化生。
+(6)胃癌。
+2.支付規範：
+(1)三種抗生素之藥物敏感度檢測包含：Metronidazole、Levofloxacin及Clarithromycin
+(2)須於生物安全第二等級(BSL-2)實驗室操作。
+(3)限內科、兒科、家醫科專科醫師開立處方。
+(4)執行頻率：每人以申報一次為原則。
+(5)不得同時申報13023C、13032B。
+
+v
+v
+v
+2278
+13032B
+難治型胃幽門螺旋桿菌藥物敏感度檢測—五種抗生素藥物敏感度檢測
+Susceptibility testing containing five antibiotics for refractory Helicobacter pylori
+註：
+1.適應症：
+(1)消化性潰瘍（不含食道）。
+(2)胃淋巴瘤。
+(3)萎縮性胃炎。
+(4)結節性胃炎。
+(5)胃黏膜腸上皮化生。
+(6)胃癌。
+2.支付規範：
+(1)僅用於第一線治療失敗，需進行第二線治療時，並應於病歷詳述理由。
+(2)五種抗生素之藥物敏感度檢測包含：Metronidazole、Levofloxacin、Clarithromycin、Tetracycline及Amoxicillin。
+(3)須於生物安全第二等級(BSL-2)實驗室操作。
+(4)限內科、兒科、家醫科專科醫師開立處方。
+(5)執行頻率：每人以申報一次為原則。
+(6)不得同時申報13023C、13031B。
+
+v
+v
+v
+3047
+
+第八項 病毒學檢查Virology Examination (14001-14086)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+14001B
+病毒分離及鑑定
+Isolation and identification of virus
+
+v
+v
+v
+350
+14002B
+腺病毒補體結合抗體 Adenovirus CF Ab
+
+v
+v
+v
+100
+
+巨大細胞病毒抗體Cytomegalovirus CMV
+
+
+
+
+
+14003B
+－補體結合法 CF Ab
+
+v
+v
+v
+135
+14004B
+－酵素免疫法 EIA
+
+v
+v
+v
+240
+14005C
+單純疱疹病毒I II補體結合抗體(各項)
+Herpes simpliex virus CF HSV Ab (each)
+v
+v
+v
+v
+135
+14006B
+麻疹病毒抗原 Measles virus Ag
+
+v
+v
+v
+150
+14007B
+麻疹病毒IgM抗體 Measles virus IgM Ab
+
+v
+v
+v
+750
+14008B
+麻疹病毒補體結合抗體 Measles CF virus Ab
+
+v
+v
+v
+135
+14009C
+腮腺炎病毒補體結合抗體 Mumps CF virus Ab
+v
+v
+v
+v
+200
+14010B
+呼吸道融合病毒抗原
+Respiratory syncytial virus Ag
+
+v
+v
+v
+120
+14011B
+呼吸道融合病毒補體結合抗體
+Respiratory syncytial virus (RSV) CF Ab
+
+v
+v
+v
+120
+14012B
+水痘帶狀疱疹病毒補體結合抗體
+Varicella-zoster virus CF Ab
+
+v
+v
+v
+120
+14013B
+水痘帶狀疱疹病毒IgM抗體
+Varicella-zoster virus IgM
+
+v
+v
+v
+1080
+14014B
+肺炎漿胞菌補體結合抗體
+Mycoplasma pneumoniae CF Ab
+
+v
+v
+v
+120
+14015B
+副流行性感冒病毒1型抗原
+Parainfluenza virus type 1 Ag
+
+v
+v
+v
+150
+14016B
+副流行性感冒病毒2型抗原
+Parainfluenza virus type 2 Ag
+
+v
+v
+v
+150
+14081B
+副流行性感冒病毒3型抗原
+Parainfluenza virus type 3 Ag
+註：執行二項(含二項)以上副流行性感冒病毒抗原檢測者，第二項(含二項)以後一律八折支付。
+
+v
+v
+v
+150
+14017B
+副流行性感冒病毒1型補體結合抗體
+Parainfluenza type 1 CF Ab
+
+v
+v
+v
+145
+14018B
+副流行性感冒病毒2型補體結合抗體
+Parainfluenza type 2 CF Ab
+
+v
+v
+v
+145
+14019B
+副流行性感冒病毒3型補體結合抗體
+Parainfluenza type 3 CF Ab
+
+v
+v
+v
+145
+14020B
+流行性感冒Ａ型病毒補體結合抗體
+Influenza A CF Ab
+
+v
+v
+v
+110
+14021B
+流行性感冒Ｂ型病毒補體結合抗體
+Influenza B CF Ab
+
+v
+v
+v
+110
+14022B
+日本腦炎病毒補體結合抗體
+Japanese encephalitis CF Ab
+
+v
+v
+v
+145
+14023B
+柯沙奇Ｂ型病毒抗體(每項)
+Coxsackie B virus Ab (each)
+
+v
+v
+v
+150
+14024B
+柯沙奇Ｂ型病毒補體結合抗體(B1-B6)
+Coxsackie virus CF Ab (type B1-B6)
+
+v
+v
+v
+850
+14025C
+腸內病毒70抗體 Entero virus type 70 Ab
+v
+v
+v
+v
+150
+14026C
+輪狀病毒抗原 Rota virus Ag
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+280
+14027C
+輪狀病毒抗體 Rota virus Ab
+v
+v
+v
+v
+120
+14028B
+呼腸弧病毒抗體 Reo virus Ab
+
+v
+v
+v
+220
+14029B
+小兒麻痺病毒第1.2.3 型抗體各項
+Polio virus type Ⅰ.Ⅱ.Ⅲ Ab each
+
+v
+v
+v
+145
+
+Ｂ型肝炎表面抗原 HBsAg（定性）
+
+
+
+
+
+14030C
+－ Latex 法
+v
+v
+v
+v
+80
+14031C
+－ RPHA 法
+v
+v
+v
+v
+100
+14032C
+－ EIA/LIA
+註：14030C至14032C不得同時申報14085C、14086C。
+v
+v
+v
+v
+160
+14033C
+Ｂ型肝炎表面抗體 Anti HBs
+v
+v
+v
+v
+200
+
+B型肝炎e抗原檢查 HBeAg
+
+
+
+
+
+14034C
+－ RPHA 法
+v
+v
+v
+v
+110
+14035C
+－ EIA/LIA
+v
+v
+v
+v
+250
+14036C
+Ｂ型肝炎e抗體檢查 Anti-HBe (EIA/LIA)
+v
+v
+v
+v
+250
+14037C
+Ｂ型肝炎核心抗體檢查 Anti-HBc (EIA/LIA)
+v
+v
+v
+v
+250
+14038C
+Ｂ型肝炎核心抗體免疫球蛋白Ｍ檢查
+Anti-HBc IgM  (EIA/LIA)
+v
+v
+v
+v
+315
+14039C
+Ａ型肝炎抗體免疫球蛋白Ｍ檢查
+Anti-HAV IgM（EIA/LIA）
+v
+v
+v
+v
+240
+14040C
+Ａ型肝炎抗體 Anti HAV
+v
+v
+v
+v
+225
+14041B
+Ｄ型肝炎抗體檢查 Anti-delta
+
+v
+v
+v
+320
+14042B
+弓漿蟲IgG 抗體
+Toxoplasma IgG Ab
+
+v
+v
+v
+200
+14043B
+德國麻疹血球凝集抗體效價
+Rubella Ab titer (HI法)
+
+v
+v
+v
+180
+14044B
+德國麻疹免疫球蛋白Ｇ檢查
+Anti-rubella IgG  (EIA/LIA)
+
+v
+v
+v
+240
+14045B
+德國麻疹免疫球蛋白Ｍ檢查
+Anti-rubella IgM  (EIA/LIA)
+
+v
+v
+v
+400
+14046B
+EB病毒囊鞘免疫球蛋白G.M.A. (IFA法)
+EB VCA IgG, IgM, IgA, IFA method, each
+
+v
+v
+v
+540
+14047B
+EB病毒核抗原抗體 EBNA Ab
+
+v
+v
+v
+960
+14048B
+巨細胞病毒核抗原抗體 
+Cytomegalo virus IgM Ab
+
+v
+v
+v
+700
+
+後天免疫不全症候群檢查  Anti-HIV test
+
+
+
+
+
+14049C
+－　EIA/LIA
+v
+v
+v
+v
+240
+14050B
+－  顆粒凝集法 PA
+
+v
+v
+v
+300
+14051C
+C型肝炎病毒抗體檢查
+HCV Ab( EIA/LIA)
+v
+v
+v
+v
+250
+14052B
+單純疱疹病毒 IgM抗體
+Herpes simplex virus IgM Ab
+
+v
+v
+v
+750
+14053B
+單純疱疹病毒-1或-2抗原
+Herpes Simplex Virus-1 Ag or-2 Ag。
+
+v
+v
+v
+150
+14054B
+腮腺炎病毒IgM抗體 Mumps virus IgM
+
+v
+v
+v
+400
+14055B
+B型肝炎表面抗體效價檢查 Anti-HBS titer
+
+v
+v
+v
+90
+14056B
+腸病毒71型-IgM抗體快速檢驗試驗 
+Enterovirus 71 IgM antibody
+註：
+適應症
+1.臨床上出現手足口症或疱疹性咽喉炎症狀之患者。
+2.臨床上出現病毒性腦膜炎、心肌炎、急性心肺衰竭等疑似腸病毒感染之患者。
+
+v
+v
+v
+600
+14057B
+流行性感冒嗜血桿菌抗原B檢查 
+Haemophilus influenzae type B test
+
+v
+v
+v
+200
+14058C
+呼吸融合細胞病毒試驗　
+RSV screening test
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+350
+14059B
+巨細胞病毒抗原檢查　CMV Ag test
+
+v
+v
+v
+135
+14060B
+第六型人類疱疹病毒抗體 
+Human herpesvirus-6 antibody
+
+v
+v
+v
+135
+14061B
+水痘-帶狀疱疹抗原檢查　VZV Ag test
+
+v
+v
+v
+120
+14062B
+登革熱病毒抗體IgM檢查 
+Dengue virus 1gM test
+
+v
+v
+v
+120
+14063B
+登革熱病毒抗體IgG檢查 
+Dengue virus 1gG test
+
+v
+v
+v
+120
+14064C
+腺病毒抗原檢查　Adenovirus Ag test
+註：
+1.不論何種檢測方式。
+2.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+150
+14065C
+流行性感冒A型病毒抗原　Influenza A Ag
+v
+v
+v
+v
+150
+14066C
+流行性感冒B型病毒抗原　Influenza B Ag
+v
+v
+v
+v
+150
+14067B
+弓漿蟲病毒IgM間接免疫螢光試驗 Toxoplasma-1gM
+
+v
+v
+v
+250
+14068B
+帶狀疱疹病毒IgG連酶抗體試驗 Varicella/zoster-1gG
+
+v
+v
+v
+200
+14069B
+單純性疱疹病毒IgG連酶抗體試驗　HSV-IgG
+
+v
+v
+v
+180
+14070B
+麻疹病毒抗體　IgG  Measles Ab (IgG)
+
+v
+v
+v
+240
+14071B
+弓漿蟲抗體　T. GONDII Ab (IgM)
+
+v
+v
+v
+700
+14072B
+C型肝炎確認檢查　RIBA test
+
+v
+v
+v
+250
+14073B
+巨細胞病毒傳訊者核糖核酸pp67 
+CMV m-RNA pp67
+註：
+1.本項檢查不得做為例行篩檢檢測用。
+2.適應症限定為器官移植、骨髓移植患者懷疑巨細胞病毒感染後可能發展為疾病之患者。
+3.檢查次數：器官移植或骨髓移植後每週或每二週作一次，最多連續作三個月。
+
+v
+v
+v
+2560
+14074C
+HIV 病毒負荷量檢查 
+HIV viral load test
+註：
+1.限下列任一情境使用
+(1)人類免疫缺乏病毒感染診斷
+A.使用時機：
+(a)抗原或抗體初篩檢測(14049C、14050B或14082C)陽性後執行。
+(b)抗原或抗體初篩檢測（14049C、14050B或14082C）為陰性，經感染科醫師評估有感染風險行為，且臨床上有急性初期感染之相關症狀或檢驗數值。
+B.執行頻率：每人每年限一次。
+C.執行院所：限衛生福利部人類免疫缺乏病毒指定醫事機構或疾病管制署病原體分生檢測認可之健保特約醫事服務機構申報。
+(2)人類免疫缺乏病毒感染治療監測
+A.執行院所：限衛生福利部人類免疫缺乏病毒指定醫事機構申報。
+B.執行頻率：每人每年限四次，若屬新服藥或有抗藥性病毒需多執行一次者，應於病歷詳述執行原因。
+2.屬西醫基層總額部門，限由院所專任之感染科專科醫師開立處方始可申報，但山地離島地區得由支援報備之感染科專科醫師為之。
+v
+v
+v
+v
+4000
+14075C
+HIV-I 抗體檢查(西方墨點法) 
+HIV-I Ab (Western blot)
+註：
+1.限衛生福利部人類免疫缺乏病毒指定醫事機構或疾病管制署西方墨點法認可之健保特約醫事服務機構執行。
+2.限於14049C、14050B或14082C陽性時，確定診斷用。
+v
+v
+v
+v
+1564
+14076C
+HIV-II 抗體檢查(西方墨點法) 
+HIV-II Ab (Western blot)
+註：
+1.限衛生福利部人類免疫缺乏病毒指定醫事機構或疾病管制署西方墨點法認可之健保特約醫事服務機構執行。
+2.限於14049C、14050B或14082C陽性時，確定診斷用。
+3.HIV-II限於HIV-I檢查時未出現gp120band。
+v
+v
+v
+v
+1564
+14077C
+血中白血球巨細胞病毒抗原pp65
+CMV Ag pp65
+v
+v
+v
+v
+500
+14078C
+急性E型肝炎抗體
+Anti-HEV IgM
+v
+v
+v
+v
+240
+14079C
+Pavovirus B19 免疫球蛋白G檢查
+Pavovirus B19 IgG
+v
+v
+v
+v
+240 
+14080C
+Pavovirus B19 免疫球蛋白M檢查
+Pavovirus B19 IgM
+v
+v
+v
+v
+800 
+14082C
+人類免疫缺乏病毒抗原及抗體複合型試驗
+HIV Ag/Ab Combo Test
+註：
+1.不得同時申報14049C。
+2.除山地離島地區外，基層院所限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+320
+14083C
+HIV 1/2 抗體確認檢驗(抗體免疫層析檢驗法)
+HIV 1/2 Confirmatory Test(Immunochromatographic Test)
+註：
+1.使用時機：限於14049C、14050B或14082C陽性時，確定診斷用。
+2.限衛生福利部人類免疫缺乏病毒指定醫事機構或疾病管制署抗體免疫層析法認可之健保特約醫事服務機構執行。
+3.不得同時申報14075C、14076C。
+v
+v
+v
+v
+2011
+14084C
+新型冠狀病毒抗原檢測
+SARS-CoV-2 Ag test
+註：
+1.適應症：符合抗病毒藥物使用條件者。
+2.支付規範：
+(1)本項須按「全民健康保險鼓勵醫事服務機構即時查詢病患就醫資訊方案」格式，於檢驗（查）申報前上傳檢驗（查）結果報告，未上傳者本項不予支付。
+(2)限由醫事人員執行。
+v
+v
+v
+v
+150
+14085C
+B 型肝炎病毒核心關連抗原(HBcrAg)合併表面抗原(HBsAg)定量檢驗
+Quantification of Hepatitis B virus core-related antigen (HBcrAg) combined with Hepatitis B surface antigen (HBsAg)
+註：
+1.適應症：慢性B型肝炎病人，因B型肝炎發作接受口服抗病毒藥物治療，得於停藥前執行本項檢測，而延長用藥期間之檢驗，每次檢驗須間隔二十四週以上。
+2.不得同時申報12184C、14030C、14031C、14032C、14086C。
+3.須符合全民健康保險藥物給付項目及支付標準附件六藥品給付規定第十節抗微生物劑10.7.3.暨10.7.4.之醫師資格。
+4.本項須按「全民健康保險鼓勵醫事服務機構即時查詢病患就醫資訊方案」格式，於檢驗（查）申報前上傳檢驗（查）結果報告，未上傳者本項不予支付。
+v
+v
+v
+v
+1800
+14086C
+B型肝炎病毒表面抗原(HBsAg)定量檢驗
+Quantification of Hepatitis B surface antigen (HBsAg)
+註：
+1.適應症：慢性B型肝炎病人，因B型肝炎發作接受口服抗病毒藥物治療，得於停藥前執行本項檢測，而延長用藥期間之檢驗，每次檢驗須間隔二十四週以上。
+2.不得同時申報12184C、14030C、14031C、14032C、14085C。
+3.須符合全民健康保險藥物給付項目及支付標準附件六藥品給付規定第十節抗微生物劑10.7.3.暨10.7.4.之醫師資格。
+4.本項須按「全民健康保險鼓勵醫事服務機構即時查詢病患就醫資訊方案」格式，於檢驗（查）申報前上傳檢驗（查）結果報告，未上傳者本項不予支付。
+v
+v
+v
+v
+475
+
+第九項 細胞學檢查Cytology Examination (15001-15022)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+15001C
+體液細胞檢查
+Body fluid cytology
+註：含痰(Sputum)，尿(Urine)，腹水(Ascites)，脊髓液(C.S.F.)，胸水(Pleural Effusion)，心包膜積水(Pericardial effusion)，氣管刷取(bronchial brushing)及氣管沖洗(bronchial washing)等。
+v
+v
+v
+v
+480
+15007C
+穿刺細胞檢查
+Needle aspiration cytology
+註：
+1.含甲狀腺(Thyroid)，淋巴腺(Lymph node)，乳房(Breast)，肺臟(Lung)，縱膈腔(Mediastinum)，肝臟(Liver)，胰臟(Pancreas)，腫瘤(Mass)穿刺及鼻(Nasal)細胞檢查等。
+2.屬西醫基層總額部門院所，適應症如下：
+(1)甲狀腺結節或囊腫之鑑別良/惡性。
+(2)甲狀腺癌超音波陰影經治療後不消失。
+3.	屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+667
+15017C
+婦科細胞檢查 Pap's smear (Cytology部分)
+註：
+1.子宮頸或陰道抹片同一病人3~6個月內限做1次。
+2.6個月內需重新施做之適應症：
+(1)曾罹患過子宮頸癌或癌前病變之婦女。
+(2)最近一次子宮頸抹片檢查結果為異常之婦女。
+(3)免疫功能受抑制的高危險群婦女。
+v
+v
+v
+v
+245
+15018B
+體液細胞檢查加細胞切片
+Fluid cytology plus cell block
+
+v
+v
+v
+990
+15020B
+支氣管切片奈印 
+Imprint bronchial biopsy-CM
+
+v
+v
+v
+265
+15021C
+薄片細胞學檢查
+Thin layer cytology
+註：子宮頸癌篩檢及診斷不得申報。
+v
+v
+v
+v
+1200
+15022C
+血液抹片檢查 Blood smear interpretation 註：不得與08009C、08013C同時申報
+v
+v
+v
+v
+360
+第十項 穿剌液採取液檢查Fluid Examination (16001-16013)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+16001C
+精液分析 Semen analysis
+註：包括 motility, count, morphology, amount, appearance, PH 測定。
+v
+v
+v
+v
+70
+16002C
+腹水分析 Ascitic fluid analysis
+註：包括蛋白定性、血球計數、白血球分類。Include protein-qualitative、cell count & DC。
+v
+v
+v
+v
+170
+16003C
+胸水分析 Pleural fluid analysis
+註：包括蛋白定性、血球計數、白血球分類。
+Include protein-qualitative、cell count & DC。
+v
+v
+v
+v
+170
+16004C
+胃液分析 Gastric juice analysis
+註：包括數量、顏色、混濁度、粘液、臭氣、PH、Pepsin及乳酸定量、潛血、蟲卵在內。
+v
+v
+v
+v
+170
+16005B
+十二指腸液分析 Duodenal juice analysis
+註：包括數量、顏色、混濁度、粘液、臭氣、PH、Pepsin及乳酸定量、潛血、蟲卵在內。
+
+v
+v
+v
+170
+16006C
+腦脊髓液分析 CSF
+註：包括WBC, RBC, Pandy's, neutrophil, lymphocyte, eosinophil在內
+v
+v
+v
+v
+170
+16007C
+膿或分泌物分析 Pus or discharge analysis
+註：如同時實施其他生化、血液檢查,比照本標準表已有項目申報。
+v
+v
+v
+v
+70
+
+關節囊液分析 Synovial fluid analysis
+
+
+
+
+
+16008C
+－常規檢查 Routine
+v
+v
+v
+v
+168
+16012C
+－茜素紅S 染色Alizarin Red S stain
+v
+v
+v
+v
+174
+16013C
+－偏光鏡檢查Crystal exam.
+v
+v
+v
+v
+131
+16009C
+心胞膜液常規檢查(含蛋白定性、血球計數、白血球分類) 
+Pericardial fluid routine test (Pandytest, cell count, differential count )
+註：其他心胞膜液各項檢查,請就實際檢查內容依支付標準生化學、細胞學、細菌學..等各章節所訂項目及點數申報費用。
+v
+v
+v
+v
+170
+16010C
+分析肺泡灌洗液之細胞總數及分類 
+Analysis of total cell count and differntiation in BAL fluid
+v
+v
+v
+v
+170
+16011C
+搖晃試驗 Shake test
+v
+v
+v
+v
+170
+第十一項 呼吸機能檢查Respiratory Function Examination (17001-17024)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+17001C
+萊特氏最高流量計—移動型
+Wrights peak flow meter-portable
+註：內含一般材料費及單一使用拋棄式之過濾器。
+v
+v
+v
+v
+85
+17002B
+最大吸氣壓及最大吐氣壓
+Pi max and Pe max
+註：
+1.限呼吸器 weaning時申報。
+2.內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+85
+17003C
+流量容積圖形檢查
+Flow-volume curve
+註：內含一般材料費及單一使用拋棄式之過濾器。
+v
+v
+v
+v
+305
+17004C
+標準肺量測定 (包括FRC測定)
+Lung volume with functional residual capacity
+註：
+1.包含流速－容積測定 (flow-volume test)、肺通氣試驗(ventilation test)、肺餘量試驗(residual volume test) 。
+2.內含一般材料費及單一使用拋棄式之過濾器。
+3.除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+485
+17005B
+單次呼吸肺氮廓清試驗
+Single breath nitrogen washout test
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+275
+17020B
+多次呼吸肺氮廓清試驗
+Mutiple breath nitrogen washout test
+註：
+1.內含一般材料費及單一使用拋棄式之過濾器。
+2.不得同時申報17007B。
+
+v
+v
+v
+335
+17006C
+支氣管擴張劑試驗
+Bronchodilator test
+註：
+1.內含一般材料費及單一使用拋棄式之過濾器。
+2.除山地離島地區外，基層院所限由專任醫師開立處方始可申報。
+3.不得同時申報：17019C。
+v
+v
+v
+v
+485
+17007B
+標準支氣管擴張劑試驗
+Standard bronchodilator test
+註：
+1.內含一般材料費及單一使用拋棄式之過濾器。
+2.不得同時申報17020B。
+
+v
+v
+v
+835
+17008B
+睡眠多項生理檢查
+註： 
+1.含EEG、EMG、ECG、EOG、respiratory airflow、thoracic respiratory effort、abdominal respiratory effort。
+2.適應症如下：
+(1)睡眠呼吸障礙、猝睡症、睡眠行為異常、parasomnia癲癇引起的睡眠中斷、神經肌肉疾病侷限性胸廓異常合併睡眠問題。
+(2)不得做慢性肺部疾病例行診斷。
+(3)「困難處理失眠症」之鑑別診斷。
+3. 內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+4535
+17009B
+一氧化碳肺瀰散量測定
+CO diffusing capacity
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+355
+17010B
+壓力容積圖形試驗 Pressure volume curve
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+275
+17011B
+壓力流量圖形試驗 Pressure flow curve
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+275
+17012B
+壓力容積圖形及壓力流量圖形試驗
+Pressure volume curve and pressure flow curve
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+485
+17013B
+二氧化碳刺激試驗及閉口壓
+CO2 stimulation test and mouth occlusion pressure
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+275
+17014B
+閉鎖容積試驗 Closing volume
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+305
+17015B
+缺氧刺激試驗 
+Hypoxic stimulation test
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+445
+17016B
+運動肺功能試驗
+Exercise pulmonary function test (stress test)
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+1535
+17017B
+全階呼吸量測定 Haloscale respiration
+註：
+1.限呼吸器 weaning時申報。
+2.內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+90
+17018B
+基礎代謝率 Basal metabolic rate
+註：內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+305
+17019C
+支氣管激發試驗 Bronchial provocation test
+註：
+1.內含一般材料費及單一使用拋棄式之過濾器。
+2.不得同時申報：17006C。
+v
+v
+v
+v
+909
+17021B
+肺成熟度檢查－微小氣泡檢測法 Microbobble test
+註：
+1.適應症：妊娠週數小於38週，出生後發生呼吸窘迫之新生兒。
+2.內含一般材料費及單一使用拋棄式之過濾器。
+
+v
+v
+v
+175
+17022B
+呼氣一氧化氮監測(FeNO)
+註：
+1.適應症：
+(1)六歲以上至未滿十三歲確診氣喘病人追蹤使用。
+(2)十三歲以上確診重度氣喘病人追蹤使用。
+(3)重度定義：氣喘病人過去一年即使接受高劑量吸入型類固醇及長效型乙型交感神經致效劑(ICS/LABA)組合治療，或相同期間需要口服型類固醇(OCS)治療半年以上，依然控制不佳（poorly controlled），且符合下列任一項者：
+A.症狀控制不佳：氣喘控制問卷(ACQ)＞1.5，氣喘控制檢驗(ACT)＜20（或根據美國國家氣喘衛教及防治協會NAEPP/GINA指引分類為“not well controlled”)。
+B.經常性嚴重急性發作：過去一年有二次以上之急性發作需要使用全身性類固醇治療三天以上。
+C.危及生命之急性發作：過去一年至少一次住院、住加護病房或人工呼吸器支持。
+2.支付規範：
+(1)申報次數：一年最多申報三次。
+(2)申報專科別：兒科、內科、家醫科、耳鼻喉科。
+(3)執行限制：限受過操作訓練之醫療人員。
+(4)費用申報時必要之附件：檢測報告。
+
+v
+v
+v
+748
+17023B
+六分鐘步行測試
+Six-minute Walk Test
+註：
+1.適應症：
+(1)原發性肺性高血壓(Primary pulmonary hypertension)。
+(2)先天性心臟病合併肺高壓。
+(3)其他申請肺動脈高血壓用藥申請事前審查者。
+2.適用層級：申請肺高壓用藥之醫院門、住診均可使用。
+3.支付規範：
+(1)執行頻率：每年二次。
+(2)不得同時申報57017C。
+
+v
+v
+v
+900
+17024B
+胸部電阻斷面造影
+Chest electrical impedance tomography
+註：
+1.適應症：入住加護病房，且為柏林定義中重度急性呼吸窘迫症候群病人（ICD-10-CM：J80）。
+2.限內科、外科、麻醉科、兒科、急診醫學科、神經科及神經外科專科醫師執行。
+3.須醫師及呼吸治療師在場共同操作，隨時提供必要之緊急措施。
+4.執行本項至少需有十六個以上胸帶電極數，且執行本項時間至少六十分鐘，並應於申報時填寫執行起迄時間。
+5.需檢附「胸部電阻斷面造影報告」備查。
+6.每次住院以申報一次為原則，至多申報二次，並應於病歷敘明重複執行之原因。
+
+v
+v
+v
+3883
+
+第十二項 循環機能檢查Circulative Function Examination (18001-18049)
+通則：
+一、特殊造影檢查所定點數包括速洗費、注射費、造影藥劑費、手術費在內，不得另行申報。
+二、本項各檢查項目皆為兒童加成項目，意指病人年齡未滿六個月者，依表定點數加計百分之六十；年齡在六個月以上至未滿二歲者，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之二十；但所有特材一律不加計。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+18001C
+心電圖 E.K.G. (Electrocardiography)
+v
+v
+v
+v
+150
+18002B
+向量心電圖 V.C.G. (Vectorcardiography)
+註：限由心臟專科醫師施行後申報。
+
+v
+v
+v
+360
+18003C
+馬斯特運動心電圖 Masters two-step test
+註：
+1.with contrast。
+2.限由心臟專科醫師施行後申報。
+v
+v
+v
+v
+250
+18004C
+v
+v
+v
+v
+450
+18005C
+超音波心臟圖(包括單面、雙面) 
+Echocardiography (-M-mode and -sector- scan)
+註：
+1.限由心臟專科醫師施行後申報。
+2.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+1260
+18006C
+杜卜勒氏超音波心臟圖 
+Doppler echocardiography
+註：
+1.限由心臟專科醫師施行後申報。
+2.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+630
+18007C
+杜卜勒氏彩色心臟血流圖 
+Doppler color flow mapping
+註：
+1.已含18006C杜卜勒氏超音波心臟圖，不得同時申報18006C。
+2.限由心臟專科醫師施行後申報。
+3.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+4.適應症：
+(1)心臟手術或介入性治療前後之評估。
+(2)瓣膜性心臟疾病。
+(3)先天性心臟病。
+(4)心肌病變或缺血性心臟病。
+(5)主動脈病變。
+(6)心臟衰竭。
+v
+v
+v
+v
+2100
+18008C
+杜卜勒氏血流測定(周邊血管)
+Doppler flowmetry (perivasculary)
+v
+v
+v
+v
+158
+18009B
+動脈分段血流及壓力之測定
+PVR (pulse volume recorder)
+
+v
+v
+v
+1170
+18010C
+頸動脈聲圖檢查
+CPA (carotid phonoangiography)
+註：屬西醫基層總額部門院所支付規範如下：
+1.符合下列任一條件，且頸動脈超音波檢查(20013C)發現內膜增厚1.0mm以上：
+(1)急性腦中風或腦中風病史。
+(2)六十五歲以上具高風險心血管危險因子之一（高血壓、高血糖、高血脂、吸菸史或有腦中風家族病史）。
+(3)疑暫時性腦中風（TIA），且有突發性腦中風相關症狀（臉及肢體出現麻或無力、意識混亂、表達或理解力異常、視力障礙、中樞性頭暈、行走、平衡障礙或不明原因頭痛）。
+(4)曾經接受頭頸部放射治療超過十年以上。
+(5)脈動性耳鳴。
+2.除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+900
+18011B
+四肢血流探測，壓力測量並記錄
+Doppler extremity and pressure recording
+
+v
+v
+v
+567
+18012B
+深部靜脈血流檢查圖
+PRG (phleborheograph)
+
+v
+v
+v
+2340
+18013C
+胎心音監視（三小時以內）
+Fetal monitor ≦ 3hrs
+註：不得同時申報18035B。
+v
+v
+v
+v
+259
+18014C
+胎心音監視（三小時後每小時）
+Fetal monitor, per hour after the first 3 hours
+註：一日內累積監視超過六小時者仍以六小時計，且不得同時申報18035B。
+v
+v
+v
+v
+45
+18015B
+極度踏車運動試驗
+Treadmill exercise test or graded exercise test, GXT
+
+v
+v
+v
+900
+18016B
+頸靜脈波圖 J.P. (Jugular pulse)
+
+v
+v
+v
+180
+18017B
+頸動脈波圖 C.P. (Carotid pulse)
+
+v
+v
+v
+180
+18018B
+心音圖檢查 P.C.G. (Phonocardiography)
+
+v
+v
+v
+700
+18019C
+攜帶式心電圖記錄檢查 24hrs. Holter's scan
+註：
+1.包括材料費 (patient kit)在內。
+2.限心臟專科醫師實施，申報費用應附檢查報告。
+3.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方始可申報。
+v
+v
+v
+v
+2800
+
+心導管 Cardiac cath
+
+
+
+
+
+18020B
+－ 一側  one side
+
+v
+v
+v
+3840
+18021B
+－ 二側  both side
+
+v
+v
+v
+5120
+18022B
+冠狀動脈攝影 Coronary angiography
+
+v
+v
+v
+7000
+18023B
+希氏束檢查 HBE (His Bundle electrogram)
+
+v
+v
+v
+2560
+
+電氣生理檢查 Electrophysiology
+
+
+
+
+
+18024B
+－ 一般性 general
+
+v
+v
+v
+3600
+18025B
+－ 複雜性 complex
+
+v
+v
+v
+5500
+18026B
+心室造影 Cardioangiography
+
+v
+v
+v
+4830
+18027B
+主動脈造影 Aortography(cineangiography)
+
+v
+v
+v
+4830
+18028B
+心律調復術 Cardioversion (one course)
+
+v
+v
+v
+960
+18029B
+心輸出量測定 Cardiac output
+
+v
+v
+v
+1000
+18030B
+第二次心輸出量測定 Second time cardiac output
+註：
+1.第二次以後，每次測定支付100點。
+2.每日最多以申報二次為限。
+
+v
+v
+v
+100
+18031B
+立致停測定 Regitine test (phentolamine test)
+
+v
+v
+v
+200
+18032B
+組織胺測定 Histamine test
+
+v
+v
+v
+200
+18033B
+經食道超音波心圖 T.E.E
+註：不得同時申報18047B。
+
+v
+v
+v
+4200
+18034B
+手腕式心律紀錄檢查 Wrist ECG Recorder
+三十日內每人次
+註：含一般及特殊材料費。
+
+v
+v
+v
+1020
+18035B
+胎心音監視(每日) Fetal monitor, per day
+註：
+1.限住院病人申報。
+2.不得同時申報：18013C、18014C。
+
+v
+v
+v
+550
+18036B
+心跳間變異數 
+R-R interval variation，RRIV
+
+v
+v
+v
+150
+18037C
+胎兒、臍帶、或孕期子宮動脈杜卜勒超音波
+Fetal, umbilical cord, or gravid uterine artery Doppler ultrasound
+註：
+1.含胎兒超音波檢查。
+2.屬西醫基層總額部門院所，比照高危險妊娠適應症：
+(1)嚴重妊娠高血壓或子癲前症。
+(2)羊水過多或過少。
+(3)多胞胎併發症(如雙胞胎輸血症候群、羊水或胎兒生長異常)。
+(4)胎兒生長遲緩或胎兒發育異常者(IUGR)或胎盤功能異常者。
+(5)妊娠合併內科疾病：糖尿病、腎臟疾病(NS、IgA、ESRD)或免疫性疾病(如SLE)。
+(6)胎兒水腫或胎兒貧血。
+(7)杜卜勒檢查異常者之追蹤。
+(8)胎兒構造異常。
+(9)懷疑植入性胎盤。
+3.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+1197
+18038B  
+骨盆腔杜卜勒超音波
+Pelvic Doppler ultrasound
+註：含骨盆腔超音波檢查。
+
+
+v
+v
+v
+1050
+18039C
+無壓迫性試驗 Non-stress test
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+517
+18040B
+催產素挑釁試驗(胎盤功能試驗)
+Oxytocin challenge test
+註：使用之點滴及藥物另行申報。
+
+v
+v
+v
+700
+18041B
+周邊動靜脈血管超音波檢查
+Sonography for peripheral vessel
+註：包括血管形態及血流之波相、流速、流量、阻力等測量。
+
+v
+v
+v
+800
+18042B
+靜脈曲張檢查
+Tourniquet test (including Perthes's test and Brodie-Trendelenburg test--etc.)
+
+v
+v
+v
+200
+18043B
+冠狀動脈血管內超音波
+Coronary Intravascular Ultrasound 
+註：
+1.包含心導管檢查費用。
+2.適應症：
+(1)左主幹冠狀動脈；左前降枝、左迴旋枝及右冠狀動脈開口病灶；及慢性完全阻塞性之病灶。
+(2)	評估支架內再狹窄之原因及選擇最佳的治療方法。
+(3)	血管狹窄長度超過35毫米或短於5毫米且狹窄原因不明之病灶。
+(4)	在完成介入性治療後(包括氣球擴張術或血管支架置放術)，血管攝影呈現內膜剝離或填充缺陷之影像時。
+(5)	冠狀動脈鈣化嚴重，欲以血管鑽頭研磨器作為治療工具之血管。
+(6)作為冠狀動脈斑塊去除術(DCA)之準則及依據。
+
+v
+v
+v
+7500
+18044B
+負荷式心臟超音波心臟圖
+Stress echocardiography
+註：
+1.適應症如下：
+(1)胸痛或疑似心絞痛，但心電圖無法判讀或無法運動，用來診斷冠狀動脈心臟病。
+(2)急性胸痛症候群但無心電圖或心肌酵素上升之系列變化，用來診斷冠狀動脈心臟病。
+(3)新發生或新診斷之心臟衰竭或左心室收縮功能障礙，用來診斷冠狀動脈心臟病或評估狀動脈心臟病之可能性。
+(4)過去已經診斷冠狀動脈心臟病接受藥物治療，但症狀惡化時，做為危險度評估。
+(5)冠狀動脈心臟病已經經由心導管或電腦斷層診斷，但無法判斷狹窄程度是否有臨床顯著影響。
+(6)冠狀動脈心臟病已經經過經皮血管介入治療或燒道手術後再發胸痛，做為危險度評估。
+(7)中度以上危險群病人合併運動功能不良，非心臟手術前的術前危險度評估。
+(8)嚴重冠狀動脈疾病合併左心室功能低下，評估心肌存活度。
+(9)瓣膜性心臟病，疾病嚴重度之評估。
+2.相關規範：
+(1)限心臟專科醫師執行。
+(2)限一年申報一次。
+(3)不得同時申報之診療項目及編號：18003C、18004C，若適應症為1 , 2 , 7 不應同時申報運動心電圖(18015B)。若適應症為8不應同時申報核子醫學攝影。
+(4)費用申報時必要之附件：休息時心臟超音波左心室局部活動與最高負荷時左心室局部活動的變化。
+
+v
+v
+v
+2830
+18045B
+傾斜床檢查
+Head-up Tilt table test
+註：
+1.適應症如下：
+(1)首次發生暈厥合併頭部或其他身體部位之外傷。
+(2)首次暈厥發生在工作中，並足以影響公共安全者，如：大眾運輸工具司機
+(3)暈厥反覆發生而無明顯心臟疾病之病患。
+(4)心臟疾病患者，反覆發生非心因性暈厥。
+(5)鑑別迷走神經反應或姿態性低血壓引起之暈厥。
+2.相關規範：
+(1)限心臟專科或神經科或耳鼻喉科專科醫師執行。
+(2)限一年申報一次。
+(3)不得同時申報之診療項目及編號：
+A.心電圖監控(編號：18001C、18002B及47032B)
+B.血壓監控(編號：47033B)
+C.靜脈輸液相關費用(編號：39016B)。
+(4)費用申報時必要之附件：完整之檢查報告(含血壓、心跳、藥物劑量、與病人症狀之紀錄)
+
+v
+v
+v
+1610
+18046B
+生物電抗非侵入式心輸出量及血流動力學監測
+Bioreactance non-invasive cardiac output and hemodynamic monitoring
+註：
+1.適用範圍：
+(1)心臟手術病人或未滿十九歲施行心導管介入性治療病人，手術中或手術後心臟功能衰竭，有立即生命危險者。
+(2)持續性血流動力學不穩定病人，使用升壓劑或強心劑六小時以上。
+2.支付規範：
+(1)限急診及加護病房病人申報。
+(2)同次入院，未滿十九歲者每二週得申報一次，其餘病人限申報一次。
+(3)執行本項時不得同時執行18029B「心輸出量測定」及18030B「第二次心輸出量測定」。
+
+v
+v
+v
+3322
+18047B
+心內超音波
+Intracardiac echocardiography
+註：
+1.適應症：心房顫動，曾接受電氣燒灼手術(33139B、33140B，含冷凍消融手術)，須再次執行電氣燒灼手術(含冷凍消融手術)者。
+2.限中華民國心臟學會、中華民國心律醫學會核發「心臟電生理暨介入治療專科醫師認證」之心臟專科醫師執行。
+3.申報費用時應檢附影像報告於病歷備查。
+4.不得同時申報18033B及33049B。
+
+v
+v
+v
+8385
+18048B
+非侵入式區域腦／身體血氧飽和監測
+Non-invasive regional cerebral / somatic oximetry monitoring
+註：
+1.適用範圍：
+(1)心臟手術，包含心瓣膜置換術、心瓣膜附屬組織之修整、心中膈成形術、心房及心室中膈修補、冠狀動脈繞道術。
+(2)頸動脈手術。
+(3)心臟、肺臟及肝臟移植手術。
+2.支付規範：
+(1)限麻醉科專科醫師執行。
+(2)執行頻率：每次手術限申報一次。
+(3)申報時應檢附麻醉紀錄單或監測報告。
+
+v
+v
+v
+13976
+18049B
+非侵入性連續性血壓及血液動力學目標導向監護治療
+Non-invasive continuous blood pressure and hemodynamic goal directed therapy
+註：
+1.適用範圍：符合休克（ICD-10-CM：R57.0、R57.1、R57.8）、敗血性休克（ICD-10-CM：R65.21）病人，應符合下列所有情況：
+(1)急診或加護病房內休克病人：MAP<65 mmHg且乳酸值>2 mmol/L。
+(2)已接受適當治療後仍持續休克，定義為下列任一情形：
+A.已接受足量輸液治療（>30 mL/kg）。
+B.需使用Norepinephrine連續輸注劑量介於0.05mcg/kg/min至0.15 mcg/kg/min以維持血壓。
+(3)排除下列任一情況之病人：
+A重度休克：需使用Norepinephrine 連續輸注劑量>0.15 mcg/kg/min。
+B.晚期休克：休克發生時間已超過六小時，自符合MAP<65 mmHg 且乳酸值>2 mmol/L時起算；或乳酸值>10 mmol/L。
+C.已置放動脈導管（arterial catheter）進行其他侵入性血流動力學監測。
+2.支付規範：
+(1)應於病歷詳實記載符合適用範圍之情況，及無排除條件之理由，並記錄使用治療之情形與療效。
+(2)住院期間限申報一次，且四十八小時內不得同時申報其他侵入性血流動力學監測。
+
+v
+v
+v
+11467
+第十三項 超音波檢查Sonography(19001-19018)
+通則：須將診斷結果附於病歷，申報費用應檢附報告。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+19001C
+腹部超音波
+Abdominal ultrasound
+（包括肝liver, 膽囊gall bladder, 胰pancreas,脾spleen, 下腔靜脈inferior vena cava, 腹主動脈abdominal aorta, 腎kidney及其他腹部超音波abdominal others在內）
+註：兒童加成項目。
+v
+v
+v
+v
+882
+19009C
+腹部超音波，追蹤性
+Abdominal ultrasound, for follow-up
+註：兒童加成項目。
+v
+v
+v
+v
+643
+19002B
+術中超音波 Intra-operative echo
+
+v
+v
+v
+1372
+19003C
+婦科超音波 
+Gynecologic ultrasound
+註：
+1.不含杜卜勒檢查及立體組像。
+2.不得同時申報19011C、19013C。
+v
+v
+v
+v
+450
+19013C
+陰道超音波
+Vaginal ultrasound
+註：
+1.支付規範：
+(1)不含杜卜勒檢查及立體組像。
+(2)不得同時申報：19003C及19011C。
+2.禁忌症：無性行為者。
+3.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師或診所支援他診所之醫師(接受支援之婦產科診所限執業登記醫師五人以下者)開立處方及執行始可申報。
+v
+v
+v
+v
+957
+19010C
+產科超音波 
+Obstetric ultrasound
+註：
+1.不含杜卜勒檢查及立體組像。
+2.不得同時申報19011C。
+v
+v
+v
+v
+550
+19011C
+高危險妊娠胎兒生理評估
+Fetal biophysical profile
+註：
+1.不含杜卜勒檢查及立體組像。
+2.不得同時申報18013C、18014C、18035B、19003C、19010C、 19013C。
+3.適應症：
+(1)各種高危險妊娠情況：子宮內胎兒生長遲滯(IUGR)、  糖尿病(DM)、妊娠高血壓症(含慢性高血壓與子癫前症)、羊水異常、妊娠二十四週後之胎動減少、其他高危險妊娠狀況等。
+(2)胎兒篩檢結果不正常：非反應性NST、陽性OCT、產科超音波檢查發現先天胎兒異常、杜卜勒超音波檢查發現胎兒臍帶血流異常及胎兒血管血流異常等。
+4.胎兒生理評估為確認胎兒窘迫的檢查，在妊娠期間若超過兩次須於病歷記載檢查理由。
+v
+v
+v
+v
+1900
+19004C
+鼻竇超音波檢查 Echo for sinus
+v
+v
+v
+v
+240
+19005C
+其他超音波 Echo for others
+註：
+1.本節未列之超音波檢查，得以本項申報。
+2.兒童加成項目。
+v
+v
+v
+v
+630
+19012C
+頭頸部軟組織超音波(如甲狀腺thyroid、副甲狀腺parathyroid、腮腺parotid)
+Head and neck soft tissue echo(thyroid,parathyroid,parotid gland)
+註：兒童加成項目。
+v
+v
+v
+v
+610
+19014C
+乳房超音波
+註：兒童加成項目。
+v
+v
+v
+v
+588
+19015C
+男性外生殖器官超音波
+註：兒童加成項目。
+v
+v
+v
+v
+697
+19016C
+四肢超音波
+註：兒童加成項目。
+v
+v
+v
+v
+588
+19017C
+經尿道(直腸)超音波檢查
+Transurethral (transrectal) ultrasonography
+v
+v
+v
+v
+800
+19018C
+嬰幼兒腦部超音波
+Brain echo
+註：
+1.腦部超音波為嬰兒前囪門尚未關閉時才能操作的檢查。
+2.兒童加成項目。
+v
+v
+v
+v
+719
+19007C
+超音波導引(為組織切片，抽吸、注射等) 
+Ultrasonic guidance for needle placement
+(eg, biopsy, aspiration, injection)
+註：
+1.實施超音波導引下組織切片、抽吸、注射，除申報本項外，應再加報第二章第一節第二十二項診斷穿刺。
+2.兒童加成項目。
+3.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+1500
+19008B
+超音波導引下肝內藥物注入治療
+Sono guided intrahepatic drug injection
+
+v
+v
+v
+1430
+第十四項 神經系統檢查Neurological Test (20001-20049)
+通則：本項各檢查項目皆為兒童加成項目，意指病人年齡未滿六個月者，依表定點數加計百分之六十；年齡在六個月以上至未滿二歲者，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之二十；但所有特材一律不加計。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+腦波檢查 EEG
+
+
+
+
+
+20001C
+－ 睡眠或清醒
+v
+v
+v
+v
+990
+20002C
+－ 睡眠及清醒
+v
+v
+v
+v
+1943
+
+註：申報應附檢查報告。
+
+
+
+
+
+20003C
+面神經刺激檢查
+v
+v
+v
+v
+114
+20004B
+腦波檢查（手提式）EEG (portable)
+
+v
+v
+v
+700
+
+註：申報應附檢查報告。
+
+
+
+
+
+20005B
+蝶骨下電極腦波檢查 Sphenoid EEG 
+
+v
+v
+v
+1080
+
+註：申報應附檢查報告。
+
+
+
+
+
+20006B
+鼻咽電極腦波檢查 Nasopharyngeal lead EEG
+
+v
+v
+v
+1200
+
+註：
+1.申報應附檢查報告。
+2.不得同時申報20046B。
+
+
+
+
+
+20007B
+腦幹聽覺誘發電位檢查
+Brainstem auditory evoked potentials(A.E.P Bs)
+
+v
+v
+v
+1000
+20008B
+中程聽覺誘發電位檢查
+Middle-latency auditory evoked potentials
+(A.E.P. ML)
+
+v
+v
+v
+720
+20009B
+長程聽覺誘發電位檢查
+Long-latency auditory evoked potentials(A.E.P. L.L)
+
+v
+v
+v
+720
+
+體感誘發電位檢查
+Somatosensory evoked potentials (S.E.P.)
+
+
+
+
+
+20010B
+－ 上肢 upper limb
+
+v
+v
+v
+720
+20011B
+－ 下肢 lower limb
+
+v
+v
+v
+720
+20012B
+視覺誘發電位檢查
+Visual evoked potentials (V.E.P.)
+
+v
+v
+v
+720
+20013C
+頸動脈超音波檢查 (Dopscan)
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+800
+20014B
+針極肌電圖檢查 Needle electromyogram
+
+v
+v
+v
+1000
+
+運動神經傳導速度測定 Mortor nerve conduction velocity
+
+
+
+
+
+20015B
+－ 上肢 upper   
+
+v
+v
+v
+560
+20016B
+－ 下肢 lower   
+
+v
+v
+v
+560
+20017B
+肌無力藥物測驗 Tensilon or vagostigmin test
+
+v
+v
+v
+270
+20018B
+重覆刺激測驗 Repetitive stimulation test
+
+v
+v
+v
+540
+20019B
+感覺神經傳導速度測定
+Sensory nerve conductive velocity, SNCV
+註：同時檢查雙側或四肢時，仍以申報一次為限。
+
+v
+v
+v
+720
+20020B
+單纖維肌電圖 Single fiber EMG
+
+v
+v
+v
+900
+20021B
+眼動脈流速測定 Oculoplethymography(O.P.G.)
+
+v
+v
+v
+562
+20022B
+瞬眼反應 Blink reflex
+
+v
+v
+v
+1170
+20023B
+F波  F wave
+
+v
+v
+v
+720
+20024B
+H反射  H reflex
+
+v
+v
+v
+600
+20025B
+周邊神經纖維撕裂檢查  
+Single nerve fiber tearing
+
+v
+v
+v
+900
+20026B
+穿顱杜卜勒超音波檢查(顱內血管超音波檢查)
+(Transcranial Doppler sonography)
+註：不得同時申報20048B。
+
+v
+v
+v
+2000
+20027B
+長程數位影像腦波監測
+(Digital video EEG long term monitoring)
+註：
+1.適應症：
+(1)藥物控制不良癲癇之術前評估。
+(2)陣發性異常動作或意識障礙之鑑別診斷。
+(3)抽搐型／非抽搐型持續癲癇發作狀態之診療。
+2.支付規範：
+(1)限設有癲癇治療小組之醫院申報。
+(2)監測紀錄時間須至少為四小時，一日至多二次。
+(3)記錄電極須符合國際10-20系統，最少使用二十一條電極並加上心電圖導極一組。
+
+v
+v
+v
+4000
+20028B
+大腦皮質腦電圖檢查 Electrocorticography
+
+v
+v
+v
+6460
+20029B
+瓦達測驗 Wada's test
+
+v
+v
+v
+10310
+20030B
+肌肉組織化學檢查
+Histocheical examination of muscle tissue
+
+v
+v
+v
+800
+20031B
+穩定狀態聽性誘發反應
+Steady state evoked potential(SSEP)
+
+v
+v
+v
+1000
+20032B 
+運動誘發電位(上肢)
+Motor evoked potential upper
+註：申報費用須檢附報告。
+
+v
+v
+v
+720
+20035B
+運動誘發電位(下肢)
+Motor evoked potential lower limb
+
+v
+v
+v
+720
+20033B
+神經功能溫度閾值測定
+Quantitative thermal threshold
+
+v
+v
+v
+720
+20034B
+磁波刺激檢查(上肢)
+Magnetic stimulation (upper extremity)
+註：
+1.適應症包括：多發性硬化症、運動神經元疾病、脊髓損傷或病變、周邊神經病變、手術時皮質脊髓徑路之功能、腦中風之偏癱。
+2.申報費用時須檢附詳細病歷紀錄，包括檢查目的及報告。
+
+v
+v
+v
+720
+20036B
+磁波刺激檢查(下肢)
+Magnetic stimulation (lower extremity)
+
+v
+v
+v
+720
+
+註：
+1.適應症包括：多發性硬化症、運動神經元疾病、脊髓損傷或病變、周邊神經病變、手術時皮質脊髓徑路之功能、腦中風之偏癱。 
+2.申報費用時須檢附詳細病歷紀錄，包括檢查目的及報告。
+
+
+
+
+
+20037B
+交感神經皮膚反應
+Sympathetic skin response
+
+v
+v
+v
+560
+20038B
+震顫圖檢查 Tremography
+
+v
+v
+v
+560
+20039B
+交感神經測定 
+Autonomic function test(SSR+RRIV)
+
+v
+v
+v
+560
+20040B
+表面肌電圖 Surface EMG
+
+v
+v
+v
+900
+20041B
+感覺神經功能檢查 Sensation testing
+
+v
+v
+v
+540
+
+註：
+1.含挀動感覺、皮表感覺。
+
+
+
+
+
+
+2.不得重複申請本項目。
+
+
+
+
+
+20042B
+電腦化神經心理測驗
+Neurobehavior exaluation
+
+v
+v
+v
+968
+
+動作障礙相關量表之評估
+Evaluation of Movement Disorder Rating Scale 
+
+
+
+
+
+20043B
+—執行一項量表
+
+v
+v
+v
+520
+20045B
+—執行二項以上量表
+
+v
+v
+v
+800
+
+註：
+1.本項目量表包含：
+(1)巴金森氏症UPDRS量表。
+(2)肌張力不全症FMDRS量表。
+(3)異動症UDysRS量表。
+(4)斜頸症TWSTRS量表。
+2.同次就醫執行二項以上量表者，不得拆分申報。
+3.每位病人每項量表每年限執行一次。
+
+
+
+
+
+20044B
+多次入睡睡眠檢查
+Multiple Sleep Latency Test(MSLT)
+註：
+1.適應症：
+(1)疑似猝睡症之診斷與追蹤。
+(2)疑似原發性嗜睡症之診斷。
+(3)以下二項情況不適用：
+A.不得作為阻塞性睡眠呼吸中止症起初評估或診斷的工具，或接受治療後的療效評估。
+B.不得作為例行性內科或神經系統疾病(除猝睡症)、失眠症、晝夜節律失調的嗜睡度評估。
+2.支付規範：
+(1)每人每年限執行一次。
+(2)限胸腔內科、神經內科、精神科、耳鼻喉科、兒童神經科及兒童胸腔科醫師執行。
+(3)申報時須檢附本項檢查報告。
+
+v
+v
+v
+7623
+20046B
+癲癇腦波檢查
+EEG for seizure
+註：
+1.適應症：癲癇之鑑別診斷或具癲癇診斷病人之追蹤，且限施作於具(疑)癲癇診斷且曾接受過一般腦波檢查(20001C、20002C)之病人。
+2.支付規範：
+(1)限設有癲癇治療小組之醫院申報。
+(2)申報次數以每年一次為原則，如有特殊狀況（新診斷）得增加頻率，須於病歷敘明原因。
+(3)不得同時申報：20006B。
+(4)申報須檢附腦波報告。
+(5)記錄電極須符合國際10-20系統，最少使用二十七條電極並加上心電圖導極一組；未滿六歲兒童不在此限。
+
+v
+v
+v
+3103
+20047B
+腦皮質／皮下功能定位
+Functional cortical and subcortical mapping
+註：
+1.適應症：藥物控制不良癲癇之術前評估，且限該次住院需植入顱內電極定位。
+2.支付規範：
+(1)限設有癲癇治療小組之醫院申報。
+(2)申報次數以每年一次為原則，第二次起應於病歷詳載再次執行原因。
+(3)不得同時申報：56039B。
+(4)申報須檢附報告。
+
+v
+v
+v
+15611
+20048B
+急性缺血性腦中風腦血流加護監測
+Intensive cerebral blood flow and hemodynamic monitoring in acute ischemic stroke
+註：
+1.適應症：腦梗塞(ICD-10-CM：I63)。
+2.支付規範：
+(1)限於加護病房(ICU)申報，同次ICU至多申報二次。若同次住院再中風進入ICU者，同次住院限申報四次，並應於病歷中敘明。
+(2)限神經科、神經外科、小兒神經科、急診醫學科專科醫師執行，並取得超音波訓練課程認證。
+(3)不得同時申報：20026B。
+(4)申報時應檢附下列任二項報告：
+A.顱內血管血流基礎評估。
+B.中線偏移與腦疝脫檢查。
+C.栓子連續偵測。
+
+v
+v
+v
+4337
+20049C
+多發性硬化症∕視神經脊髓炎EDSS量表評估
+Evaluation of Expanded Disability Status Scale (EDSS) in Multiple Sclerosis/ Neuromyelitis Optic
+註：
+1.限神經專科醫師執行。
+2.每人每年限給付二次。
+3.申報時須檢附EDSS量表及各項目分數。
+v
+v
+v
+v
+1328
+
+第十五項 泌尿系統檢查 Urinology Test (21001-21012)
+通則：本項檢查限下列適應症實施：
+(1)不穩定性膀胱  (2)神經性膀胱 (3)良性前列腺肥大  
+(4)間質性膀胱炎  (5)尿道狹窄   (6)尿失禁
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+21003C
+外括約肌肌電圖
+External sphincter electromyogram (EMG)
+v
+v
+v
+v
+702
+21004C
+尿流速圖
+Uroflowmetry (UFR)
+v
+v
+v
+v
+671
+21011C
+壓力尿流速圖
+Pressure-flow study
+v
+v
+v
+v
+1404
+21005C
+尿道壓力測量檢查
+Urethral pressure profile studies (UPP)
+v
+v
+v
+v
+1254
+21006B
+錄影尿流動力學檢查 Video-urodynamic study
+
+v
+v
+v
+7883
+21007C
+膀胱壓檢查 Cystometry (CMG)
+v
+v
+v
+v
+832
+21008C
+膀胱掃描 Bladder sonography
+v
+v
+v
+v
+210
+
+註：限尿滯留及排尿困難者申報
+
+
+
+
+
+21009B
+膀胱壓力檢查及Urecholine反應測驗
+Cystometry and Urecholine test
+
+v
+v
+v
+918
+21012B
+應力尿道壓力測量檢查
+Stress urethral pressure profile (stress UPP)
+
+v
+v
+v
+918
+21010C
+膀胱超音波尿量測量
+Bladder sonography for measurement of urine amount
+v
+v
+v
+v
+50
+
+註：同一病患視病情需要，每星期最多使用此法測量膀胱餘尿兩次。
+
+
+
+
+
+
+第十六項 耳鼻喉系統檢查E.N.T. Examination (22001-22041)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+22001C
+純音聽力檢查 Pure tone audiometry ( PTA )
+註：
+1.包括骨導聽力及氣導聽力。
+2.不得同時申報22041C。
+v
+v
+v
+v
+405
+22002B
+響音重振檢查 Recruitment test ( SISI )
+
+v
+v
+v
+300
+22003C
+聽音電阻檢查 Impedance audiometry
+v
+v
+v
+v
+452
+22004C
+鼓室圖檢查 Tympanometry
+v
+v
+v
+v
+300
+22005C
+一般語言檢查 Medium speech evaluation
+v
+v
+v
+v
+210
+22006C
+複雜語言檢查 Complex speech evaluation
+v
+v
+v
+v
+357
+22007C
+語言錄音檢查 Sound record testing
+v
+v
+v
+v
+280
+22008B
+聲場聽力檢查 Sound field testing
+
+v
+v
+v
+2270
+22009B
+音聲頻譜儀檢查 Sound spectrography
+
+v
+v
+v
+497
+22010C
+吞嚥檢查 Swallowing evaluation
+v
+v
+v
+v
+350
+22011B
+語言分辨聽力檢查 Speech discrimination
+
+v
+v
+v
+279
+22012B
+響音衰退檢查 Tone decay test    
+
+v
+v
+v
+300
+22013B
+語言聽力檢查Speech audiometry
+
+v
+v
+v
+300
+22014B
+誘發反應聽力檢查
+E.R.A.( electrical responce audiometry )
+
+v
+v
+v
+706
+22015B
+詐聾聽力檢查 Functional hearing test
+
+v
+v
+v
+800
+22016B
+眼振圖檢查
+ENG ( electronystagmography )
+
+v
+v
+v
+640
+22017C
+前庭平衡檢查 
+V.F.T. ( vestibular function test )
+註：
+1.包括上肢、下肢偏倚檢查、起立檢查、眼球運動檢查、頭位變化檢查等項。
+2.屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。
+v
+v
+v
+v
+450
+22018B
+腦幹反應檢查 B.S.R. ( brain stem response )
+
+v
+v
+v
+1792
+22019B
+內耳溫差試驗 Caloric test           
+
+v
+v
+v
+596
+22020B
+甘油試驗 Glycerine test
+
+v
+v
+v
+765
+
+上頷竇機能檢查 Maxillary sinus moljodol exam.
+
+
+
+
+
+22021B
+－ 單側 single side
+
+v
+v
+v
+1076
+22022B
+－ 雙側 both side
+
+v
+v
+v
+1292
+22023B
+耳蝸誘發聽力檢查 Econg
+
+v
+v
+v
+2012
+22024B
+喉部發聲機能檢查 Phonatory ability test
+
+v
+v
+v
+2218
+22025B
+自記聽力檢查 Bekesy audiometry
+
+v
+v
+v
+300
+22026C
+聽反射測驗(ART) Acoustic emission test
+v
+v
+v
+v
+312
+22027C
+耳聲傳射檢查 OTO acoustic emission test
+v
+v
+v
+v
+837
+22028C
+耳咽管功能檢查 E-tube function test
+v
+v
+v
+v
+336
+22029C
+鐙骨肌反射衰退試驗 Stapedial reflex decay
+v
+v
+v
+v
+452
+22030C
+喉機能音響分析
+Larynageal acoustic analysis
+v
+v
+v
+v
+280
+22031B
+聽反射衰退檢查 Acoustic reflex decay test
+
+v
+v
+v
+364
+22032B
+交替性兩側響度平衡測驗
+Alternate binaural loundness balance test(ABLB)
+
+v
+v
+v
+300
+22033B
+幼兒聽力篩檢(腦幹聽反射)
+Argo-1 infant hearing testargo-1 infant hearing test
+
+v
+v
+v
+800
+22034B
+重心動搖儀檢查 Posturography
+
+v
+v
+v
+678
+22035B
+喉部氣體動力學分析(音聲氣體流動分析)
+Laryngeal aerodynamic analysis
+
+v
+v
+v
+852
+
+
+前庭誘發肌電位
+Vestibular evoked myogenic potential
+
+
+
+
+
+22037B
+－頸性或眼性前庭誘發肌電位 cVEMP or oVEMP
+
+v
+v
+v
+720
+
+註：
+1.適應症為末梢前庭病變之眩暈症之鑑別診斷，視患者狀況施作頸性前庭誘發肌電位(cVEMP)或眼性前庭誘發肌電位(oVEMP)時申報。
+2.不可重複申報本項。
+
+
+
+
+
+22040B
+－頸性及眼性前庭誘發肌電位 cVEMP and oVEMP
+註：
+1.適應症為末梢前庭病變之眩暈症之鑑別診斷，視患者狀況同時施作頸性前庭誘發肌電位(cVEMP)及眼性前庭誘發肌電位(oVEMP)時申報。
+2.不可重複申報22037B。
+
+v
+v
+v
+1188
+22038B
+喉肌電圖檢查 Laryngeal  EMG
+
+v
+v
+v
+2218
+22039C
+聽覺穩定狀態電位反應 ASSR
+v
+v
+v
+v
+1500
+22041C
+遊戲式聽力檢查 Conditioning play audiometry
+註：
+1.適應症：限聽力篩檢未通過，且符合下列任一適應症之二歲以上至未滿七歲兒童：
+(1)傳音性及感音性耳聾(H90)。
+(2)突發性自發性聽力喪失(H91.2)。
+(3)聽障(H91.9)。
+(4)耳鳴(H93.1)。
+(5)其他異常聽覺(H93.2)。
+2.基層診所之聽力檢查室須符合醫療機構設置標準附表（一）之聽力設施規範。
+3.每年以申報二次為原則，如需額外執行應於病歷敘明重複執行之原因。
+4.申報費用時須檢附遊戲式聽力檢查報告。
+5.不得同時申報22001C。
+v
+v
+v
+v
+671
+第十七項 眼部檢查Ophthalmology Examination (23001-23813)
+
+通則：本項各種檢查除眼底檢查外，其他各種檢查限由眼科專科醫師施行後申報。
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+一、屈光檢查 Refrauction Ex.(23001~23004)
+23001C
+角膜曲度測定 Ophthalmometry exam (Keratometry)
+v
+v
+v
+v
+60
+23002C
+光覺測定 Light perception
+v
+v
+v
+v
+121
+23003B
+低視能檢查 Low vision test
+
+v
+v
+v
+450
+23004B
+彩色角膜屈度攝影 Photokeratoscopy (color)
+
+v
+v
+v
+410
+二、視網膜檢查 Retina Function Ex.(23101~23104)
+23101C
+色盲檢查 Color blindness test
+v
+v
+v
+v
+38
+23102C
+15 色度檢查 Panel D-15 test
+註：限視網膜機能障礙患者申報。
+v
+v
+v
+v
+70
+23103C
+100 色度檢查 100 hue test
+註：限視網膜機能障礙患者申報。
+v
+v
+v
+v
+145
+23104B
+暗適應試驗 Dark adaptation test
+
+v
+v
+v
+410
+三、斜視檢查 Strabismus Ex.(23201~23208)
+23201C
+立體官能檢查 Synoptometry
+v
+v
+v
+v
+90
+23202C
+四燈融像檢查 Worth-4-dots test
+v
+v
+v
+v
+120
+23203C
+三稜鏡檢查 Prism cover test
+v
+v
+v
+v
+120
+23204C
+立體感視覺檢查 Titmus test
+v
+v
+v
+v
+120
+23205C
+複相檢查 Maddox rod test
+v
+v
+v
+v
+120
+23206C
+眼肌協調檢查 Comitance test
+v
+v
+v
+v
+120
+23207C
+斜視鏡檢查 Cheiroscope
+v
+v
+v
+v
+120
+23208C
+斜視檢查 Squint examination
+v
+v
+v
+v
+80
+四、青光眼檢查 Glaucoma Ex.  (23301~23308)
+23301C
+希厄滋氏眼壓測定 Schiotz's tonometry
+v
+v
+v
+v
+44
+23302C
+壓平式眼壓測定 
+Goldman applantation tonometry
+v
+v
+v
+v
+98
+23303C
+眼壓電圖檢查 Tonography
+v
+v
+v
+v
+250
+23304C
+青光眼點藥激發試驗
+Mydriatic test (provocative test)
+v
+v
+v
+v
+180
+23305C
+氣壓式眼壓測定 Penumotonometry
+v
+v
+v
+v
+135
+23306C
+暗房俯臥激發試驗 Dark room + prone test
+v
+v
+v
+v
+270
+23307B
+飲水激發試驗 Water drinking test
+
+v
+v
+v
+270
+23308B
+眼壓晝夜差別檢查 Diurnal variation
+
+v
+v
+v
+675
+五、細隙燈檢查 Slit Lamp Ex. (23401~23405)
+23401C
+細隙燈顯微鏡檢查 Slit lamp exam
+v
+v
+v
+v
+51
+23402C
+前房隅角鏡檢查 Gonioscope exam
+v
+v
+v
+v
+179
+23403C
+角膜厚度檢查 Pachymetry
+v
+v
+v
+v
+91
+23404C
+角膜內皮細胞顯微檢查
+Corneal endothelial microscope
+v
+v
+v
+v
+493
+23405C
+細隙燈眼接觸鏡眼底檢查
+Slit lamp contact mirror funduscopy
+v
+v
+v
+v
+276
+六、眼底檢查 Fundus Ex..(23501~23506)
+23501C
+眼底檢查 Funduscopic exam
+v
+v
+v
+v
+62
+23502C
+眼底彩色攝影
+Fundus color photo picture/picture  每張
+註：
+1.病歷應檢附特殊影像照片備查。
+2.如再次執行應間隔二個月以上，因病情變化需再次執行，應詳載原因。
+v
+v
+v
+v
+43
+23503C
+超音波檢查（A掃瞄）Echo exam (A.scan)
+v
+v
+v
+v
+201
+23504C
+超音波檢查（ B掃瞄）Echo exam (B.scan)
+v
+v
+v
+v
+540
+23505C
+螢光眼底血管攝影術
+Fluorescein angiography (FAG)
+v
+v
+v
+v
+1004
+23506C
+微細超音波檢查 Microsonography
+註：
+本項檢查有下列四種形式：
+1.UBM(Uetrobiomicrosonography)。
+2.OCT(Optical Coherent Tomography)。
+3.HRT(Heiderburg Retina Tomography)。
+4.眼部血管超音波檢查，包括 central retinal artery 及 ophthalamic artery。                                                                                              
+v
+v
+v
+v
+600
+七、視神經檢查 Medical & Neuro-ophthalmological Ex. (23601~23610)
+23601C
+周邊視野檢查 Visual field exam.(perimetry)
+v
+v
+v
+v
+225
+23602C
+中心視野檢查 Scotometry
+v
+v
+v
+v
+217
+23605C
+眼球突出測定 Exophthalmometry
+v
+v
+v
+v
+40
+23606C
+複視檢查 Diplopia test ( Hess chart test,…etc)
+v
+v
+v
+v
+127
+23607C
+靜態視野檢查 Static visual field examination
+v
+v
+v
+v
+400
+23608C
+動態視野檢查 Kinetic visual field examination
+v
+v
+v
+v
+225
+23609C
+電腦自動視野儀檢查— Threshold
+Automated perimetry — Threshold
+註：屬西醫基層總額部門院所，除山地離島地區外，限由專任醫師開立處方及執行始可申報。 
+v
+v
+v
+v
+862
+23610C
+電腦自動視野儀檢查— Screen
+Automated perimetry — Screen
+v
+v
+v
+v
+424
+八、網膜電氣圖 Nasolacrimal Apparatus (23701~23707)
+23701C
+淚液分泌機能檢查 Schirmer test
+v
+v
+v
+v
+55
+23702C
+間接式眼底鏡檢查 Indirect ophthalmoscopy
+v
+v
+v
+v
+180
+23703B
+網膜電圖檢查 Electro-retinography (ERG)
+註：限眼底檢查患者無法診斷確定者申報。
+
+v
+v
+v
+676
+23704B
+眼電圖檢查 Electro-oculogram (EOG)
+
+v
+v
+v
+750
+23705B
+眼肌電圖檢查 Electromyogram (EMG)
+
+v
+v
+v
+468
+23706C
+角膜活體螢光細胞染色檢查
+Fluorescein stain of cornea
+註：不得同時申報23401C。
+v
+v
+v
+v
+80
+23707B
+眼激發電位圖檢查 Visual evoked potential
+
+v
+v
+v
+675
+九、其他 Others (23801~23813)
+23801C
+不等視檢查 Anisometropia examination
+v
+v
+v
+v
+135
+23802B
+角膜活體細胞染色 Rose bengal stain of cornea
+
+v
+v
+v
+100
+23803C
+瞳孔散大 Pupil dilatation
+v
+v
+v
+v
+40
+23804C
+角膜真菌暗視野檢鏡
+Fungus dark field examination
+v
+v
+v
+v
+90
+23805C
+結膜脫離細胞檢鏡 Conjunctival scraping
+v
+v
+v
+v
+90
+23806C
+眼瞼下垂試驗 Tensilon or neostigmine test
+v
+v
+v
+v
+300
+23807C
+人工水晶體度數超音波生物計測儀測定 DBR
+註：限人工晶體 (IOL)裝置申報。
+v
+v
+v
+v
+362
+23809C
+視網膜裂孔位置測定
+Localization of retinal break
+v
+v
+v
+v
+290
+23810B
+眼動脈壓測量 Ophthalmodynamometer
+
+v
+v
+v
+405
+23811C
+外眼部攝影檢查 External eye photography
+v
+v
+v
+v
+150
+23812C
+弱視檢查 Amblyopia examination
+v
+v
+v
+v
+400
+23813B
+ICG 眼底血管攝影
+Indocyanine green (ICG) angiography
+註：限螢光眼底血管攝影術(23505C)檢查法所無法表現之脈絡膜新生血管(CNB)患者申報。
+
+v
+v
+v
+1277
+
+第十八項 負荷試驗Loading Test (24001-24029)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+24003B
+血漿體抑制素 Plasma somatostatin
+
+v
+v
+v
+160
+24007B
+血漿游離鈣測定 Plasma free Ca++
+
+v
+v
+v
+400
+24008B
+胰島素降血糖刺激試驗
+Insulin hypoglycemic stimulation test
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：09005C*5次，27008B*5次。
+2.針劑藥費另計。
+
+v
+v
+v
+1800
+24009C
+口服葡萄糖耐量試驗(五次血糖測定)
+Oral glucose tolerance test(5 blood glucose measurements)
+註：本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：09005C*5次。
+v
+v
+v
+v
+313
+24010B
+靜脈注射葡萄糖耐量試驗
+Intravenous glucose stimulation test
+註：本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：09005C*5次及27015C*7次。
+
+v
+v
+v
+1257
+24011B
+靜脈點滴鈣試驗 
+Calcium infusion test
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：09005C*5次、09011C*5次及27015C *5次。
+2.針劑藥費另計。
+
+v
+v
+v
+1191
+24012B
+水負荷試驗 Water loading test
+
+v
+v
+v
+180
+24013B
+鹽水負荷試驗 
+Saline loading test
+註：本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27032B*2次，27031B*2次。
+
+v
+v
+v
+1235
+24014B
+高張性鹽水負荷試驗
+Hypertonic saline loading test
+
+v
+v
+v
+300
+24015B
+脫水試驗
+Water deprivation test
+註：本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：06503B*8次及08075C*8次。
+
+v
+v
+v
+2060
+24016B
+脫水與抗利尿激素試驗
+Water deprivation + DDAVP test
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：06503B*8次及08075C*8次。
+2.針劑藥費另計。
+
+v
+v
+v
+2060
+24017B
+脫水與口服 Tegretol 試驗
+Water deprivation + tegretol test
+註：本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：06503B*8次及08075C*8次。
+
+v
+v
+v
+2060
+24018B
+促腎上腺皮質素刺激試驗
+ACTH stimulation test
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27006B*5次。
+2.針劑藥費另計。
+
+v
+v
+v
+1145
+24027B
+黃體激素釋放素刺激試驗
+LHRH Test
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27014B*6次及27013B*6次。
+2.針劑藥費另計。
+
+v
+v
+v
+1834
+24019B
+運動試驗與生長激素測定 
+Exercise test for GH
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27008B*2次。
+2.針劑藥費另計。
+
+v
+v
+v
+567
+24020B
+口服 L-dopa 與生長激素測定 
+L-dopa test for GH
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27008B*5次。
+2.針劑藥費另計。
+
+v
+v
+v
+1265
+24021B
+小腸內泌素試驗 
+Secretin test
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27016B*6次。
+2.針劑藥費另計。
+
+v
+v
+v
+895
+24022B
+六胃泌激素試驗 
+Pentagastrin test
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27068B*4次。
+2.針劑藥費另計。
+
+
+v
+v
+v
+720
+24023B
+類胰島素成長因子
+Somatomedine C 
+(insulin-like growth factor 1)
+
+v
+v
+v
+480
+24024B
+Clonidine刺激試驗與生長激素測定
+Clonidine stimulation test for HGH
+註：1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27008B*5次。
+2.針劑藥費另計。
+
+v
+v
+v
+1307
+24025B
+升糖素刺激試驗與生長激素測定
+Glucagon Test for HGH
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：27008B*8次及09005C*5次。
+2.針劑藥費另計。
+
+v
+v
+v
+2110
+24028B
+升糖素刺激試驗與胰臟β-細胞功能測定Glucagon Test for β-cell function
+註：
+1.本項試驗點數除包含通則所述之各項費用外，另包含下列檢驗費：09005C*6次及27022B*6次。
+2.針劑藥費另計。
+
+v
+v
+v
+1049
+24026B
+胰島素刺激生長激素測定
+Insulin stimulation test for G. H.
+
+v
+v
+v
+540
+24029B
+空腹及口服75公克葡萄糖兩小時後血漿葡萄糖測定 Plasma glucose(fasting and 2 hours post 75 gm oral glucose loading)
+
+v
+v
+v
+144
+
+註：
+1.本項試驗點數除包括通則所述之各項費用外，另包括下列檢驗費：09005C*2次。
+2.不得與24009C同時併報。
+3.適應症：限於空腹或餐後血糖異常但未達診斷糖尿病標準者實施。
+
+
+
+
+
+第十九項 病理組織檢查Specimen Examination (25001-25026)
+
+通則：
+一、申報費用時，應檢附經解剖病理或口腔病理專科醫師簽名與加註專科醫師證書字號之病理報告。
+二、活體切片檢查如為委託他處檢查時，按表定點數申報。編號為25001C至25004C、25024C至25025C者，包裝及郵寄費用得依表訂點數加計百分之十。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+25001C
+第一級外科病理，眼觀檢查
+Surgical pathology Level Ⅰ, Gross examination only
+註：如異物(金屬、玻璃、結石、寄生蟲等)。
+v
+v
+v
+v
+266
+25002C
+第二級外科病理，組織鏡檢確認
+Surgical pathology Level Ⅱ
+註：附帶切除之闌尾、包皮(包莖)、疝氣囊、陰囊水腫、胃迷走神經切除、皮膚(整形修復)、交感神經結、睪丸(閹割性睪丸切除)、創傷性之指頭截肢、結紮之輸卵管、附帶切除之陰道壁、輸精管結紮。
+v
+v
+v
+v
+816
+25003C
+第三級外科病理
+Surgical pathology Level III
+註：人工流產、膿瘍、動脈瘤、肛門息肉、闌尾炎、粥狀動脈硬化、Bartholin氏囊腫、非病理性骨折之骨碎片、關節囊腫、腕部隧道症、軟骨刮削、膽脂瘤、結腸造口術、結膜切片/翼狀胔肉、雞眼、角膜、食道及小腸憩室病、Dupuytren's contracture、股骨頭(非骨折性)、纖維脂肪瘤、瘻管、包皮(包皮炎，尖狀濕疣)、膽囊、腱鞘囊腫、血腫、痔瘡、Morgagni囊、椎間盤突出、關節游離體、關節半月板、黏液囊腫、外傷性神經瘤、藏毛瘻管、鼻腔及鼻竇發炎性息肉、皮膚囊腫/皮膚息肉/皮膚清創術、軟組織清創術、脂肪瘤、精液囊腫、肌腱、睪丸附屬器官、血栓、口腔及鼻咽扁桃腺或腺樣組織、精索靜脈曲張、靜脈曲張、輸精管(非結紮)。
+
+
+
+v
+v
+v
+v
+1014
+25004C
+第四級外科病理
+Surgical pathology Level IV
+註：自然流產、動脈切片、骨髓切片、外生骨疣、腦/腦膜(非腫瘤)、乳房切片(不需margin)如fibrocystic change、乳房縮小整形術、支氣管切片、子宮頸切片、結腸切片、十二指腸切片、子宮頸/子宮內膜息肉、結腸直腸息肉切除、尖性濕疣、皮纖維瘤、子宮內頸刮除術/切片、子宮內膜刮除術/切片、食道切片、創傷性之肢體截肢、輸卵管切片、股骨頭骨折、非創傷性之指頭截肢、牙齦/口腔黏膜切片、心臟瓣膜、血管瘤、皮內痣、關節切除置換、瘢瘤、腎臟切片、喉部切片、子宮肌瘤切除術、唇切片、經支氣管肺切片、淋巴結切片、肌肉切片、鼻黏膜切片、鼻咽或口咽切片、神經切片、牙源性囊腫、網膜切片、卵巢切除(非腫瘤)、卵巢切片、鼻竇切片、副甲狀腺切除、腹膜切片、腦下垂體腫瘤、胎盤(非懷孕後三個月)、肋膜/心包膜切片、子宮脫垂(有或無輸卵管及卵巢)、前列腺細針切片、攝護腺刮除、唾液腺切片、皮脂漏性角化病、皮膚-(非囊腫/非息肉/非清創/非整形標本)、小腸切片、軟組織-(非腫瘤/非脂肪瘤/非清創標本)、脾臟、胃切片、胃/小腸息肉切除、滑液膜、睪丸-(非腫瘤/非切片/非閹割)、甲狀腺舌管鰓裂囊腫、舌切片、扁桃腺切片、氣管切片、毛髮上皮瘤、輸卵管異位懷孕、輸尿管切片、尿道切片、膀胱切片、陰道切片、尋常疣、會陰切片。
+v
+v
+v
+v
+1741
+25024C
+第五級外科病理
+Surgical pathology Level V
+註：腎上腺切除、骨切片、病理性骨折之骨碎片、乳房腫瘤切除(需要檢查margin)、乳房切除(不含淋巴結)、腦切片、腦/腦膜(腫瘤)、子宮頸圓錐狀切除、膽囊癌膽囊切除、非腫瘤的結腸切除、非創傷性之肢體截肢、眼摘除、腎臟部份或全部切除、喉部分及全部切除(不含淋巴結)、肝臟切片、肝臟部分切除、肺臟楔形切片、淋巴腺摘除、縱隔腔腫瘤、心肌切片、牙源性腫瘤、器官移植(角膜除外)、卵巢腫瘤、胰臟切片、胎盤(懷孕後三個月)、前列腺非根除性切除、唾液腺切除、前哨淋巴結切除、非腫瘤的小腸切除、軟組織切片或簡單切除(非脂肪瘤)、非腫瘤的胃切除、睪丸切片、胸腺腫瘤、甲狀腺切除、輸尿管切除、經尿道膀胱腫瘤切除、子宮切除/子宮肌瘤及非脫垂(有或無輸卵管及卵巢)。
+v
+v
+v
+v
+2778
+25025C
+第六級外科病理
+Surgical pathology Level VI
+註：骨切除(腫瘤)、乳房切除(含淋巴結)、結腸切除(腫瘤)、食道部分及全部切除、截肢(關節截斷)、胎兒、喉部分及全部切除(含淋巴結)、肺葉切除、胰臟部份或全切除、前列腺根除性切除、小腸切除(腫瘤)、軟組織腫瘤廣泛性切除、胃部份或全部切除(腫瘤)、睪丸腫瘤、舌/扁桃腺腫瘤根除性切除、膀胱部分或全部切除、子宮切除/腫瘤性(有或無輸卵管及卵巢)、會陰全部或部分切除。
+v
+v
+v
+v
+4302
+25006B
+冰凍切片檢查 Frozen section
+註：
+1.含該一冷凍切片製成之石蠟切片。
+2.同一病例限申報一次。
+3.同一病例冷凍切片後之剩餘標本(含後送標本)，得依上述外科病理第一級至第六級之標準另行申報。
+
+v
+v
+v
+5618
+25007B
+細胞遺傳學檢查 Cytogenetics
+註：
+1.含染色體檢查。
+2.主要適用於下列疾病之治療：
+(1)血液惡性腫瘤的診斷與治療。
+(2)骨髓移植病人的治療及追蹤。
+(3)泛骨髓移植低下症(pancytopenia)。
+(4)骨髓增生病變的診斷及治療追蹤。
+(5)骨髓造血機能異常病人診斷及治療追蹤。
+3.除通則一所列兩種專科醫師外，亦得檢附遺傳專科醫師簽名與加註專科醫師證書字號之細胞遺傳學檢查報告，另血液疾病患者之檢查亦得檢附血液病專科醫師簽名與加註專科醫師證書字號之細胞遺傳學檢查報告。
+
+v
+v
+v
+11871
+25009B
+肌肉病理切片檢查（冷凍特殊染色）
+Muscle biopsy
+
+v
+v
+v
+2182
+25010B
+組織化學染色第一類
+Histochemical stain group Ⅰ
+註：除第二類以外之其他。
+
+v
+v
+v
+450
+25011B
+組織化學染色第二類
+Histochemical stain group Ⅱ
+註：結核桿菌鑑定及酵素化學染色。
+
+v
+v
+v
+1200
+25012B
+免疫組織化學染色(每一抗體)
+Immunohistochemical stains, each antibody
+註：
+1.每例(同次門診或同次住院)以申報五種抗體為限。
+2.若屬下列特殊診斷種類，則申報以十種抗體為限。
+(1)淋巴瘤(lymphoma)
+(2)雙側乳癌病理檢體(bilateral breast cancer specimens)
+(3)不明原發部位惡性腫瘤(cancer of unknown primary)
+(4)惡性及來源行為不明性骨及軟組織腫瘤(malignant tumors of soft tissue, bone, and tumors of uncertain differentiation)
+
+v
+v
+v
+1354
+25013B
+螢光切片檢查第一類(每一抗體)
+Immunofluorescence group I, each antibody
+註：直接性螢光切片檢查(direct immunofluorescence)。
+
+v
+v
+v
+4217
+25026B
+螢光切片檢查第二類
+Immunofluorescence group II
+註：間接性螢光切片檢查(indirect immunofluorescence)。
+
+v
+v
+v
+5010
+25014B
+電子顯微鏡切片檢查
+Electron microscopy
+
+v
+v
+v
+12391
+25021B
+染色體檢查(特殊)
+Chromosomal analysis , special
+註：
+1.限衛生福利部認證之遺傳諮詢中心申請實施。
+2.人員資格依遺傳諮詢中心相關規定辦理。
+3.本項目如已申請衛生福利部補助者，本保險不另支付該次檢查費用。
+4.如做為一般性篩檢者，非屬本保險給付範圍。
+5.每一個案限給付一次。
+
+v
+v
+v
+4067
+25022B
+DOPA 反應
+DOPA reaction
+
+v
+v
+v
+450
+25023B
+非直接免疫螢光檢查 
+Indirect immunofluorescence
+
+v
+v
+v
+614
+第二十項 核子醫學檢查Radioisotope Scanning
+
+一、造影 Scanning (26001-26078、P2105-P2108)
+通則：
+(一)本項所定點數包括放射性藥物、注射、技術費、底片費及診斷費在內。
+(二)本項各檢查項目，除編號P2105C、P2106C、P2107C及P2108C外，其餘皆為兒童加成項目，意指病人年齡未滿六個月者，依表定點數加計百分之六十；年齡在六個月以上至未滿二歲者，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之二十；但所有特材一律不加計。
+(三)編號P2105C至P2108C適用下列規定：
+1.保險對象經醫師診治因病情需要，得由第二次處方院所檢具「全民健康保險特殊造影檢查影像及報告申請同意書」向原檢查醫院申請特殊造影檢查影像報告，以供診斷疾病之參考，若參考後仍重新施行檢查，則不得申報本項費用。本項申請程序、同意書格式、受理與回饋及作業流程圖等全民健康保險特殊造影檢查影像及報告作業說明，請至保險人全球資訊網(網址http://www.nhi.gov.tw)下載，資料路徑如下：首頁 > 健保表單下載 > 醫療相關表單 > 特殊造影檢查影像及報告申請(原特定檢查資源共享試辦計畫)。
+2.原檢查醫院提供特殊造影檢查影像及報告費，所訂點數包含檢查報告、製作影像、傳輸影像、造影複製片、X光底片、行政管理及郵寄等費用在內；第二次處方院所申請特殊造影檢查影像及報告費，所訂點數除鼓勵資源共享外，並包含影像下載、診斷判定費、底片整理及相關行政等費用在內。
+3.保險對象特殊造影檢查影像及報告於原檢查醫院及第二次處方院所間之提供與申請，以乙次為限；病人自行攜帶複製片，經第二次處方院所使用並作成診斷報告，給予第二次處方院所申請特殊造影檢查影像及報告費。
+4.影像之提供得以PACS(Picture Archiving and Communication System，影像儲存及傳輸管理系統)、中央主管機關之全國醫療影像交換中心或複製片等方式提供。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+26001B
+腦掃描 Brain scan
+
+v
+v
+v
+2160
+26002B
+淚囊閃爍攝影檢查  
+Dacryoscintigraphy
+
+v
+v
+v
+1502
+26003B
+腦脊髓液動態檢查
+CSF dynamic study
+
+v
+v
+v
+2466
+26004B
+鎝-99m甲狀腺掃描 Tc99m thyroid scan
+
+v
+v
+v
+1346
+26005B
+碘-131甲狀腺掃描及24小時攝取量測定
+I-131 thyroid scan and 24 hrs uptake
+
+v
+v
+v
+1332
+26006B
+碘-131單一攝取量測定
+I-131-uptake (1,3,6 or 24hrs)
+
+v
+v
+v
+801
+26007B
+三碘甲狀腺素抑制試驗
+T3 suppression test with uptake
+
+v
+v
+v
+878
+26008B
+三碘甲狀腺素抑制試驗甲狀腺掃描
+T3 suppression with scan
+
+v
+v
+v
+836
+26009B
+甲狀腺刺激素試驗 TSH stimulation test
+
+v
+v
+v
+893
+26010B
+甲狀腺刺激素試驗及甲狀腺掃描
+TSH stimulation test with scan
+
+v
+v
+v
+1658
+26011B
+碘-131頸及胸部掃描 I-131 neck & chest scan
+
+v
+v
+v
+1766
+26012B
+碘-131癌症追蹤檢查 I-131 cancer work-up
+
+v
+v
+v
+2693
+26013B
+鉈-201癌症追蹤檢查 Tl-201 cancer work-up
+
+v
+v
+v
+4868
+26014B
+肺灌注檢查
+Lung perfusion scan
+
+v
+v
+v
+2250
+26015B
+肺通氣檢查 Lung ventilation study
+
+v
+v
+v
+2694
+26016B
+肝脾臟掃描 Liver and spleen scan
+
+v
+v
+v
+2035
+26017B
+全身骨髓檢查
+whole body Bone marrow scan
+
+v
+v
+v
+4000
+26018B
+異位胃黏膜掃描
+Ectopic gastric mucosa scan
+
+v
+v
+v
+2024
+26019B
+陰囊攝影 Scrotal scan
+
+v
+v
+v
+1952
+26020B
+腎臟掃描  Renal scan
+
+v
+v
+v
+1899
+26021B
+腎上腺掃描 Adrenal scan
+
+v
+v
+v
+12337
+26023B
+心肌梗塞攝影  Myocardial infarct study
+
+v
+v
+v
+1997
+26024B
+靜態心肌斷層灌注掃描
+Resting myocardial perfusion study with SPECT
+註：含SPECT(26049B)。
+
+v
+v
+v
+4959
+26025B
+壓力與重分佈心肌斷層灌注掃描
+Stress & redistribution myocardial perfusion study with SPECT
+註：
+1.壓力掃描包括使用藥物如Persantin等之刺激或是運動如跑步機、腳踏車等之刺激後再進行掃描。
+2.含26024B及26049B。
+
+v
+v
+v
+6328
+26026B
+邁克氏憩室掃描 Meckle's diverticulum scan
+
+v
+v
+v
+2051
+26027B
+靜脈檢查 Venography
+
+v
+v
+v
+1833
+26028B
+動脈檢查 Arteriography
+
+v
+v
+v
+1852
+26029B
+全身骨骼掃描 Whole body bone scan
+
+v
+v
+v
+2352
+26030B
+全身腫瘤掃描 Whole body tumor scan
+
+v
+v
+v
+6500
+26031B
+全身炎症掃描 Whole body inflammation scan
+
+v
+v
+v
+5070
+26032B
+血漿量測定
+Plasma volume
+
+v
+v
+v
+1374
+26033B
+紅血球量測定
+Red cell volume
+
+v
+v
+v
+1331
+26034B
+紅血球壽命測定
+Red cell survival
+
+v
+v
+v
+2020
+26035B
+脾臟分隔檢查
+Spleen sequestration
+
+v
+v
+v
+2250
+26036B
+鎝99m 紅血球肝脾臟攝影（用紅血球）
+Tc-99m RBC liver/spleen scan
+
+v
+v
+v
+2268
+26037B
+鐵59 鐵動力學檢查
+Fe-59 ferrokinetics study
+註：包括血清鐵測定。
+
+v
+v
+v
+5786
+26038B
+碘-131治療
+I-131I treatment 每1 mci per 1 mci
+
+v
+v
+v
+478
+26039B
+碘-125纖維蛋白原吸收試驗
+I-125 fibrinogen uptake test
+
+v
+v
+v
+1964
+26040B
+肝膽道閃爍攝影
+Cholescintigraphy
+
+v
+v
+v
+2643
+26041B
+施靈氏試驗  Schilling test
+
+v
+v
+v
+2168
+26042B
+磷-32 真性位血球過多症治療
+32P treatment for polycythemia vera
+
+v
+v
+v
+1360
+26043B
+核醫肺功能檢查
+Pulmonary function test
+
+v
+v
+v
+2800
+26044B
+心室搏出分率測定
+Ventricular ejection fraction measurements
+
+v
+v
+v
+1813
+26045B
+心室搏出分率及心室壁活動測定
+Ventricular ejection fraction measurement &  wall motion study
+
+v
+v
+v
+2372
+26046B
+甲狀腺素服用後碘-131之攝取測定
+I-131 uptake after thyroxine intake
+
+v
+v
+v
+960
+26047B
+靜態核醫心臟功能檢查 Resting cardiac function study
+
+v
+v
+v
+2250
+26048B
+壓力心臟功能檢查 
+Stress cardiac function study
+
+v
+v
+v
+3150
+26049B
+核子斷層檢查術  SPECT
+
+v
+v
+v
+1200
+26050B
+動態腎/泌尿功能測定 
+Dynamic renal/urinary function study
+
+v
+v
+v
+2370
+26071B
+介入性動態腎/泌尿功能測定
+Dynamic renal/urinary function study after intervention
+
+v
+v
+v
+3136
+26051B
+唾腺閃爍攝影
+Sialoscintigraphy
+
+v
+v
+v
+2124
+26052B
+分流/腹膜腔/胸膜腔掃描 
+Shunt/peritoneal/pleural scan
+
+v
+v
+v
+2010
+26053B
+食道通過檢查
+Esophageal transit study
+
+v
+v
+v
+1966
+26054B
+胃腸道運動性檢查
+Gastrointestinal motility study
+
+v
+v
+v
+2430
+26055B
+副甲狀腺掃描
+Parathyroid scan
+註：限副甲狀腺腫瘤及術後復發功能亢進病患實施。
+
+v
+v
+v
+5349
+26056B
+過氯酸鉀釋放試驗
+Perchlorate discharge test
+註：限甲狀腺碘化功能不良病患實施。
+
+v
+v
+v
+1500
+26057B
+三相骨骼掃描
+Three-phase bone scan
+
+v
+v
+v
+2260
+26058B
+薦腸關節定量檢查  
+Quantitative sacroiliac scan
+
+v
+v
+v
+1870
+26059B
+全身肌肉攝影
+Whole body muscle scan
+
+v
+v
+v
+2082
+26060B
+核醫出血檢查
+Bleeding scan
+
+v
+v
+v
+2770
+26061B
+脂肪肝試驗
+Fatty liver study
+
+v
+v
+v
+2250
+26062B
+胃排空測定
+Gastric emptying study
+
+v
+v
+v
+2544
+26063B
+腦質斷層灌注掃描
+Cerebral perfusion scan with SPECT
+註：不得同時申報26049B。
+
+v
+v
+v
+9254
+26070B
+淋巴閃爍攝影
+Lymphoscintogram
+
+v
+v
+v
+2664
+
+註：雙側肢體應合併以一次申報。
+
+
+
+
+
+
+正子造影 Positron emission tomography (PET)
+
+
+
+
+
+26072B
+－全身
+
+v
+v
+v
+36500
+26073B
+－局部
+
+v
+v
+v
+26500
+
+正子造影原檢查醫院提供特殊造影檢查影像及報告費
+
+
+
+
+
+P2105C
+－全身
+
+v
+v
+v
+2445
+P2106C
+－局部
+
+v
+v
+v
+1340
+
+正子造影第二次處方院所申請特殊造影檢查影像及報告費
+
+
+
+
+
+P2107C
+－全身
+
+v
+v
+v
+2445
+P2108C
+－局部
+
+v
+v
+v
+1340
+
+註：實施本項目須符合
+1. 腫瘤部分之適應症：
+(1)乳癌、淋巴癌之分期、治療及懷疑復發或再分期。
+
+
+
+
+
+
+(2)大腸癌、直腸癌、食道癌、頭頸部癌(不包含腦瘤)、原發性肺癌、黑色素癌、甲狀腺癌及子宮頸癌之分期及懷疑復發或再分期。
+(3)上述(1)(2)之分期，治療及懷疑復發或再分期及相關規範如下：                  
+A.分期：評估腫瘤之期別。
+B.治療：評估腫瘤對治療之反應，擬改變治療方式時。
+
+
+
+
+
+
+C.懷疑復發或再分期：使用於患者已接受一階段之正統治療後，偵測疑似有復發或轉移及評估復發之程度(不得用於例行之追蹤檢查)。
+
+
+
+
+
+
+D.以上各階段須符合：經電腦斷層、核磁共振、核子醫學掃瞄等檢查仍無法分期者，或認定電腦斷層、核磁共振等檢查不足以提供足夠資訊以供治療所需者，且須於病歷中說明施行正子造影之必要性理由。                                               
+E.配合腫瘤治療計畫者方得以正子造影作為療效評估項目，未有後續積極處置之計畫者，不得施行。
+2. 非腫瘤部分之適應症：
+(1)存活心肌偵測：限LVEF≦40%以下且以(或認定)傳統心肌斷層灌注掃描無法做確切心肌存活者適用。
+(2)癲癇病灶術前評估：持續且規則性服用三種(含)以上抗癲癇藥物治療≧一年，且近一年內平均每月有一次以上發作合併意識喪失者之術前評估。
+
+
+
+
+
+26074C
+碘-131癌症追蹤檢查-施打Thyrogen
+註：
+1.適應症：
+(1)甲狀腺癌復發或轉移之患者。
+(2)不適合停用T4之甲狀腺癌患者進行檢查或治療之準備。
+2.本項須個案申請事前審查。
+v
+v
+v
+v
+19475
+26075B
+氟-18氟化鈉正子造影
+註：
+1.限病患需施行全身骨骼掃描時，無法取得Tc-99m時申報。
+2.不得同時申報26029B。
+3.申報費用應檢附報告。
+
+v
+v
+v
+15713
+26076B
+全身骨骼掃描-Tc-99m
+註：
+1.限施行26029B時，Tc-99m全球缺貨取得成本增加時併同26029B申報。
+2.不得同時申報26075B。
+
+v
+v
+v
+750
+26077B
+鎝-99m TRODAT-1腦部多巴神經元斷層造影
+註：
+1.適應症：動作障礙疾病包括巴金森氏病、非典型巴金森症(含多發性神經系統退化症、血管性巴金森症、藥物誘發性巴金森症、重金屬中毒等)以及先天性多巴胺神經系統酵素異常之鑑別診斷。
+2.不得同時申報26049B。
+
+v
+v
+v
+8750
+26078A
+鐳223治療處置費
+Radium-223 treatment
+註： 
+1.適用範圍：去勢抗性攝護腺癌（castration-resistant prostate cancer），合併有症狀之骨轉移且尚未有臟器轉移者（ICD-10-CM診斷為C61攝護腺惡性腫瘤、C79.5骨骼續發性惡性腫瘤）。
+2.執行頻率：每四週一次，每四週為一療程，共六次療程。 
+3.使用規範及人員資格：
+(1)操作人員：
+A.核子醫學科專科醫師。
+B.受過核子醫學相關訓練之醫事放射師。
+C.受過核子醫學相關訓練之護理師。
+(2)上開人員均應符合游離輻射防護法相關規定。
+(3)特殊設備要求使用：經原子能業務主管機關評估可操作「鐳-223」之場所，應檢具放射性物質許可證。
+(4)費用申報時應檢具癌症治療計畫書、治療去勢抗性攝護腺癌病歷紀錄及骨轉移之影像學報告等資料。
+4.本項不含鐳223注射液。
+
+
+v
+v
+21430
+二、試管Tube Method (27001-27083)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+27001C
+甲狀腺原氨酸放射免疫分析 T3 (Triidothyronine)
+v
+v
+v
+v
+315
+27002B
+甲狀腺原氨酸攝取率檢查　T3 uptake
+
+v
+v
+v
+164
+27003B
+甲狀腺素放射免疫分析 T4 (Thyroxine)
+
+v
+v
+v
+300
+27004C
+甲狀腺刺激素放射免疫分析
+TSH (thyroid stimulating hormone)
+v
+v
+v
+v
+300
+27005B
+游離甲狀腺素指數分析　FTI
+
+v
+v
+v
+500
+27006B
+皮質素放射免疫分析 Cortisol
+註：游離皮質素 (free cortisol) 比照申報。
+
+v
+v
+v
+300
+27007B
+球蛋白Ｅ放射免疫分析 IgE
+
+v
+v
+v
+360
+27008B
+生長激素放射免疫分析
+HGH (human growth hormone)
+
+v
+v
+v
+288
+27009B
+胎盤生乳激素放射免疫分析
+HPL (human placental lactegen)
+
+v
+v
+v
+270
+27010B
+絨毛膜促性腺激素－乙亞單體
+β-HCG(human chorionic gonadotropin-β)
+
+v
+v
+v
+250
+27011B
+催乳激素放射免疫分析 PRL (prolactin)
+
+v
+v
+v
+253
+27012B
+春情素醇放射免疫分析 E3 (estriol)
+
+v
+v
+v
+225
+27013B
+濾胞刺激素放射免疫分析
+FSH (follicle stimulating hormone)
+
+v
+v
+v
+225
+27014B
+黃體化激素放射免疫分析
+LH (leuteinizing hormone)
+
+v
+v
+v
+225
+27015C
+胰島素放射免疫分析 Insulin
+註：胰島素抗體效價 (insulin Ab titer) 比照申報。
+v
+v
+v
+v
+181
+27016B
+胃泌激素放射免疫分析 Gastrin
+
+v
+v
+v
+225
+27017B
+鐵蛋白放射免疫分析 Ferritin
+
+v
+v
+v
+300
+27018B
+Ａ型肝炎放射免疫分析 Anti-HAV
+
+v
+v
+v
+300
+27019B
+二氫基春情素放射免疫分析 Estradiol (E2)
+
+v
+v
+v
+240
+27020B
+黃體脂酮放射免疫分析 Progesterone
+
+v
+v
+v
+270
+27021B
+睪丸脂醇放射免疫分析 Testosterone
+
+v
+v
+v
+225
+27022B
+Ｃ－胜鍊胰島素放射免疫分析 C-Peptide
+
+v
+v
+v
+225
+27023B
+免疫球蛋白Ｅ補體結合反應 Reaginic IgE
+註：包括家塵、黴菌、牛乳、蛋
+    (include housedust, fungi, milk, egg etc)。
+
+v
+v
+v
+480
+27024B
+碳－端副甲狀腺素放射免疫分析 
+C-terminal PTH
+
+v
+v
+v
+410
+27025B
+MM－副甲狀腺素放射免疫分析
+PTH－MM
+
+v
+v
+v
+480
+27026B
+Intact副甲狀腺素放射免疫分析 Intact PTH
+
+v
+v
+v
+480
+27027B
+游離甲狀腺素放射免疫分析 Free T4
+
+v
+v
+v
+260
+27028B
+維生素B12 放射免疫分析 Vitamin B12
+
+v
+v
+v
+240
+27029B
+葉酸放射免疫分析 Folic acid
+
+v
+v
+v
+225
+27030B
+攝護腺酸性磷酸鹽酵素放射免疫分析 PAP
+Prostatic acid phosphatase
+
+v
+v
+v
+240
+27031B
+醛類脂醇放射免疫分析 
+Aldosterone
+
+v
+v
+v
+320
+27032B
+血漿腎活素活性放射免疫分析
+PRA (Plasma renin activity)
+
+v
+v
+v
+400
+27033C
+Ｂ型肝炎表面抗原放射免疫分析 HBsAg
+v
+v
+v
+v
+200
+27034B
+Ｂ型肝炎表面抗體放射免疫分析 Anti-HBs
+
+v
+v
+v
+300
+27035B
+Ｂ型肝炎e抗原放射免疫分析 HBeAg
+
+v
+v
+v
+300
+27036B
+Ｂ型肝炎e抗體放射免疫分析 Anti-HBe
+
+v
+v
+v
+300
+27037B
+Ｂ型肝炎核心抗體放射免疫分析 Anti-HBc
+
+v
+v
+v
+300
+27038B
+Ｂ型肝炎核心抗體免疫球蛋白Ｍ檢查 Anti-HBc IgM
+
+v
+v
+v
+315
+27039C
+Ｂ型肝炎表面抗體效價檢查 Anti-HBs titer
+v
+v
+v
+v
+128
+27040B
+Ａ型肝炎免疫球蛋白Ｍ放射免疫分析 Anti-HAV IgM
+
+v
+v
+v
+240
+27041B
+Ａ型肝炎抗體 Anti HAV
+
+v
+v
+v
+240
+27042B
+D型肝炎抗體 Anti-Delta
+
+v
+v
+v
+370
+27043B
+普卡因醯胺放射免疫分析 Procainamide (RIA)
+
+v
+v
+v
+520
+27044B
+膽汁酸 Bile acid
+
+v
+v
+v
+200
+27045B
+環孢靈素Ａ Cyclosporin-A
+
+v
+v
+v
+1400
+27046B
+全鐵結合量  TIBC
+
+v
+v
+v
+300
+27047B
+未飽合鐵結合量  UIBC
+
+v
+v
+v
+300
+27048B
+毛地黃  Digoxin
+
+v
+v
+v
+320
+27049B
+甲－胎兒蛋白  AFP
+
+v
+v
+v
+360
+27050C
+胚胎致癌抗原  CEA
+v
+v
+v
+v
+400
+27051B
+β-2微小球蛋白  β-2 microglobulin
+
+v
+v
+v
+360
+27052C
+攝護腺特異抗原  
+Prostate specific antigen(PSA)
+註：
+1.適用範圍：
+(1)符合下列任一條件之五十歲以上男性或四十五歲以上有攝護腺癌家族病史男性，得每年檢測攝護腺特異抗原(PSA)一次：
+A.超音波檢查發現攝護腺腫大者。
+B.肛門指診發現攝護腺腫大、攝護腺硬塊或表面不規則。
+(2)PSA值檢測異常者，一週後可再複檢一次，其後得每半年檢測PSA一次；PSA值超過10ng/ml，得每三個月檢測PSA一次。
+(3)接受5α-還原酶抑制劑治療者，得每半年檢測PSA一次。
+(4)男性罹患排尿障礙。
+(5)因疾病接受睪固酮補充療法者應在第三個月、第六個月、第十二個月及之後每年檢測PSA。
+(6)攝護腺癌確診後之評估與追蹤。
+2.不得同時申報12081C。
+v
+v
+v
+v
+400
+27053C
+CA-125腫瘤標記  CA-125
+v
+v
+v
+v
+400
+27054B
+CA-153腫瘤標記  CA-153
+
+v
+v
+v
+400
+27055C
+CA-199腫瘤標記  CA-199
+v
+v
+v
+v
+400
+27056B
+抗-SCC 腫瘤標記　Anti-SCC
+
+v
+v
+v
+400
+27057B
+17α-氫氧基黃體脂酮  17α-OHP
+
+v
+v
+v
+260
+27058B
+甲狀腺球蛋白抗體  Ab-thyroglobulin
+
+v
+v
+v
+134
+27059B
+甲狀腺球蛋白  Thyroglobulin
+
+v
+v
+v
+264
+27060B
+甲狀腺素結合球蛋白  TBG
+
+v
+v
+v
+300
+27061B
+動情激素接受體  Estrogen receptor (ER)
+
+v
+v
+v
+2250
+27062B
+黃體激素接受體  Progesterone receptor (PR)
+
+v
+v
+v
+2250
+27063B
+脂蛋白酶元B分析  Apolipoprotein B
+
+v
+v
+v
+300
+27064B
+脂蛋白酶元A1分析  Apolipoprotein A1
+
+v
+v
+v
+355
+27065B
+微白蛋白  Microalbumin
+
+v
+v
+v
+450
+27066B
+胃液素原Ⅰ  Pepsinogen-Ⅰ
+
+v
+v
+v
+411
+27067B
+前膠原Ⅲ P-Ⅲ-P
+
+v
+v
+v
+410
+27068B
+降血鈣素  Calaitonin
+
+v
+v
+v
+300
+27069B
+甲促素結合體抗體  Ab-TSH receptor
+
+v
+v
+v
+450
+27070B
+骨原蛋白  Osteocalcin
+
+v
+v
+v
+370
+27071B
+環磷酸腺甘酸  C-AMP
+
+v
+v
+v
+240
+27072B
+抗利尿激素  ADH
+
+v
+v
+v
+520
+27073B
+去氧核糖核酸抗體  Anti-ds DNA
+
+v
+v
+v
+370
+27074B
+血清促腎上腺皮質素  ACTH
+
+v
+v
+v
+600
+27076B
+腫瘤多胜肽抗原 TPA
+
+v
+v
+v
+445
+27077B
+紅血球生成因子檢驗 Erythropoietin
+
+v
+v
+v
+300
+27078B
+顆粒球-巨噬球集落形成單位 CFU-GM
+
+v
+v
+v
+500
+27079B
+游離型人類絨毛膜刺激素 Free beta HCG
+
+v
+v
+v
+428
+27080B
+硫酸-DHEA  DHEA-SO4
+
+v
+v
+v
+421
+27081B
+雄睪酮 Androstenedione
+
+v
+v
+v
+290
+27082B
+組織多胜肽特異性抗原 Polypeptide
+
+v
+v
+v
+445
+27083B
+游離攝護腺特異抗原 Free PSA
+
+v
+v
+v
+400
+第二十一項 內視鏡檢查Endoscopy Examination (28001-28046)
+
+通則：1.本項所定點數包括材料費在內，申報費用應檢附報告。
+2.同時連續做兩項以上Fiberscopy時，其檢查之費用應按其主檢查所定點數計算之
+3.本項各檢查項目皆為兒童加成項目，意指病人年齡未滿六個月者，依表定點數加計百分之六十；年齡在六個月以上至未滿二歲者，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之二十。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+28001C
+關節鏡檢查 Arthroscopy
+註：含手術材料費在內。
+v
+v
+v
+v
+3931
+28002C
+鼻咽喉內視鏡檢查 
+Nasopharyngolaryngoscopy
+v
+v
+v
+v
+800
+28003C
+鼻竇內視鏡檢查 Sinoscopy
+註：可用於診斷鼻竇疾病，內視鏡鼻竇功能手術(functional endoscopic sinus surgery,FESS)。手術前得申報一次，手術後三個月內最多申報三次。
+v
+v
+v
+v
+1332
+28004C
+喉鏡檢查 Laryngoscopy
+註：不得同時申報28005B。
+v
+v
+v
+v
+500
+28005B
+喉頻閃光源內視鏡檢查 Stroboscopy
+註：不得同時申報28004C。
+
+v
+v
+v
+2080
+28006C
+支氣管鏡檢查 Bronchoscopy
+v
+v
+v
+v
+2938
+28007B
+術中膽道纖維鏡檢查  
+Fiber choledochoscopy, intraoperative
+
+v
+v
+v
+1939
+28034B
+經T形管或其它路徑,膽道纖維鏡檢查
+Fiber choledochoscopy, percutaneous via T-tube or other tract
+
+v
+v
+v
+3877
+28008B
+經T形管或其它路徑,膽道纖維鏡檢查及截石術
+Fiber choledochoscopy, percutaneous via T-tube or other tract,with removal of stones
+
+v
+v
+v
+5816
+28035B
+術中,膽道纖維鏡檢查及截石術
+Fiber choledochoscopy, intraoperative,with removal of stones
+
+v
+v
+v
+5816
+28009B
+肋膜腔鏡檢查合併切片 
+Thoracoscopy with biopsy
+註：含一般材料費及特殊材料費。
+
+v
+v
+v
+9404
+28026B
+縱膈腔鏡檢查合併切片
+Mediastinoscopy with biopsy
+註：含一般材料費及特殊材料費。
+
+v
+v
+v
+3684
+28010B
+小腸鏡檢查 Enteroscopy
+註：不得同時申報28046B。
+
+v
+v
+v
+3375
+28011C
+直腸鏡檢查 
+Rectoscopy
+v
+v
+v
+v
+642
+28013C
+S狀結腸鏡檢查 
+Sigmoidoscopy
+v
+v
+v
+v
+1069
+28014C
+腹腔鏡檢查 
+Laparoscopy
+註：含手術材料費在內。
+v
+v
+v
+v
+4584
+28015C
+食道鏡檢查 
+Esophageal endoscopy
+註：
+適應症：
+1.食道腫瘤（含惡性及良性）。
+2.頭頸部惡性腫瘤。
+3.食道異物或疑似食道異物。
+4.食道狹窄、損傷、腐蝕性傷害、出血、發炎。
+5.吞嚥困難。
+v
+v
+v
+v
+1020
+28016C
+上消化道泛內視鏡檢查
+Upper GI panendoscopy
+v
+v
+v
+v
+1575
+28017C
+大腸鏡檢查 
+Colonoscopy
+註：限由消化內科、消化外科、大腸直腸外科、兒科消化學及小兒外科專科醫師執行。
+v
+v
+v
+v
+2363
+28019C
+膀胱鏡檢查 Cystoscopy
+v
+v
+v
+v
+1800
+28020C
+診斷性輸尿管鏡檢，包括輸尿管膀胱接合處，擴張術及膀胱鏡術
+Diagnostic ureteroscopy, including dilatation of ureterovesical junction and cystoscopy
+v
+v
+v
+v
+2630
+28021C
+尿道鏡檢查 Urethroscopy
+v
+v
+v
+v
+1845
+28022C
+子宮鏡檢查 
+Hysteroscopy
+註：
+1.當次子宮鏡檢查結果為正常者，同一醫療院所以一年一次為限。
+2.子宮鏡檢查結果為異常而採取藥物或觀察處置者，追蹤以一次為限，應間隔三個月以上。
+3.子宮鏡手術治療者，術後三個月內得進行追蹤檢查，若結果為正常，應以一次為限。
+v
+v
+v
+v
+2034
+28023C
+肛門鏡檢查 Anoscopy
+v
+v
+v
+v
+804
+28028C
+陰道鏡檢查 Colposcopy
+v
+v
+v
+v
+605
+28029C
+內視鏡超音波 
+Endoscopic ultrasonography
+v
+v
+v
+v
+750
+
+註：內視鏡另計。
+
+
+
+
+
+28030C
+經內視鏡切片(每一診次)
+Endoscopic biopsy , each  exam. 
+註：內含一般材料費及單一使用之拋棄式生檢針及組織夾費用。
+v
+v
+v
+v
+940
+28031C
+大腸或小腸切片(每一診次)
+Colonoscopic or enteroscopic biopsy,each exam.
+註：內含一般材料費及單一使用之拋棄式生檢鉗及組織夾費用。
+v
+v
+v
+v
+1019
+28032B
+膽道子母鏡
+Transduodenal choledochoscopy
+
+v
+v
+v
+1800
+28033C
+診斷性肺泡灌洗術
+Diagnostic bronchoalveolar lavage
+v
+v
+v
+v
+1800
+
+註：含支氣管鏡費用。
+
+
+
+
+
+28036B
+經皮穿肝膽道鏡
+Percutaneous transhepatic choledochoscopy(PTCS)
+
+v
+v
+v
+3150
+28037B
+腦內視鏡
+Intracerebral endoscopy
+註：限神經外科專科醫師施行。
+
+v
+v
+v
+2000
+28038B
+自體螢光支氣管鏡檢查
+註：
+適應症：
+1.痰液細胞學檢查發現疑似惡性細胞且胸部影像學正常者。
+2.肺癌手術前確認病灶侵犯位置，以決定手術方式及切除範圍。
+3.肺癌手術後追蹤，當疑似切除位置有復發時，為確認病灶。
+
+v
+v
+v
+2437
+28039B
+支氣管鏡螢光透視檢查（含支氣管鏡檢查費用）
+Bronchofluoroscopy
+註：
+1.適應症：支氣管鏡直接目視下不可見之為肺周邊病灶，並經螢光導引定位進行之切片（biopsy）、刷拭（brushing）、沖洗（washing , lavage）。
+2.不得與28006C支氣管鏡檢查合併申報。
+
+v
+v
+v
+5116
+28040B
+支氣管內視鏡超音波
+Bronchoscopic Ultrasonography; EBUS
+註： 
+1.不得同時申報28006C、28026B。
+2.需檢附胸腔電腦斷層報告。
+3.內含一般材料費及單一使用之拋棄式特殊材料。
+
+v
+v
+v
+7365
+28041B
+支氣管內視鏡超音波導引縱膈淋巴節定位切片術
+EBUS + Transbronchial node aspiration
+註：
+1.不得同時申報28006C、28009B、28026B及28040B。
+2.申報時須檢附當次病理報告。
+3.內含一般材料費及單一使用之拋棄式特殊材料。
+
+
+v
+v
+v
+14198
+28042B
+支氣管內視鏡超音波導引周邊肺組織採檢切片術
+EBUS + Peripheral lung transbronchial biopsy
+註： 
+1.不得同時申報28006C、33103B及28040B。
+2.申報時須檢附當次病理報告。
+3.內含一般材料費及單一使用之拋棄式特殊材料。
+
+
+v
+v
+v
+13476
+28043B
+電子式內視鏡超音波
+Electronic Endoscopic Ultrasonography，EUS
+註：
+1.適應症：縱膈腔病兆、慢性胰臟炎、膽胰系統腫瘤及囊腫、膽源性黃疸或急性胰臟炎、膽胰管狹窄、縱膈腔及腹腔淋巴病變、消化道進行性癌分期、後腹腔病灶（腎上腺、腎等）及左肝及脾臟病灶。
+2.支付規範：
+(1)不得同時申報28029C、28016C等相關內視鏡檢查及28044B。
+(2)內含一般材料費及單一使用之拋棄式特殊材料。
+
+
+v
+v
+v
+5953
+28044B
+細徑(迷你)探頭式內視鏡超音波
+Miniprobe Endoscopic Ultrasound
+註：
+1.適應症：食道癌前期病變與癌分期、胃癌前病變與惡性腫瘤分期、小腸癌前病變與癌分期、大腸癌前病變與癌分期、膽胰管狹窄、消化道黏膜下腫瘤（小於/等於3公分）、膽胰管內腫瘤。
+2.支付規範：
+(1)不得同時申報28029C、28016C等相關內視鏡檢查及28043B。
+(2)內含一般材料費及單一使用之拋棄式特殊材料。
+
+v
+v
+v
+5029
+28045B
+耳內視鏡檢查
+Otoendoscopy
+註：
+1.適應症：
+(1)外耳道狹窄或異物。
+(2)中耳或外耳道腫瘤。
+(3)膽脂瘤。
+(4)慢性中耳炎或積液性中耳炎，且需評估耳科手術者。
+2.禁忌症：外耳道閉鎖。
+3.支付規範：
+(1)限耳鼻喉科專科醫師執行。
+(2)限手術前後各執行一次。
+(3)申報時檢附之病歷紀錄須包含鼓膜、耳道、中耳腔影像。
+
+v
+v
+v
+645
+28046B
+深部小腸內視鏡
+Deep enteroscopy
+註：
+1.適應症（須符合以下任一條件）：
+(1)疑似小腸出血(suspected small bowel bleeding)：慢性消化道出血且高度懷疑小腸病變，經一次以上完整胃鏡及大腸內視鏡檢查，仍無法找出出血原因，且持續性貧血或斷斷續續血便或黑便者；或急性消化道不明原因出血，經一次以上完整胃鏡及大腸內視鏡檢查後，仍無法找出出血原因，且持續有血便或黑便者。
+(2)小腸克隆氏症之診斷或治療(Small bowel Crohn’s disease)。
+(3)Celiac disease之診斷或追蹤(Assessment of Celiac disease)。
+(4)遺傳性腸道息肉症之診斷或治療(Hereditary polyposis syndrome)。
+(5)影像學上發現小腸病變，需病理學上確診或內視鏡治療者。
+(6)小腸淋巴瘤或其他惡性腫瘤之診斷、治療及追蹤。
+2.限住院使用。
+3.限消化系內視鏡專科、兒科消化學專科及消化內視鏡外科專科醫師執行。
+4.疑似小腸出血者，須檢附胃鏡及大腸內視鏡檢查報告資料。
+5.不得同時申報28010B。
+6.內含一般材料費及「小腸內視鏡外套管」比率為百分之四十八。
+
+v
+v
+v
+42721
+第二十二項 診斷穿剌 Diagnostic Puncture (29001-29035)
+
+通則：本項各診療項目皆為兒童加成項目，意指病人年齡未滿六個月者，依表定點數加計百分之六十；年齡在六個月以上至未滿二歲者，依表定點數加計百分之三十；年齡在二歲以上至未滿七歲者，依表定點數加計百分之二十。
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+29001C
+硬腦膜下穿刺 Subdural puncture
+v
+v
+v
+v
+270
+29002C
+上顎竇穿刺（一側） 
+Maxillary sinus puncture,unilateral
+v
+v
+v
+v
+405
+29003C
+前房穿刺 Paracentesis
+v
+v
+v
+v
+340
+29004C
+鼓室抽吸 Tympanic aspiration
+v
+v
+v
+v
+270
+29005C
+鼓膜穿刺（一側）Myringeal puncture, unilateral
+v
+v
+v
+v
+100
+29006C
+中耳腔穿刺 Middle ear cavity puncture
+v
+v
+v
+v
+100
+29007B
+氣管食道穿刺 T-E puncture
+
+v
+v
+v
+2362
+29008B
+淋巴腺穿刺 Lymph nodes puncture
+
+v
+v
+v
+100
+29009C
+乳房細針穿刺 
+Breast fine needle puncture
+註：
+1.以病灶為單位，單一病灶限申報一次，二處以上病灶限申報二次。
+2.無論側性或病灶數，影像導引設備僅得申報一次。
+v
+v
+v
+v
+524
+29035B
+乳房病灶粗針穿刺組織切片
+Breast lesion core needle biopsy
+註：
+1.適應症：
+(1)乳房惡性腫瘤Malignant neoplasm of breast。
+(2)良性乳房發育不良Benign mammary dysplasia。
+(3)乳房炎性疾患Inflammatory disorders of breast。
+(4)乳房肥大Hypertrophy of breast。
+(5)乳房腫塊Unspecified lump in breast。
+(6)乳房其他疾患Other disorders of breast。
+2.若須使用影像導引設備，得另申報編號19007C、33005B、33085B等導引項目。無論側性或病灶數僅得申報一次。
+3.申報時需檢附當次病理報告。
+4.以病灶為單位，單一病灶限申報一次，二處以上病灶限申報二次。
+
+v
+v
+v
+1623
+29010C
+唾腺組織穿刺 Sialic puncture
+v
+v
+v
+v
+100
+29011C
+甲狀腺穿刺 Thyroid puncture
+v
+v
+v
+v
+606
+29012B
+胸腔穿刺 Thoracocentesis
+
+v
+v
+v
+1000
+29013B
+心包穿刺 Pericardial puncture
+
+v
+v
+v
+1120
+29014B
+骨髓穿刺 Bone marrow puncture
+註：
+適應症：
+1.未明原因的血球減少(Unexplained cytopenia)。
+2.血癌的評估(Evaluation of leukemia)。
+3.骨髓增殖性疾病的確認(Confirmation of myeloproliferative disorder)。
+4.未明原因的淋巴腺腫(Unexplained lymphadenopathy)。
+5.未有明確診斷之脾腫大(Splenomegaly without a diagnosis)。
+6.淋巴惡性疾病的診斷或分期(Diagnosis or staging of lym)。
+
+v
+v
+v
+1213
+29032B
+骨髓切片
+Bone marrow biopsy
+註：適應症：急慢性白血病之確定診斷、骨髓穿刺無法確定診斷者、惡性非何杰金氏淋巴瘤及何杰金氏病分期檢查、疑有惡性腫瘤併有骨髓轉移者，其他骨髓造血失調疾病等。
+
+v
+v
+v
+855
+29033B
+骨髓穿刺併骨髓切片
+Bone marrow puncture with bone marrow biopsy
+註：29014B與29032B同時施行時，以本項申報。
+
+v
+v
+v
+2700
+29015C
+關節穿刺 Arthrocentesis
+v
+v
+v
+v
+412
+29016C
+脊椎穿刺 Spinal puncture
+v
+v
+v
+v
+1271
+29017C
+腹腔穿刺 Abdominal puncture
+v
+v
+v
+v
+787
+29019C
+膀胱穿刺 Bladder puncture
+v
+v
+v
+v
+487
+29020C
+陰囊水腫抽吸 Scrotal hydrocele aspiration
+v
+v
+v
+v
+893
+29022C
+輸卵管通水、通色素或通氣檢查
+Oviduct hydrotubation, rubin test, or insufflation of tube with air or CO2
+v
+v
+v
+v
+120
+29023C
+陰道陷凹穿刺 Culdocentesis
+v
+v
+v
+v
+180
+29024B
+腦室穿刺 Ventricular punture
+
+v
+v
+v
+943
+29025B
+第一、二頸椎後側穿刺
+Cervical arachnoid puncture
+
+v
+v
+v
+943
+29026B
+臟器穿刺 Organ puncture
+
+v
+v
+v
+1224
+29027C
+睪丸穿刺 Testicle puncture
+v
+v
+v
+v
+160
+29028C
+攝護腺穿刺 Prostate puncture
+v
+v
+v
+v
+300
+29029B
+鎖骨穿刺 Subclavian puncture
+
+v
+v
+v
+180
+29030B
+經皮穿胸肺組織穿刺 Lung aspiration
+
+v
+v
+v
+1000
+29031B
+心房中膈穿刺術 
+Atrium transseptal procedure
+
+v
+v
+v
+7000
+
+註：合併施行P.T.M.V.(Percutaneous translumination of mitral valve)者, 不得另申報本項費用。
+
+
+
+
+
+
+第二十三項 過敏免疫檢查Allergy Immunologic Test (30001-30030)
+
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+30001C
+皮膚試驗(每種抗原)  Skin test, (each Ag)
+v
+v
+v
+v
+25
+30002C
+接觸過敏試驗（每種抗原）Patch test, (each Ag)
+v
+v
+v
+v
+25
+30005B
+痰過敏抹片 Allergic sputum smear
+
+v
+v
+v
+84
+30006B
+鼻分泌物檢查 Nasal smear
+
+v
+v
+v
+30
+30007B
+補體 C1q
+
+v
+v
+v
+419
+30008B
+吞噬細胞染色劑還原試驗
+NBT nitro-blue tetrozolium
+
+v
+v
+v
+180
+30009B
+遲發性過敏度皮膚試驗（共四種）
+Delayed type hypersensitivity skin test 4 Ags
+
+v
+v
+v
+360
+30010B
+呼吸道激發試驗
+Bronchopulmonory provocation test
+
+v
+v
+v
+120
+30011B
+黴菌平板試驗 Mold piece (cone piece)
+
+v
+v
+v
+80
+30012B
+免疫複合體 Immune complex
+
+v
+v
+v
+270
+30013B
+C1酯化抑制劑定量
+C1 esterase inhibitor
+
+v
+v
+v
+317
+30014B
+P-K試驗 P-K test
+
+v
+v
+v
+90
+30015C
+Shick試驗 Shick test
+v
+v
+v
+v
+270
+30016B
+轉移因子之裝備 Transfer factor preparation
+
+v
+v
+v
+900
+30017B
+轉移因子之注射 Transfer factor administration
+
+v
+v
+v
+900
+30018B
+ENA抗體篩檢 Anti-ENA screen
+
+v
+v
+v
+270
+30019B
+抗Histone Anti-histone
+
+v
+v
+v
+368
+
+抗心脂抗體 Anti-cardiolopin
+
+
+
+
+
+30020B
+—IgG
+
+v
+v
+v
+385
+30028B
+—IgM
+
+v
+v
+v
+392
+30021C
+過敏原檢驗(定性) Allergen test(qualitative)
+註：限確診為Asthma、過敏性鼻炎者或未滿三歲有異位性皮膚炎。
+v
+v
+v
+v
+505
+30022C
+特異過敏原免疫檢驗
+Specific Allergen Test
+註： 
+1.限免疫球蛋白IgE(12031C)大於其標準值或過敏原定性檢驗(30021C)異常，且為確認診斷氣喘、過敏性鼻炎、異位性皮膚炎、其他IgE-mediated疾病(含急性蕁麻疹、食物或藥物過敏或全身性過敏)者申報。
+2.一年內相同過敏原不可重複申報本項。
+3.一年申報一次，最多不超過二次，若有特殊情況需增加檢驗次數者，應於病歷記載檢查之適應症並檢附相關資料佐證，以四次為限。申報超過二次以上者，應加強審查。
+4.屬西醫基層總額部門院所，限確認診斷為氣喘、過敏性鼻炎者或未滿三歲有異位性皮膚炎者申報。原則上二年內不得重複申報本項，並應於病歷記載檢查之適應症及檢附相關資料佐證。
+v
+v
+v
+v
+1620
+30023B
+嗜伊紅血球陽離子蛋白檢驗  ECP Test
+註：包括IgG、IgM。
+
+v
+v
+v
+591
+30024B
+遲發性過敏度皮膚試驗（共八種）
+Delayed type hypersensitivity skin test,8 Ags (Multitest)
+
+v
+v
+v
+606
+30025B
+NBT Test
+
+v
+v
+v
+180
+30026B
+鼻誘發試驗 Nasal provocation test
+
+v
+v
+v
+120
+
+抗磷脂抗體 Anti-phospholipid antibody
+
+
+
+
+
+30027B
+—IgG
+
+v
+v
+v
+440
+30029B
+—IgM
+
+v
+v
+v
+412
+30030C
+自體血清皮內注射試驗
+Autologous serum intradermal test
+v
+v
+v
+v
+360
+
+
+第二十四項 伴隨式診斷Companion Diagnostics (30101-30111)
+通則：本項各診療項目應按「全民健康保險鼓勵醫事服務機構即時查詢病人就醫資訊方案」格式，於檢驗（查）申報後一個月內上傳檢驗(查)結果報告，未上傳者本項不予支付，前述上傳截止日為「申報日之次月月底之日」；惟因特殊情形未在規定期限內完成上傳報告，可檢具理由後補上傳。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+30101B
+肺癌表皮生長因子受體(EGFR)突變體外診斷醫療器材檢測(IVD)
+EGFR mutation in vitro diagnostics testing
+註：
+1.適應症：
+(1)限復發或轉移性(第Ⅳ期)之非小細胞且非鱗狀上皮肺癌，於使用EGFR標靶藥物前得申請檢測。
+(2)第ⅢB期及第ⅢC期，經肺癌多專科團隊討論，無法以外科手術完全切除、且不適合放射化學治療，於使用EGFR標靶藥物前得申請檢測。
+2.支付規範：
+(1)本檢測應包含EGFR(外顯子[exon]18、19、20、21)之突變分析。
+(2)限使用已確診之腫瘤病理組織或細胞檢體做檢測，並於檢測報告上註明診斷與腫瘤細胞百分比。
+(3)限具肺癌EGFR基因檢測項目通過CAP(美國病理學家學會，The College of American Pathologists)、TAF(財團法人全國認證基金會，Taiwan Accreditation Foundation)或台灣病理學會之分子實驗室認證之實驗室。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請核定。
+(5)限使用食品藥物管理署核准之第三等級醫療器材檢測試劑操作，並於檢測報告上註明方法學與檢測平台。
+(6)限解剖病理專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(7)限符合適應症規範者用藥前之伴隨式檢測，每人終生限給付一次。
+(8)不得同時申報編號30102B。
+
+v
+v
+v
+8252
+30102B
+肺癌表皮生長因子受體(EGFR)突變實驗室開發檢測(LDTs)
+EGFR mutation Laboratory Developed Test
+註：
+1.適應症：
+(1)限復發或轉移性(第Ⅳ期)之非小細胞且非鱗狀上皮肺癌，於使用EGFR標靶藥物前得申請檢測。
+(2)第ⅢB期及第ⅢC期，經肺癌多專科團隊討論，無法以外科手術完全切除、且不適合放射化學治療，於使用EGFR標靶藥物前得申請檢測。
+2.支付規範：
+(1)本檢測應包含EGFR(外顯子[exon]18、19、20、21)之突變分析。
+(2)限使用已確診之腫瘤病理組織或細胞檢體做檢測，並於檢測報告上註明診斷與腫瘤細胞百分比。
+(3)限主管機關核定之實驗室開發檢測施行計畫表列醫療機構申報。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請核定。
+(5)檢測報告上應註明方法學與檢測平台。
+(6)限解剖病理專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(7)限符合適應症規範者用藥前之伴隨式檢測，每人終生限給付一次。
+(8)不得同時申報編號30101B。
+
+v
+v
+v
+6755
+30103B
+PD-L1免疫組織化學染色
+PD-L1 immunohistochemistry
+註：
+1.適應症：符合全民健康保險藥物給付項目及支付標準第6編第83條之藥品給付規定第9節抗癌瘤藥物9.69.免疫檢查點PD-1、PD-L1抑制劑之使用條件，且申請時需檢附生物標記(PD-L1)表現量檢測報告之疾病。
+2.支付規範：
+(1)限使用食品藥物管理署核准之第三等級醫療器材檢測試劑(IVD)操作，並於檢測報告上註明方法學與檢測平台。
+(2)應檢附經解剖病理或口腔病理專科醫師簽名與加註專科醫師證書字號之病理報告。
+(3)限符合適應症規範者用藥前之伴隨式檢測，每人終生限給付一次。
+(4)申報本項除依通則規定外，尚須上傳檢測試劑代碼，未上傳者不予支付。
+
+v
+v
+v
+5984
+30104B
+All-RAS及BRAF基因突變分析實驗室開發檢測(LDTs)
+All-RAS and BRAF mutation testing(LDTs)
+註：
+1.適應症：符合全民健康保險藥物給付項目及支付標準附件六藥品給付規定第九節抗癌瘤藥物9.27.Cetuximab及9.53.Panitumumab之轉移性直腸結腸癌病人。
+2.支付規範：
+(1)本檢測應包含KRAS(外顯子[exon]2、3與4)、NRAS(外顯子2、3與4)與BRAF V600E之突變分析。
+(2)限使用已確診之腫瘤病理組織或細胞檢體做檢測，並於檢測報告上註明診斷與腫瘤細胞百分比。
+(3)限主管機關核定之實驗室開發檢測施行計畫表列醫療機構申報。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請經核定。
+(5)檢測報告上應註明方法學與檢測平台。
+(6)限解剖病理專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(7)限符合適應症規範者用藥前之伴隨式檢測，每人終生限給付一次。
+(8)不得同時申報編號30106B、30107B。
+
+v
+v
+v
+11878
+30106B
+All-RAS及BRAF基因突變分析體外診斷醫療器材檢測(IVD)
+All-RAS and BRAF mutation testing(IVD)
+註：
+1.適應症：符合全民健康保險藥物給付項目及支付標準附件六藥品給付規定第九節抗癌瘤藥物9.27.Cetuximab及9.53.Panitumumab之轉移性直腸結腸癌病人。
+2.支付規範：
+(1)本檢測應包含KRAS(外顯子[exon]2、3與4)、NRAS(外顯子2、3與4)與BRAF V600E之突變分析。
+(2)限使用已確診之腫瘤病理組織或細胞檢體做檢測，並於檢測報告上註明診斷與腫瘤細胞百分比。
+(3)限具大腸直腸癌 ALL-RAS 基因檢測項目通過美國病理學家學會(The College of American Pathologists, CAP)、財團法人全國認證基金會(Taiwan Accreditation Foundation, TAF)、台灣病理學會之分子實驗室認證或經衛生福利部食品藥物管理署精準醫療分子檢測實驗室認證(列冊登錄)之實驗室檢測，並須檢附IVD檢測試劑進貨證明，由特約醫事服務機構申報。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請經核定。
+(5)檢測報告上應註明方法學與檢測平台。
+(6)限解剖病理專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(7)限符合適應症規範者用藥前之伴隨式檢測，每人終生限給付一次。
+(8)不得同時申報編號30104B、30107B。
+
+v
+v
+v
+11878
+30105B
+間變性淋巴瘤激酶(ALK)突變體外診斷醫療器材檢測(IVD)-IHC法
+(ALK in vitro diagnostics testing-IHC method)
+註：
+1.適應症：
+(1)限復發或轉移性(第Ⅳ期)之非小細胞且非鱗狀上皮肺癌，於EGFR基因檢測為陰性時，得申請檢測。
+(2)第ⅢB期及第ⅢC期，經肺癌多專科團隊討論，無法以外科手術完全切除、且不適合放射化學治療，於EGFR基因檢測為陰性時，得申請檢測。
+2.支付規範：
+(1)限使用食品藥物管理署核准之第三等級醫療器材檢測試劑操作，並於檢測報告上註明方法學與檢測平台。
+(2)限解剖病理專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(3)限符合適應症規範者用藥前之伴隨式檢測，每人終生限給付一次。
+
+v
+v
+v
+7294
+30107B
+BRAF基因突變分析實驗室開發檢測(LDTs)
+BRAF mutation testing (LDTs)
+註：
+1.須符合下列任一條件適應症：
+(1)符合全民健康保險藥物給付項目及支付標準附件六藥品給付規定第九節抗癌瘤藥物9.52.Vemurafenib及9.91. Dabrafenib、Trametinib之黑色素瘤病人。
+(2)符合全民健康保險藥物給付項目及支付標準附件六藥品給付規定第九節抗癌瘤藥物9.27.Cetuximab及9.53.Panitumumab之轉移性直腸結腸癌病人，且KRAS及NRAS為wild type者。
+(3)甲狀腺癌（不包含髓質癌）
+A.乳突性及濾泡性甲狀腺癌經碘131及抑制血管新生標靶藥物治療無效或不適合使用抑制血管新生標靶藥物者。
+B.無分化甲狀腺癌經多專科團隊評估無法接受根除手術者。
+2.支付規範：
+(1)本檢測於黑色素瘤應包含BRAF V600之突變分析、於結腸直腸癌及甲狀腺癌應包含BRAF V600E之突變分析。
+(2)限使用已確診之腫瘤病理組織或細胞檢體做檢測，並於檢測報告上註明診斷與腫瘤細胞百分比。
+(3)限主管機關核定之實驗室開發檢測施行計畫表列醫療機構申報。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請核定。
+(5)檢測報告上應註明方法學與檢測平台。
+(6)限解剖病理專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(7)限符合適應症規範者用藥前之伴隨式檢測，每人終生各癌別限給付一次。
+(8)不得同時申報編號30104B、30106B。
+
+v
+v
+v
+3006
+30108B
+KIT及PDGFRA基因突變分析實驗室開發檢測(LDTs)
+KIT and PDGFRA mutation testing (LDTs)
+註：
+1.適應症：符合全民健康保險藥物給付項目及支付標準附件六藥品給付規定第九節抗癌瘤藥物9.22.Imatinib、9.31.Sunitinib、9.51.Regorafenib及9.97.Avapritinib之腸胃道間質瘤病人。
+2.支付規範：
+(1)本檢測應包含KIT(外顯子[exon]9、11、13與17)與PDGFRA(外顯子[exon]12、14、18)之突變分析。
+(2)限使用已確診之腫瘤病理組織或細胞檢體做檢測，並於檢測報告上註明診斷與腫瘤細胞百分比。
+(3)限主管機關核定之實驗室開發檢測施行計畫表列醫療機構申報。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請核定。
+(5)檢測報告上應註明方法學與檢測平台。
+(6)限解剖病理專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(7)限符合適應症規範者用藥前之伴隨式檢測，每人終生限給付一次。
+
+v
+v
+v
+14582
+30109B
+第十七對染色體缺失原位雜合檢驗
+del(17p) in situ hybridization (ISH)
+註：
+1.須符合下列任一條件適應症：
+(1)慢性淋巴性白血病/小淋巴細胞淋巴瘤(CLL/SLL)。
+(2)被套細胞淋巴癌(MCL)。
+2.支付規範：
+(1)本項應包含del(17p)之突變分析。
+(2)限使用已確診之血液腫瘤檢測。
+(3)限主管機關核定之實驗室開發檢測施行計畫表列醫療機構。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請經核定。
+(5)限專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(6)每人終生限給付一次。
+
+
+
+v
+v
+v
+10400
+30110B
+侵襲性B細胞淋巴癌原位雜合檢驗
+Aggressive B-cell lymphoma in situ hybridization (ISH)
+註：
+1.須符合下列任一條件適應症：
+(1)瀰漫性巨大B細胞淋巴瘤。
+(2)Burkitt淋巴瘤。
+2.支付規範：
+(1)本項應包含MYC、BCL2之突變分析。
+(2)限使用已確診之血液腫瘤檢測。
+(3)限主管機關核定之實驗室開發檢測施行計畫表列醫療機構。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請經核定。
+(5)限專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(6)每人終生限給付一次。
+
+v
+v
+v
+20800
+30111B
+多發性骨髓瘤原位雜合檢驗
+Multiple myeloma in situ hybridization (ISH)
+註：
+1.適應症：多發性骨髓瘤及惡性漿細胞腫瘤。
+2.支付規範：
+(1)本項應包含del(17p)、t(4;14)、t(14;16)、1q21 gain/amplification之突變分析。
+(2)限使用已確診之血液腫瘤檢測。
+(3)限主管機關核定之實驗室開發檢測施行計畫表列醫療機構。
+(4)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請經核定。
+(5)限專科醫師簽發報告，並於檢測報告上加註專科醫師證書字號。
+(6)每人終生限給付一次。
+
+v
+v
+v
+21898
+第二十五項 次世代基因定序 Next Generation Sequencing (30301-30307)
+通則：
+一、各診療項目於檢測前，應於健保資訊網服務系統(VPN)取得NGS檢測編號，並於申報時應填報於醫令段「事前審查受理編號」欄位，未填報者不予支付。
+二、各診療項目檢測結果應於申報後一個月內依指定格式上傳至保險人，未上傳者不予支付，前述上傳截止日為「申報日之次月月底之日」；惟因特殊情形未在規定期限內完成上傳報告，可檢具理由後補上傳。
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+
+實體腫瘤次世代基因定序 
+Solid tumor next generation sequencing, NGS
+
+
+
+
+
+30301B
+－BRCA1/2基因檢測 BRCA testing (germline or somatic)
+
+v
+v
+v
+10000
+30302B
+－小套組(≦100個基因) Small panel(≦100 genes) 
+
+v
+v
+v
+20000
+30303B
+－大套組(＞100個基因) Large panel(＞100 genes) 
+
+v
+v
+v
+30000
+
+註：
+1.適應症：如附表2.2.1。
+2.支付規範：
+(1)醫院資格須符合下列各項條件：
+A.限區域級以上醫院或主管機關公告通過「癌症診療品質認證醫院」者。
+B.須院內設立或跨院聯合組成分子腫瘤委員會(Molecular Tumor Board, MTB)。
+C.限主管機關核定之實驗室開發檢測施行計畫表列醫療機構(檢測項目類別為「抗癌瘤藥物之伴隨檢測」或「癌症篩檢、診斷、治療及預後之基因檢測」)。
+(2)核發檢測報告人員及報告簽署醫師：依「 HYPERLINK  "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020075" 特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」之規定辦理。
+(3)除Germline BRCA1/2基因檢測使用血液檢體外，其他檢測限使用已確診之腫瘤病理組織，且檢測項目須包含附表2.2.1所列該癌別必須檢測之位點及變異別，始予給付。
+(4)每人各癌別限30301B、30302B或30303B擇一申報且終生給付一次。
+(5)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請核定。
+
+
+
+
+
+
+
+
+
+
+血液腫瘤次世代基因定序 
+Hematologic malignancies next generation sequencing, NGS
+
+
+
+
+
+30304B
+－小套組(≦100個基因) Small panel(≦100 genes) 
+
+v
+v
+v
+20000
+30305B
+－大套組(＞100個基因) Large panel(＞100 genes) 
+
+v
+v
+v
+30000
+
+註：
+1.適應症：如附表2.2.2。
+2.支付規範：
+(1)醫院資格符合下列各項條件：
+A.區域級以上醫院或主管機關公告通過「癌症診療品質認證醫院」者。
+B.須院內設立或跨院聯合組成分子腫瘤委員會(Molecular Tumor Board, MTB)。
+C.限主管機關核定之實驗室開發檢測施行計畫表列醫療機構(檢測項目類別為「抗癌瘤藥物之伴隨檢測」或「癌症篩檢、診斷、治療及預後之基因檢測」)。
+(2)核發檢測報告人員及報告簽署醫師：依「 HYPERLINK  "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020075" 特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」之規定辦理。
+(3)限使用已確診之血液腫瘤檢測，且檢測項目須包含附表2.2.2所列各該癌別檢測位點及變異別，始予給付。
+(4)每人各癌別限30304B或30305B擇一申報且終生給付一次。
+(5)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請核定。
+
+
+
+
+
+30306B
+TP53基因突變分析實驗室開發檢測(LDTs)
+TP53 mutation testing (LDTs) 
+註：
+1.須符合下列任一條件適應症：
+(1)慢性淋巴性白血病/小淋巴細胞淋巴瘤(CLL/SLL)。
+(2)被套細胞淋巴癌(MCL)。
+2.支付規範：
+(1)醫院資格符合下列各項條件：
+A.區域級以上醫院或主管機關公告通過「癌症診療品質認證醫院」者。
+B.須院內設立或跨院聯合組成分子腫瘤委員會(Molecular Tumor Board, MTB)。
+C.限主管機關核定之實驗室開發檢測施行計畫表列醫療機構(檢測項目類別為「抗癌瘤藥物之伴隨檢測」或「癌症篩檢、診斷、治療及預後之基因檢測」)。
+(2)核發檢測報告人員及報告簽署醫師：依「特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」之規定辦理。
+(3)限使用已確診之血液腫瘤檢測，且檢測項目應包含TP53之突變分析。
+(4)每人終生限給付一次。
+(5)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請核定。
+(6)檢測報告上應註明方法學與檢測平台。
+
+v
+v
+v
+9929
+30307B
+TCR基因重組單株性分析(LDTs)
+TCR clonality analysis (LDTs)
+註：
+1.適應症：經病理專科醫師與血液腫瘤科醫師多專科會議討論疑似為「T細胞或NK細胞之淋巴瘤或白血病」。
+2.支付規範：
+(1)醫院資格符合下列各項條件：
+A.區域級以上醫院或主管機關公告通過「癌症診療品質認證醫院」者。
+B.須院內設立或跨院聯合組成分子腫瘤委員會(Molecular Tumor Board, MTB)。
+C.限主管機關核定之實驗室開發檢測施行計畫表列醫療機構(檢測項目類別為「抗癌瘤藥物之伴隨檢測」或「癌症篩檢、診斷、治療及預後之基因檢測」)。
+(2)核發檢測報告人員及報告簽署醫師：依「特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」之規定辦理。
+(3)限使用符合上述適應症之血液腫瘤之病理組織檢測，且檢測項目應包含TCR(基因重組)之單株性分析。
+(4)每人終生限給付一次。
+(5)執行本項之醫事服務機構應報經保險人核定，如有異動，仍應重行報請核定。
+(6)檢測報告上應註明方法學與檢測平台。
+(7)應檢附病理專科與血液腫瘤科多專科討論會議紀錄。
+
+v
+v
+v
+10000
+
+
+
+
+
+
+
+
+
+
+
+附表2.2.1 實體腫瘤次世代基因定序(30301B-30303B)給付癌別列表
+癌別
+適應症
+(符合下列任一條件)
+應先執行之檢測項目
+必須包含之檢測基因及變異別
+NGS檢測
+(符合左列條件者，得申報下列任一NGS檢測)
+非小細胞肺癌
+Non-small cell lung cancer
+限復發或轉移性(第Ⅳ期)之非鱗狀上皮癌之非小細胞肺癌，且須符合下列任一檢測時機：
+1.新診斷或復發時，確定為晚期且無法接受根治治療者，表皮生長因子受體(EGFR)呈現陰性，始得申報本項。
+2.第一線標靶治療後疾病惡化。
+部分適應症表皮生長因子受體(EGFR)呈現陰性，始得申報本項。
+EGFR (mutation)、
+ALK (fusion)、
+MET (exon 14 skipping)、NTRK(fusion)、ROS1 (fusion)、
+BRAF (mutation)、ERBB2(mutation)、KRAS (mutation)、RET (fusion)
+小套組(≦100個基因)
+大套組(＞100個基因)
+第ⅢB期及第ⅢC期，檢測時機為經肺癌多專科團隊討論，無法以外科手術切除，且不適合放射化學或放射治療者，且須符合下列任一檢測時機：
+1.新診斷且無法接受根治治療者，表皮生長因子受體(EGFR)呈現陰性，始得申報本項。
+2.第一線標靶治療後疾病惡化。
+部分適應症表皮生長因子受體(EGFR)呈現陰性，始得申報本項。
+EGFR (mutation)、
+ALK (fusion)、
+MET (exon 14 skipping)、NTRK(fusion)、ROS1 (fusion)、
+BRAF (mutation)、ERBB2(mutation)、KRAS (mutation)、RET (fusion)
+小套組(≦100個基因)
+大套組(＞100個基因)
+註：
+1.替代或可先執行之檢測項目如下：
+EGFR：30101B「肺癌表皮生長因子受體(EGFR)突變體外診斷醫療器材檢測(IVD)」、30102B「肺癌表皮生長因子受體(EGFR)突變實驗室自行研發檢測(LDTs)」。
+ALK：30105B「間變性淋巴瘤激酶(ALK)突變體外診斷醫療器材檢測(IVD)-IHC法」。
+2.直接以NGS進行基因檢測，未先執行EGFR檢測者，依檢測結果，支付點數如下：
+EGFR陽性：比照30102B支付，檢測差額由保險對象自行負擔。
+EGFR陰性：以實際採用之NGS小套組或大套組支付。
+三陰性乳癌
+Triple-negative breast cancer
+局部晚期或轉移性三陰性乳癌，檢測時機為曾接受前導性、術後輔助性或轉移性化療者，或無法接受化療者。
+第二型人類表皮生長因子接受體(HER2)、雌激素受體(ER)以及黃體素受體(PR)均呈現陰性，始得申報本項。
+Germline BRCA1及BRCA2(全外顯子分析)
+BRCA1/2基因檢測(限使用血液檢體)
+早期三陰性乳癌，且須符合下列任一檢測時機：
+1.未接受前導性化療若腫瘤大於二公分或者具腋下淋巴結轉移者。
+2.接受前導性化療後未完全病理緩解者。
+第二型人類表皮生長因子接受體(HER2)、雌激素受體(ER)以及黃體素受體(PR)均呈現陰性，始得申報本項。
+Germline BRCA1及BRCA2(全外顯子分析)
+BRCA1/2基因檢測(限使用血液檢體)
+註：
+1.BRCA1/2全外顯子分析，包含Single nucleotide variants(SNV)、Insertion/deletions (Indels)等。
+2.應先執行之檢測項目：雌激素受體(ER)、黃體素受體(PR)、第二型人類表皮生長因子接受體(HER2)之免疫組織化學染色(IHC)：25012B「免疫組織化學染色(每一抗體)」，若HER2 IHC為2+，應加做HER2 FISH：12195B「Her-2/neu原位雜交」。
+卵巢癌、輸卵管癌、原發性腹膜癌Ovarian Cancer, fallopian tube cancer and primary peritoneal cancer
+晚期(FIGO Stage III or IV)且對第一線含鉑化療有治療反應者。
+無
+Germline或somatic
+BRCA1、BRCA2(全外顯子分析)。
+BRCA1/2基因檢測
+攝護腺癌
+Prostate cancer
+去勢療法無效之轉移性攝護腺癌，口服PARP抑制劑前。
+無
+Germline或somatic
+BRCA1、BRCA2 (全外顯子分析)
+BRCA1/2基因檢測
+胰臟癌
+Pancreatic cancer
+經多專科團隊評估無法接受根除手術者。
+無
+Germline BRCA1、BRCA2 (全外顯子分析)
+BRCA1/2基因檢測(限使用血液檢體)
+神經營養受體酪胺酸激酶(NTRK)基因融合實體腫瘤
+NTRK fusion-positive cancers
+1.病理診斷為嬰兒型纖維肉瘤(infantile fibrosarcoma)或分泌性癌(secretory carcinoma)，經多專科團隊評估無法接受根除手術者或已有轉移者。
+2.小於十八歲兒童之腦瘤患者，且須符合下列任一適應症：
+(1)小於三歲，位於大腦半球之高惡性度膠質細胞瘤(high-grade glioma)。
+(2)位於大腦半球，無法切除或復發之毛狀星細胞瘤(pilocytic astrocytoma)或神經節膠質細胞瘤(ganglioglioma)。
+(3)帶有H3K27M突變之瀰漫性中線神經膠質細胞瘤(diffuse midline glioma)。
+無
+NTRK1 (fusion)、NTRK2 (fusion)、NTRK3 (fusion)
+小套組(≦100個基因)
+大套組(＞100個基因)
+肝內膽管癌
+Intrahepatic cholangiocarcinoma
+經多專科團隊評估無法手術切除或已有轉移者。
+無
+FGFR1 (fusion)、FGFR2(fusion)、FGFR3 (fusion)、 BRAF(mutation)、 IDH1 (mutation)、IDH2(mutation) 、RET(fusion)
+小套組(≦100個基因)
+大套組(＞100個基因)
+甲狀腺癌(不包含髓質癌)
+Thyroid cancer (excluding medullary thyroid carcinoma)
+1.乳突性及濾泡性甲狀腺癌經碘131及抑制血管新生標靶藥物治療無效者。
+2.無分化甲狀腺癌經多專科團隊評估無法接受根除手術者。
+BRAF V600E
+BRAF(mutation nonV600E)、
+RET (fusion)
+小套組(≦100個基因)
+大套組(＞100個基因)
+甲狀腺髓質癌
+Medullary thyroid carcinoma
+甲狀腺髓質癌經多專科團隊評估無法接受根除手術者。
+無
+RET (mutation)
+小套組(≦100個基因)
+大套組(＞100個基因)
+附表2.2.2 血液腫瘤次世代基因定序(30304B-30305B)給付癌別列表
+癌別
+適應症 (符合下列任一條件)
+應先執行之檢測項目
+必須包含之檢測基因及變異別
+NGS檢測 (符合左列條件者，得申報下列任一NGS檢測)
+急性骨髓性白血病
+Acute myeloid leukemia
+1.新診斷急性骨髓性白血病。
+2.復發之急性骨髓性白血病。
+無
+FLT3 (mutation)
+ASXL1 (mutation)
+CEBPA (mutation)
+DNMT3A (mutation)
+IDH1 (mutation)
+IDH2 (mutation)
+JAK2 (mutation)
+KIT (mutation)
+KRAS (mutation)
+NPM1 (mutation)
+NRAS (mutation)
+PTPN11 (mutation)
+RUNX1 (mutation)
+SETBP1 (mutation)
+SF3B1 (mutation)
+SRSF2 (mutation)
+TET2 (mutation)
+TP53 (mutation)
+U2AF1 (mutation)
+WT1 (mutation)
+ZRSR2 (mutation)
+RUNX1-RUNX1T1 (fusion)
+PML-RARA (fusion)
+CBFB-MYH11 (fusion)
+BCR-ABL1 (fusion)
+小套組(≦100個基因)
+大套組(＞100個基因)
+高風險之骨髓分化不良症候群
+Myelodysplastic syndrome
+1.新診斷為高風險骨髓分化不良症候群 (定義為骨髓或周邊血液之芽細胞≧5%)。
+2.復發之高風險骨髓分化不良症候群 (定義為骨髓或周邊血液之芽細胞≧5%)。
+無
+FLT3 (mutation)
+ASXL1 (mutation)
+CEBPA (mutation)
+DNMT3A (mutation)
+IDH1 (mutation)
+IDH2 (mutation)
+JAK2 (mutation)
+KIT (mutation)
+KRAS (mutation)
+NPM1 (mutation)
+NRAS (mutation)
+PTPN11 (mutation)
+RUNX1 (mutation)
+SETBP1 (mutation)
+SF3B1 (mutation)
+SRSF2 (mutation)
+TET2 (mutation)
+TP53 (mutation)
+U2AF1 (mutation)
+WT1 (mutation)
+ZRSR2 (mutation)
+RUNX1-RUNX1T1 (fusion)
+PML-RARA (fusion)
+CBFB-MYH11 (fusion)
+BCR-ABL1 (fusion)
+小套組(≦100個基因)
+大套組(＞100個基因)
+急性淋巴芽細胞白血病
+(B細胞、T細胞)
+Acute lymphoblastic leukemia (B-ALL and T-ALL)
+1.新診斷之B細胞急性淋巴性白血病(B-cell acute lymphoblastic leukemia：B-ALL) 。
+2.復發之B細胞急性淋巴性白血病。
+無
+BCR::ABL1 (fusion)
+KMT2A (fusion, expression)
+ETV6::RUNX1 (fusion, expression)
+IKZF1 (mutation, deletion)
+PAX5 (mutation, fusion)
+TCF3::PBX1 (fusion)
+IGH::IL3 (fusion)
+iAMP21 (amplification)
+BCR::ABL1-like (ABL class) (fusion)
+BCR::ABL1-like (JAK-STAT class)(fusion)
+BCR::ABL1-like (NOS) (mutation)
+ZEB2 (mutation and fusion)
+IGH::CEBPE (fusion)
+MYC (fusion)
+DUX4 (fusion, expression)
+MEF2D (fusion)
+ZNF384/362 (fusion)
+NUTM1 (fusion)
+HLF (fusion)
+UBTF/CDX2(fusion, expression)
+TPMT (mutation)
+NUTP15 (mutation)
+小套組(≦100個基因)
+大套組(＞100個基因)
+1.新診斷之T細胞急性淋巴性白血病 (T-cell acute lymphoblastic leukemia : T-ALL) 。
+2.復發之T細胞急性淋巴性白血病。
+無
+SIL::TAL1 (fusion)
+KMT2A (fusion)
+CALM::AF10 (PICALM::MLLT10) (fusion)
+HOXA (fusion)
+SPI1 (fusion)
+TAL1 (fusion, mutation)
+TAL2 (fusion, mutation)
+TLX1 (fusion)
+TLX3 (fusion)
+NKX2 (fusion)
+LMO1 (fusion, mutation) 
+LMO2 (fusion, mutation)
+LYL1 (fusion)
+OL1G2 (fusion)
+BHLHB (fusion)
+小套組(≦100個基因)
+大套組(＞100個基因) 
+
+
+第二十六項 其他檢查Other Test (30501-30526)
+編號
+診療項目
+基
+層
+院
+所
+地
+區
+醫
+院
+區
+域
+醫
+院
+醫
+學
+中
+心
+支
+付
+點
+數
+30501C
+羊齒植物狀試驗(子宮頸) Fern test
+v
+v
+v
+v
+50
+30502C
+子宮頸黏液檢查 
+Post-coital test
+v
+v
+v
+v
+200
+30503B
+皮脂定量 Sebum quantitation
+
+v
+v
+v
+640
+30504B
+紫外線致紅劑測試 UV test
+
+v
+v
+v
+400
+30505B
+電氣解析術 LELC analysis
+
+v
+v
+v
+240
+30506B
+食道機能檢查 Manometry
+註：兒童加成。
+
+v
+v
+v
+1577
+30507B
+二十四小時食道酸鹼度測定
+24 hours PH esophageal monitoring
+註：內含一般材料費及單一使用拋棄式「二十四小時食道酸鹼度單次測量管」材料費。
+
+v
+v
+v
+3848
+30508C
+皮膚貼布試驗 Patch test
+v
+v
+v
+v
+35
+30509B
+水泡液抹片檢查及判讀 Tzanck test
+
+v
+v
+v
+180
+30510B
+APR後膀胱機能測定 
+Monometric study, bladder
+
+v
+v
+v
+360
+30511B
+高頻肛門電療法
+High-voltage electrogalvanic anal stimul
+
+v
+v
+v
+240
+30512C
+碳-13尿素呼氣檢查幽門螺旋桿菌感染
+13C-urea breath test for Helicobacter pylori infection
+v
+v
+v
+v
+1160
+
+註：
+適應症
+
+
+
+
+
+
+1.出血、幼兒、孕婦、衰老等不適合做胃鏡檢查之消化性潰瘍患者治療前之幽門螺旋桿菌感染鑑定檢查。
+2.證實為潰瘍併幽門螺旋桿菌感染患者為除菌治療後之療效確認與追蹤，第一次於潰瘍治療（含PPI藥物）停藥後一個月施行一次。
+3.不得同時申報13018C、28016C、28030C及13007C。
+4.本項檢查採包裹式給付，不論方法皆不得另行申請材料費用。
+
+
+
+
+
+30513C
+羊水酸鹼度反應 Amniotic PH
+v
+v
+v
+v
+15
+30514C
+嘔吐物潛血反應檢查 Vomit occult blood test
+v
+v
+v
+v
+20
+30515B
+肌膜隔間壓力測量
+Compatment pressure measurement
+
+v
+v
+v
+540
+30516B
+冷水試驗
+Cold Pressor Test
+
+v
+v
+v
+270
+30517C
+唾液分泌機能檢查 Saliva production
+v
+v
+v
+v
+55
+
+註：
+1.適應症為原發性或繼發性修格連氏症候群（Sjogren’s syndrom）。
+2.老年性唾腺功能低下症及放射治療後唾液腺功能低下症。
+
+
+
+
+
+30518C
+甲褶血管鏡檢查 Nailfold capillaroscopy
+註：
+1.需由免疫風濕科醫師判讀。
+2.同一病患一年至多檢查二次。
+3.申報時需附甲褶血管鏡檢查報告。
+v
+v
+v
+v
+590
+30519C
+棉墊試驗 Pad test
+v
+v
+v
+v
+358
+30521B
+乙醯膽鹼刺激皮膚發汗測試 
+Acetylcholine stimulated skin perspiration test
+註：
+適應症：
+1.皮膚排汗異常。
+2.異位性皮膚炎。
+3.交感神經病變或副交感神經病變、糖尿病引起神經病變、周邊神經病變、及其他不明原因之神經病變引發的排汗功能異常。
+
+v
+v
+v
+450
+30522C
+幽門桿菌糞便抗原檢查
+Helicobacter pylori stool antigen(HpSA)Test
+註：
+1.適應症
+(1)出血、幼兒、孕婦、衰老等不適合做胃鏡檢查之消化性潰瘍患者治療前之幽門螺旋桿菌感染鑑定檢查。
+(2)證實為潰瘍併幽門螺旋桿菌感染患者為除菌治療後之療效確認與追蹤，第一次於潰瘍治療(含PPI藥物)停藥後一個月施行一次。
+2.支付規範
+(1)不得同時申報13007C、13018C、28016C、28030C及30512C。
+(2)限試劑抗原屬台灣本土菌株者申報。
+(3)本項檢查採包裹式給付，不論方法皆不得另行申請材料費用。
+
+
+v
+v
+v
+v
+376
+30523B
+多管腔食道內阻抗及酸鹼度測定
+Multi-channel Intraluminal Impedance and pH monitor, MII-pH
+註：
+1.適應症:
+(1)難治之胃食道逆流症典型症狀（如持續的火燒心或胃酸逆流），經上消化道內視鏡或二十四小時食道酸鹼度測定檢查後，經藥物（如質子幫浦抑制劑，PPI）治療至少八週以上反應不佳者。 
+(2)胃食道逆流症非典型症狀（如不明原因胸痛、慢性咳嗽、氣喘、喉嚨異物感或聲音沙啞），經相關專科醫師診查後，經上消化道內視鏡或二十四小時食道酸鹼度測定檢查後，經藥物（如質子幫浦抑制劑，PPI）治療至少八週以上反應不佳者。 
+(3)未滿十九歲兒童及嬰兒胃食道逆流症典型症狀（如持續性嘔吐、火燒心或胃酸逆流），及胃食道逆流症之非典型症狀（如不明原因胸痛、慢性咳嗽、難治性兒童氣喘、喉嚨異物感、聲音沙啞、嬰幼兒呼吸中止或心搏過慢）。 
+(4)未滿十九歲兒童及嬰兒因吞嚥困難，進行胃造瘻術（gastrostomy）之術前評估。
+(5)吞嚥困難，經上消化道內視鏡檢查或食道攝影檢查評估後，疑似食道蠕動功能異常疾病（如食道弛緩不能症者）。 
+(6)胃食道逆流症患者接受外科逆流手術治療前之評估，及術後仍有符合前述症狀之追蹤。
+2.支付規範：
+(1)內含二十四小時食道阻抗酸鹼度單次用測量管。
+(2)限由消化內、消化外科、消化兒科及胸腔外科專科醫師執行。
+
+v
+v
+v
+13848
+30524B
+使用TRH注射液
+註：
+1.本項係診斷性用藥，限執行對應檢驗診療項目須併用藥品時申報。
+2.上述對應檢驗診療項目為09112C、09120C、27004C、27008B、27011B。
+
+
+v
+v
+v
+1316
+30525B
+使用LH-RH注射液
+註：
+1.本項係診斷性用藥，限執行對應檢驗診療項目須併用藥品時申報。
+2.上述對應檢驗診療項目為09125C、09126C、24027B、27008B、27013B、27014B。
+
+v
+v
+v
+1620
+30526B
+高解析度食道壓力檢查
+High Resolution Esophageal Manometry
+註：
+1.適應症：
+(1)吞嚥困難，經上消化道內視鏡檢查或食道攝影檢查評估後，疑似食道蠕動功能異常疾病（如食道弛緩不能症者)。
+(2)難治性之胃食道逆流症狀（持續的火燒心、胃酸逆流、不明原因胸痛、慢性咳嗽、氣喘、喉嚨異物感或聲音沙啞)，經相關專科醫師診查後，經上消化道內視鏡或二十四小時食道酸鹼度測定檢查後，且經藥物（如質子幫浦抑制劑，PPI）治療八週以上反應不佳者。
+(3)未滿十九歲兒童及嬰兒胃食道逆流症狀（如持續性嘔吐、火燒心或胃酸逆流、不明原因胸痛、慢性咳嗽、難治性兒童氣喘、喉嚨異物感、聲音沙啞、嬰幼兒呼吸中止或心搏過慢)，經相關專科醫師診治四週以上反應不佳者。
+(4)未滿十九歲兒童及嬰兒因吞嚥困難，進行胃造瘻術（gastrostomy）之術前評估。
+(5)食道蠕動功能異常疾病（如食道弛緩不能症）接受內視鏡治療或手術治療後之評估。
+(6)胃食道逆流症患者接受外科逆流手術治療前之評估，及術後仍有符合前述症狀之追蹤。
+2.禁忌症：
+(1)造成食道管腔狹窄或阻塞之良性食道疾病或惡性食道腫瘤。
+(2)食道破裂。
+(3)食道出血。
+(4)急性上呼吸道感染。
+3.支付規範：
+(1)執行頻率：每人每年限執行一次，如有接受內視鏡或手術治療者，則最多可執行二次。
+(2)限內科、外科、兒科、耳鼻喉科及復健科醫師執行。
+(3)不得同時申報30506B食道機能檢查。
+(4)內含一般材料費及「微晶片導管」材料費。
+
+v
+v
+v
+11663
+
+
+
+
+
+
+
+
+
+
+
+	      -第二部第二章第一節- PAGE 5 -
+
+
+
